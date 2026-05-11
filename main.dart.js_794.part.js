@@ -1,17 +1,17 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,C,D,E,F,B={
-jao(){return new B.bcN(null)},
+jan(){return new B.bcN(null)},
 bcN:function bcN(d){this.a=d},
 cMl:function cMl(d,e){var _=this
 _.d=d
 _.e=e
 _.c=_.a=null},
-hmQ:function hmQ(d){this.a=d},
 hmP:function hmP(d){this.a=d},
 hmO:function hmO(d){this.a=d},
-hmR:function hmR(d,e){this.a=d
+hmN:function hmN(d){this.a=d},
+hmQ:function hmQ(d,e){this.a=d
 this.b=e},
-hmS:function hmS(d){this.a=d},
+hmR:function hmR(d){this.a=d},
 bQo:function bQo(d,e,f){this.c=d
 this.d=e
 this.a=f},
@@ -39,8 +39,8 @@ e_c:function e_c(){},
 e_b:function e_b(d){this.a=d},
 e_a:function e_a(d){this.a=d},
 c_k:function c_k(d){this.a=d},
-erl:function erl(d){this.a=d},
-k0l(d){if(d.length>50)return A.e("toLong",null,null,!0)
+erk:function erk(d){this.a=d},
+k0j(d){if(d.length>50)return A.e("toLong",null,null,!0)
 else return null}}
 J=c[1]
 A=c[0]
@@ -63,13 +63,13 @@ x.e0J()
 x.aJ()},
 l(d){var x=null
 A.bR(d,!0,y.q)
-return A.cn(A.dx(A.b([A.lU(x,C.cE,A.e("storyExplain",x,x,!0))],y.p),x,x,x,x,!1,x,!0,A.w(A.e("story",x,x,!0),x,!1,!1,x,!1,x,!1,x,!1,!1,!1,!1,1,x,!1,!1,!1,16,x,x,!1,""),!0),x,new A.aei(new B.hmQ(this),x),x,x,!1,x,23,!1,!1,x,!0,!0)},
+return A.cn(A.dx(A.b([A.lU(x,C.cE,A.e("storyExplain",x,x,!0))],y.p),x,x,x,x,!1,x,!0,A.w(A.e("story",x,x,!0),x,!1,!1,x,!1,x,!1,x,!1,!1,!1,!1,1,x,!1,!1,!1,16,x,x,!1,""),!0),x,new A.aei(new B.hmP(this),x),x,x,!1,x,23,!1,!1,x,!0,!0)},
 dkr(){var x=A.b([],y.o)
-$.C().a.ry.d.u(0,new B.hmR(this,x))
+$.C().a.ry.d.u(0,new B.hmQ(this,x))
 return x},
 e0J(){var x=A.ma($.C().a.ry)
 x.a=C.iv
-$.aK.rx$.push(new B.hmS(x))}}
+$.aK.rx$.push(new B.hmR(x))}}
 B.bQo.prototype={
 l(d){return new A.z(this.c,new B.e_1(this),null,null,y.z)},
 czZ(d){var x=null,w=A.q(d).ax,v=w.CW
@@ -124,7 +124,7 @@ v.toString
 w=A.bL(t,t,t,v.bK(A.q(d).ax.k3.a0(0.7),13)," "+w)
 v=A.e("upgradeTheSub",t,t,!0)
 u=A.kH(t,-1,t)
-u.a6=new B.erl(d)
+u.a6=new B.erk(d)
 r=A.b([x,w,A.bL(t,t,u,A.q(d).ok.z.bK(C.bw,13)," "+v)],r)}return A.kU(t,t,t,C.bH,t,t,!0,t,A.bL(r,t,t,s,t),C.aT,t,t,C.bX,C.aY)},
 xd(d){var x=null,w=A.e("deleteUntilTheLimit",x,x,!0),v=$.C().a.y1.h(0,C.iy)
 v.toString
@@ -134,27 +134,27 @@ v=A.q(d).ok.z
 v.toString
 return A.bL(x,x,x,v.bK(A.q(d).ax.k3.a0(0.7),13),w)}}
 var z=a.updateTypes(["n?(n?)"])
-B.hmQ.prototype={
+B.hmP.prototype={
 $2(d,e){var x,w,v,u=null
 if($.ct().z.a===0){x=A.e("noStories",u,u,!0)
 w=A.e("storiesExplain",u,u,!0)
-x=A.aw(new A.I(E.HX,F.nE(u,"assets/animations/story.json.zip",u,u,$.af?C.aI:u,u,u,w,x),u),1)}else x=A.aw(A.e8($.aI().ax,A.b([new B.c_k(u),new B.bQr(u),new A.m(u,28,u,u),new A.ik(new B.hmO(this.a),u)],y.p),!0,C.b1,u,u,!1),1)
+x=A.aw(new A.I(E.HX,F.nE(u,"assets/animations/story.json.zip",u,u,$.af?C.aI:u,u,u,w,x),u),1)}else x=A.aw(A.e8($.aI().ax,A.b([new B.c_k(u),new B.bQr(u),new A.m(u,28,u,u),new A.ik(new B.hmN(this.a),u)],y.p),!0,C.b1,u,u,!1),1)
 w=this.a
 v=w.e
 w=w.d
-return A.bJ(C.bh,A.G(A.b([x,new B.bQp(v,w,$.C().a.ry.d.a,u),new B.bQo(v,w,u)],y.p),C.f,u,C.d,C.j,u,C.o),C.K,!1,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,new B.hmP(d),u,u,u,u,u,u,u,!1,C.af)},
+return A.bJ(C.bh,A.G(A.b([x,new B.bQp(v,w,$.C().a.ry.d.a,u),new B.bQo(v,w,u)],y.p),C.f,u,C.d,C.j,u,C.o),C.K,!1,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,u,new B.hmO(d),u,u,u,u,u,u,u,!1,C.af)},
 $S:2634}
-B.hmP.prototype={
+B.hmO.prototype={
 $0(){return A.cR(this.a)},
 $S:0}
-B.hmO.prototype={
+B.hmN.prototype={
 $1(d){return new A.azR(this.a.dkr(),$.aI().ax,null)},
 $S:2635}
-B.hmR.prototype={
+B.hmQ.prototype={
 $2(d,e){var x=this.b,w=$.ct().z,v=$.C().a.ry,u=this.a
-x.push(A.iA_(w,!0,u.d,x.length,u.e,e,v.d))},
+x.push(A.izY(w,!0,u.d,x.length,u.e,e,v.d))},
 $S:316}
-B.hmS.prototype={
+B.hmR.prototype={
 $1(d){return this.bVO(d)},
 bVO(d){var x=0,w=A.l(y.H),v=this
 var $async$$1=A.h(function(e,f){if(e===1)return A.i(f,w)
@@ -229,7 +229,7 @@ for(;;)switch(x){case 0:u=$.aI().ax?$.b8.n():v.a
 t=A.e("storyViewExplain",null,null,!0)
 s=A.e("storyTitle",null,null,!0)
 x=2
-return A.d(A.j_(!0,!0,null,null,u,null,t,A.e("gallery",null,null,!0),$.C().a.ry.r,null,B.k22(),8,null,new B.e_a(u),null,!0,null,s,C.aJ,!0,null),$async$$0)
+return A.d(A.j_(!0,!0,null,null,u,null,t,A.e("gallery",null,null,!0),$.C().a.ry.r,null,B.k20(),8,null,new B.e_a(u),null,!0,null,s,C.aJ,!0,null),$async$$0)
 case 2:return A.j(null,w)}})
 return A.k($async$$0,w)},
 $S:3}
@@ -247,17 +247,17 @@ break
 case 1:return A.j(v,w)}})
 return A.k($async$$1,w)},
 $S:25}
-B.erl.prototype={
+B.erk.prototype={
 $0(){return A.jE(this.a,A.e("upgradeTheSubAndGetMoreStories",null,null,!0),!1,null,!0)},
 $S:0};(function installTearOffs(){var x=a._static_1
-x(B,"k22","k0l",0)})();(function inheritance(){var x=a.inherit,w=a.inheritMany
+x(B,"k20","k0j",0)})();(function inheritance(){var x=a.inherit,w=a.inheritMany
 x(B.bcN,A.X)
 x(B.cMl,A.Y)
-w(A.bZ,[B.hmQ,B.hmR])
-w(A.aN,[B.hmP,B.dZY,B.dZZ,B.e_2,B.e_3,B.e_c,B.e_b,B.erl])
-w(A.aO,[B.hmO,B.hmS,B.e_1,B.e_0,B.e__,B.e_7,B.e_6,B.e_4,B.e_5,B.e_a])
+w(A.bZ,[B.hmP,B.hmQ])
+w(A.aN,[B.hmO,B.dZY,B.dZZ,B.e_2,B.e_3,B.e_c,B.e_b,B.erk])
+w(A.aO,[B.hmN,B.hmR,B.e_1,B.e_0,B.e__,B.e_7,B.e_6,B.e_4,B.e_5,B.e_a])
 w(A.r,[B.bQo,B.bQp,B.bQr,B.c_k])})()
 A.aG(b.typeUniverse,JSON.parse('{"bcN":{"X":[],"f":[]},"cMl":{"Y":["bcN"]},"bQo":{"r":[],"f":[]},"bQp":{"r":[],"f":[]},"bQr":{"r":[],"f":[]},"c_k":{"r":[],"f":[]}}'))
 var y=(function rtii(){var x=A.t
 return{q:x("mP"),R:x("F<tb>"),D:x("F<dR>"),o:x("F<aqa>"),p:x("F<f>"),P:x("aL"),A:x("np"),N:x("n"),y:x("z<D<n,np>>"),z:x("z<J>"),B:x("O<D<n,np>>"),f:x("O<J>"),v:x("J"),H:x("~")}})()};
-(a=>{a["9Sec8Or62MNhqjyARJ/YFGOIcjQ="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["xkTEArGbuLLyhXyzilFxoBnpBm4="]=a.current})($__dart_deferred_initializers__);

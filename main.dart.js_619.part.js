@@ -1,6 +1,6 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var J,B,A,C={
-iWv(d,e){return new C.bEK(d,e,null)},
+iWt(d,e){return new C.bEK(d,e,null)},
 bEK:function bEK(d,e,f){this.c=d
 this.d=e
 this.a=f},
@@ -71,10 +71,10 @@ q=p==null?q.k2:p
 p=this.a
 x=this.b
 w=this.c
-v=B.cH(!1,B.q(d).ax.k2,r,!1,r,$.iR4().h(0,w),!0,!1,!0,!1,r,r,r,r,!0,new C.dvp(p,x,w),!1,r,!1,r,r,0.55,r,r,23,r,!1,r,r)
-u=$.imA().h(0,w)
+v=B.cH(!1,B.q(d).ax.k2,r,!1,r,$.iR2().h(0,w),!0,!1,!0,!1,r,r,r,r,!0,new C.dvp(p,x,w),!1,r,!1,r,r,0.55,r,r,23,r,!1,r,r)
+u=$.imz().h(0,w)
 u=B.w(B.e(u==null?"":u,r,r,!0),r,!1,!1,r,!1,r,!1,r,!1,!1,!1,!1,1,r,!1,!1,!1,16,r,r,!1,"")
-t=$.imA().h(0,w)
+t=$.imz().h(0,w)
 if(t==null)t=""
 s=y.e
 return B.a4(r,r,r,r,B.bG(new B.I(new B.x(15,10,15,10),B.T(B.b([v,new B.m(10,r,r,r),B.aw(B.G(B.b([u,B.w(B.e(t+(p.c?"AfterCreateExplain":"OptionExplain"),r,r,!0),r,!1,!1,r,!1,r,!1,r,!1,!1,!1,!1,0.7,r,!1,!1,!1,13,r,r,!1,"")],s),A.a7,r,A.d,A.j,r,A.o),1),B.fm(r,!1,r,r,r,!1,r,r,new C.dvq(p,x,w),r,r,new B.eb(0,A.ab),r,r,!1,J.dU(x.a,w),r)],s),A.f,r,A.d,A.j,0,r,r),r),r,!1,!1,!1,r,r,new C.dvr(p,x,w),r,r),A.p,q,r,0,!1,r,r,r,new B.x(0,10,0,0),!1,r,r,r,r,r,!1,!1,!1,r)},
@@ -95,6 +95,6 @@ B.aG(b.typeUniverse,JSON.parse('{"bEK":{"r":[],"f":[]}}'))
 var y={e:B.t("F<f>"),j:B.t("te"),m:B.t("z<aZ<te>>"),o:B.t("O<aZ<te>>")};(function constants(){var x=a.makeConstList
 D.cRS=x([A.CZ,A.yk,A.D_,A.D0,A.D1,A.yl,A.D2,A.D3],B.t("F<te>"))
 D.dIi=new B.dg([A.D3,A.CZ,A.D_,A.D0,A.D1],B.t("dg<te>"))})();(function lazyInitializers(){var x=a.lazy
-x($,"kiU","imA",()=>B.p([A.CZ,"workTime",A.yk,"treatments",A.D_,"notifications",A.D0,"workSettings",A.D1,"scheduleSettings",A.D3,"tools",A.D2,"discounts",A.yl,"clients"],y.j,B.t("n")))
-x($,"kiT","iR4",()=>B.p([A.CZ,A.eS,A.yk,A.xk,A.D_,A.fN,A.D0,A.xn,A.D1,A.mv,A.yl,A.eB,A.D3,A.Ji,A.D2,A.C0],y.j,B.t("am")))})()};
-(a=>{a["8ml2ONBEHD085fMJI5ll8slq8Dw="]=a.current})($__dart_deferred_initializers__);
+x($,"kiS","imz",()=>B.p([A.CZ,"workTime",A.yk,"treatments",A.D_,"notifications",A.D0,"workSettings",A.D1,"scheduleSettings",A.D3,"tools",A.D2,"discounts",A.yl,"clients"],y.j,B.t("n")))
+x($,"kiR","iR2",()=>B.p([A.CZ,A.eS,A.yk,A.xk,A.D_,A.fN,A.D0,A.xn,A.D1,A.mv,A.yl,A.eB,A.D3,A.Ji,A.D2,A.C0],y.j,B.t("am")))})()};
+(a=>{a["Ba0Jbj1psaEzG3IwjbqBGDtHkyM="]=a.current})($__dart_deferred_initializers__);

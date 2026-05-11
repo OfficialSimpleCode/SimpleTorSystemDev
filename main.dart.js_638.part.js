@@ -1,6 +1,6 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,C,F,G,H,D,I,K,B={
-iWg(d,e,f){return new B.bE3(d,e,f,null)},
+iWe(d,e,f){return new B.bE3(d,e,f,null)},
 bE3:function bE3(d,e,f,g){var _=this
 _.c=d
 _.d=e
@@ -67,7 +67,7 @@ break
 case 3:u=$.aI().at
 A.aE("companyInvoicesListPage")
 x=7
-return A.d(A.fk(K.iWf(d),e,u),$async$cYk)
+return A.d(A.fk(K.iWd(d),e,u),$async$cYk)
 case 7:v=g
 x=1
 break
@@ -85,7 +85,7 @@ break
 case 3:u=$.aI().at
 A.aE("companyTransactionListPage")
 x=7
-return A.d(A.fk(I.iWh(d),e,u),$async$cYl)
+return A.d(A.fk(I.iWf(d),e,u),$async$cYl)
 case 7:v=g
 x=1
 break
@@ -289,4 +289,4 @@ x(A.aN,[B.dt7,B.dtl,B.dtm,B.dtn,B.dto,B.dQB,B.dtz,B.dtA])})()
 A.aG(b.typeUniverse,JSON.parse('{"bE3":{"r":[],"f":[]},"bDZ":{"r":[],"f":[]},"bE4":{"r":[],"f":[]},"bE5":{"r":[],"f":[]},"bNB":{"r":[],"f":[]},"c8V":{"r":[],"f":[]},"bEa":{"r":[],"f":[]}}'))
 var y=(function rtii(){var x=A.t
 return{D:x("F<dR>"),p:x("F<f>"),c:x("z<iA>"),W:x("z<D<n,l8>>"),A:x("z<J>"),i:x("O<D<n,l8>>"),f:x("O<J>"),l:x("f"),y:x("J"),z:x("@"),H:x("~")}})()};
-(a=>{a["f1H1cx2DJGzMZA8fJ6fkctAhd+c="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["Uci4t2qAIhKNQaO3QZ+Od/mp2U0="]=a.current})($__dart_deferred_initializers__);

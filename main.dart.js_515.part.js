@@ -1,6 +1,6 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B={
-ivo(){return new B.awB(null)},
+ivm(){return new B.awB(null)},
 awB:function awB(d){this.a=d}},C
 A=c[0]
 B=a.updateHolder(c[325],B)
@@ -11,4 +11,4 @@ return A.cn(A.dx(y,y,y,y,y,!1,y,!0,A.w(A.e("messageHistoryPage",y,y,!0),y,!1,!1,
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
 y(B.awB,A.r)})()
 A.aG(b.typeUniverse,JSON.parse('{"awB":{"r":[],"f":[]}}'))};
-(a=>{a["r005zW19iwclvpx8oFaXcHQiRgg="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["xiUk3BYeuwtSy2bXR6rfUZmOl98="]=a.current})($__dart_deferred_initializers__);

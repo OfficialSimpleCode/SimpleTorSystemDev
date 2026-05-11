@@ -1,18 +1,18 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,B,F,G,H,E,I,C={
-ip2(d,e){return new C.aUP(d,e,null)},
+ip1(d,e){return new C.aUP(d,e,null)},
 aUP:function aUP(d,e,f){this.c=d
 this.d=e
 this.a=f},
 cqq:function cqq(){this.c=this.a=null},
-fKv:function fKv(d){this.a=d},
-hDm(d){var x=0,w=A.l(y.v),v,u,t,s,r,q
-var $async$hDm=A.h(function(e,f){if(e===1)return A.i(f,w)
+fKu:function fKu(d){this.a=d},
+hDl(d){var x=0,w=A.l(y.v),v,u,t,s,r,q
+var $async$hDl=A.h(function(e,f){if(e===1)return A.i(f,w)
 for(;;)switch(x){case 0:q=$.jt()
 if(q.a==null){x=1
 break}u=A.Q(d,!1)
 x=3
-return A.d(A.aS("assets/animations/success_animation.json.zip",d,!1,B.V,C.cVR(d),A.e("confirmedBooking",null,null,!0),null,u,!0,!0,!0,new C.hDn(),!1,B.a_,!1).ap(),$async$hDm)
+return A.d(A.aS("assets/animations/success_animation.json.zip",d,!1,B.V,C.cVR(d),A.e("confirmedBooking",null,null,!0),null,u,!0,!0,!0,new C.hDm(),!1,B.a_,!1).ap(),$async$hDl)
 case 3:t=f
 if(!J.M(t,!0)){u=q.w
 u===$&&A.a()
@@ -34,7 +34,7 @@ v=t
 x=1
 break
 case 1:return A.j(v,w)}})
-return A.k($async$hDm,w)},
+return A.k($async$hDl,w)},
 cVR(d){var x=0,w=A.l(y.e),v,u,t,s,r
 var $async$cVR=A.h(function(e,f){if(e===1)return A.i(f,w)
 for(;;)switch(x){case 0:s=$.jt()
@@ -58,7 +58,7 @@ v=!1
 x=1
 break}t=s.a
 t.toString
-if(!A.iqp(t,r)){$.dd().b=B.Iq
+if(!A.iqo(t,r)){$.dd().b=B.Iq
 v=!1
 x=1
 break}u=$.iK()
@@ -73,7 +73,7 @@ x=1
 break
 case 1:return A.j(v,w)}})
 return A.k($async$cVR,w)},
-hDn:function hDn(){},
+hDm:function hDm(){},
 bzt:function bzt(d){this.a=d},
 bwg:function bwg(d){this.a=d},
 d4c:function d4c(d,e,f){this.a=d
@@ -88,7 +88,7 @@ ddm:function ddm(){},
 bEy:function bEy(d){this.a=d},
 bzs:function bzs(d){this.a=d},
 bYv:function bYv(d){this.a=d},
-ekI:function ekI(d,e){this.a=d
+ekH:function ekH(d,e){this.a=d
 this.b=e},
 bzp:function bzp(d){this.a=d},
 ddh:function ddh(d,e){this.a=d
@@ -121,7 +121,7 @@ w.bGu(v,x.c,B.Sb,x.d)
 this.ag()},
 l(d){var x=$.jt().r
 x===$&&A.a()
-return new A.z(x,new C.fKv(this),null,null,y.m)},
+return new A.z(x,new C.fKu(this),null,null,y.m)},
 gcR(d){var x=null,w=$.jt(),v=w.r
 v===$&&A.a()
 if(v.a){v=w.f
@@ -170,7 +170,7 @@ l(d){var x=null,w=$.jt().r
 w===$&&A.a()
 return new A.bY(w.a?this.byT(d):A.f_(x,this.byT(d),x,1,x,x,x,x,x,10),!0,!0,x,B.d,x)},
 byT(d){var x=$.jt().a
-if(x==null)x=$.imb()
+if(x==null)x=$.ima()
 return new E.bb9(x,A.q(d).ax.k2,null)}}
 C.bzv.prototype={
 l(d){var x=null,w=$.jt(),v=w.r
@@ -247,7 +247,7 @@ l(d){var x=this,w=null
 if(x.glO().Z!=null)return new A.m(w,w,w,w)
 return!x.glO().cN?x.avB(d):A.f_(w,x.avB(d),w,1,w,w,w,w,w,10)},
 avB(d){var x=null,w=A.q(d),v=A.e("moreAction",x,x,!0)
-return A.a6(!0,B.q,x,B.J,x,x,A.aP(!1,!0,!1,B.d,B.f,x,!0,!0,!0,!1,x,x,!1,!0,!0,!1,!0,new C.ekI(this,d),!1,new A.x(15,10,15,10),new A.ag(D.bVZ,24,!0,1,!1,!1,!1,x,x),5,x,x,!1,A.e("moreActionBookingPreviewExplain",x,x,!0),!1,x,x,x,13,B.ey,x,x,v,15,x,0,x),w.ax.k2,0,"",!1,x,x,B.d,!1,x,new A.x(0,15,0,0),!1,!0,x,x,x,x,x,x,0.55,x,x,x)},
+return A.a6(!0,B.q,x,B.J,x,x,A.aP(!1,!0,!1,B.d,B.f,x,!0,!0,!0,!1,x,x,!1,!0,!0,!1,!0,new C.ekH(this,d),!1,new A.x(15,10,15,10),new A.ag(D.bVZ,24,!0,1,!1,!1,!1,x,x),5,x,x,!1,A.e("moreActionBookingPreviewExplain",x,x,!0),!1,x,x,x,13,B.ey,x,x,v,15,x,0,x),w.ax.k2,0,"",!1,x,x,B.d,!1,x,new A.x(0,15,0,0),!1,!0,x,x,x,x,x,x,0.55,x,x,x)},
 B(d){return this.dLh(d)},
 dLh(d){var x=0,w=A.l(y.v),v=this,u,t,s
 var $async$B=A.h(function(e,f){if(e===1)return A.i(f,w)
@@ -329,11 +329,11 @@ return A.a6(!0,B.q,w,B.J,w,w,new A.I(K.If,A.e0(!1,w,!0,!1,w,!1,!0,!1,0.7,B.b0,!1
 gb_(d){var x=this.c,w=$.C().b.h(0,x.e)
 return w==null?x.k3:w.aN}}
 var z=a.updateTypes([])
-C.fKv.prototype={
+C.fKu.prototype={
 $3(d,e,f){var x=null,w=A.e("bookingDetails",x,x,!0),v=$.jt().a
-return A.cn(G.aj9(d,x,w,v==null?x:"https://simpletor.app/"+v.gaHc()),x,this.a.gcR(0),x,x,!1,x,23,!1,!1,x,!0,!0)},
+return A.cn(G.aj8(d,x,w,v==null?x:"https://simpletor.app/"+v.gaHc()),x,this.a.gcR(0),x,x,!1,x,23,!1,!1,x,!0,!0)},
 $S:220}
-C.hDn.prototype={
+C.hDm.prototype={
 $0(){var x=$.dd().b
 return x!==B.Iq&&x!==D.Yc},
 $S:7}
@@ -354,7 +354,7 @@ C.ddl.prototype={
 $0(){var x=0,w=A.l(y.v),v,u=this
 var $async$$0=A.h(function(d,e){if(d===1)return A.i(e,w)
 for(;;)switch(x){case 0:x=3
-return A.d(C.hDm(u.a),$async$$0)
+return A.d(C.hDl(u.a),$async$$0)
 case 3:v=e
 x=1
 break
@@ -364,7 +364,7 @@ $S:2}
 C.ddm.prototype={
 $0(){},
 $S:4}
-C.ekI.prototype={
+C.ekH.prototype={
 $0(){var x=0,w=A.l(y.v),v,u=this
 var $async$$0=A.h(function(d,e){if(d===1)return A.i(e,w)
 for(;;)switch(x){case 0:x=3
@@ -388,10 +388,10 @@ return A.k($async$$0,w)},
 $S:2};(function inheritance(){var x=a.inherit,w=a.inheritMany
 x(C.aUP,A.X)
 x(C.cqq,A.Y)
-w(A.aO,[C.fKv,C.ddk])
-w(A.aN,[C.hDn,C.d4c,C.ddl,C.ddm,C.ekI,C.ddh])
+w(A.aO,[C.fKu,C.ddk])
+w(A.aN,[C.hDm,C.d4c,C.ddl,C.ddm,C.ekH,C.ddh])
 w(A.r,[C.bzt,C.bwg,C.bzr,C.bzv,C.bzq,C.bEy,C.bzs,C.bYv,C.bzp,C.bzu,C.bQw])})()
 A.aG(b.typeUniverse,JSON.parse('{"aUP":{"X":[],"f":[]},"cqq":{"Y":["aUP"]},"bzt":{"r":[],"f":[]},"bwg":{"r":[],"f":[]},"bzr":{"r":[],"f":[]},"bzv":{"r":[],"f":[]},"bzq":{"r":[],"f":[]},"bEy":{"r":[],"f":[]},"bzs":{"r":[],"f":[]},"bYv":{"r":[],"f":[]},"bzp":{"r":[],"f":[]},"bzu":{"r":[],"f":[]},"bQw":{"r":[],"f":[]}}'))
 var y={q:A.t("n0"),u:A.t("F<f>"),m:A.t("z<J>"),y:A.t("O<cW>"),e:A.t("J"),b:A.t("@"),B:A.t("B"),v:A.t("~")};(function constants(){D.Yc=new A.cI(128,"cantConfirmArrivalWorkerNotAllow")
 D.bVZ=new A.am(63706,"MaterialIcons",null,!1)})()};
-(a=>{a["fnd+hic/pENQstgdu9xdbiQcUQQ="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["87Cg/hR/rfQEAGE2DFCoCWAE6Dk="]=a.current})($__dart_deferred_initializers__);

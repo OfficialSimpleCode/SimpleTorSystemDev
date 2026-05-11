@@ -1,10 +1,10 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B,D,E,C,F,G,H,A={
-iB_(d){return new A.aqu(d,null)},
+iAY(d){return new A.aqu(d,null)},
 aqu:function aqu(d,e){this.c=d
 this.a=e},
 cOl:function cOl(){this.c=this.a=null},
-hpo:function hpo(d){this.a=d},
+hpn:function hpn(d){this.a=d},
 ch_:function ch_(d){this.a=d}}
 B=c[0]
 D=c[2]
@@ -25,7 +25,7 @@ x.azw(w,this.a.c,D.Sd)
 this.ag()},
 l(d){var x=$.jt().r
 x===$&&B.a()
-return new B.z(x,new A.hpo(this),null,null,y.d)},
+return new B.z(x,new A.hpn(this),null,null,y.d)},
 gcR(d){var x=null,w=$.jt(),v=w.r
 v===$&&B.a()
 if(v.a){v=w.f
@@ -38,16 +38,16 @@ return this.gxP().CW?B.f_(x,this.gbS(0),x,1,x,x,x,x,x,10):this.gbS(0)},
 gbS(d){var x=this,w=null
 return B.e8(!1,B.b([new B.m(w,15,w,w),new C.beu(x.gxP(),w),new C.beD(x.gxP(),w),new C.bew(x.gxP(),w),new C.beE(x.gxP(),!0,w),new C.bet(x.gxP(),!0,w),new C.bex(x.gxP(),w),new C.bez(x.gxP(),w),new C.beC(x.gxP(),w),new C.beA(x.gxP(),w),new C.beB(x.gxP(),!0,w),new C.bev(x.gxP(),w),new C.bey(x.gxP(),!0,w),new C.b8W(x.gxP(),!0,w)],y.e),!0,D.b1,w,w,!1)},
 gxP(){var x=$.jt().b
-return x==null?G.ieN():x}}
+return x==null?G.ieM():x}}
 var z=a.updateTypes([])
-A.hpo.prototype={
+A.hpn.prototype={
 $3(d,e,f){var x=null,w=B.e("paymentDetails",x,x,!0),v=$.jt().b
-return B.cn(E.aj9(d,x,w,v==null?x:"https://simpletor.app/transaction/"+v.b),x,this.a.gcR(0),x,x,!1,x,23,!1,!1,x,!0,!0)},
+return B.cn(E.aj8(d,x,w,v==null?x:"https://simpletor.app/transaction/"+v.b),x,this.a.gcR(0),x,x,!1,x,23,!1,!1,x,!0,!0)},
 $S:220};(function inheritance(){var x=a.inherit
 x(A.aqu,B.X)
 x(A.cOl,B.Y)
-x(A.hpo,B.aO)
+x(A.hpn,B.aO)
 x(A.ch_,B.r)})()
 B.aG(b.typeUniverse,JSON.parse('{"aqu":{"X":[],"f":[]},"cOl":{"Y":["aqu"]},"ch_":{"r":[],"f":[]}}'))
 var y={e:B.t("F<f>"),d:B.t("z<J>")}};
-(a=>{a["tiMpueIK9xFPqm08Ep8vIyFQiTE="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["UMqkWGzlrHIYQ7c11tqWSQOFENo="]=a.current})($__dart_deferred_initializers__);

@@ -1,9 +1,9 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,C,B={
-iG0(d,e,f){var y,x,w,v,u={},t=$.eg().a.h(0,e)
+iFZ(d,e,f){var y,x,w,v,u={},t=$.eg().a.h(0,e)
 t.toString
 y=u.a=0
-J.a_(f,new B.hzn(u))
+J.a_(f,new B.hzm(u))
 x=u.a
 w=t.k3
 w===$&&A.a()
@@ -14,15 +14,15 @@ v=x+t
 u.a=v
 if(v>1440){new A.U(A.e("theTotalDurationOfTheTreatmentOverDay",null,null,!1),C.t,C.v,C.A,d).D()
 return!1}return!0},
-hzn:function hzn(d){this.a=d}}
+hzm:function hzm(d){this.a=d}}
 J=c[1]
 A=c[0]
 C=c[2]
 B=a.updateHolder(c[416],B)
 var z=a.updateTypes([])
-B.hzn.prototype={
+B.hzm.prototype={
 $2(d,e){var y=this.a
 y.a=y.a+(e.a+e.b)},
 $S:131};(function inheritance(){var y=a.inherit
-y(B.hzn,A.bZ)})()};
-(a=>{a["DzMWlh3AXHXH/YLmCCqdfnoa74o="]=a.current})($__dart_deferred_initializers__);
+y(B.hzm,A.bZ)})()};
+(a=>{a["WxajAK6NWSXbOER1BHhMkFT+gRA="]=a.current})($__dart_deferred_initializers__);

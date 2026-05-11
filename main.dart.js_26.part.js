@@ -1,6 +1,6 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,C,F,B={
-iWA(d,e){return new B.aX7(e,d,null)},
+iWy(d,e){return new B.aX7(e,d,null)},
 aX7:function aX7(d,e,f){this.c=d
 this.d=e
 this.a=f},
@@ -56,7 +56,7 @@ this.b=e
 this.c=f},
 cb1:function cb1(d,e){this.c=d
 this.a=e},
-f1m:function f1m(d,e){this.a=d
+f1l:function f1l(d,e){this.a=d
 this.b=e},
 arU(d,e,f){var w=0,v=A.l(x.z),u,t
 var $async$arU=A.h(function(g,h){if(g===1)return A.i(h,v)
@@ -68,13 +68,13 @@ case 3:w=$.af?7:9
 break
 case 7:A.aE("workerPermissionPage")
 w=10
-return A.d(A.fj(null,E.iqx(e,f),d,null),$async$arU)
+return A.d(A.fj(null,E.iqw(e,f),d,null),$async$arU)
 case 10:t=h
 w=8
 break
 case 9:A.aE("workerPermissionPage")
 w=11
-return A.d(A.j9(d,null,E.iqx(e,f)),$async$arU)
+return A.d(A.j9(d,null,E.iqw(e,f)),$async$arU)
 case 11:t=h
 case 8:u=t
 w=1
@@ -93,7 +93,7 @@ u=null
 w=1
 break}A.aE("workerRolePickerSheet")
 w=4
-return A.d(A.cc(d,0.85,!1,0.7,!1,null,!0,!0,!0,F.iWz(e,f),1,!0).bm(),$async$cYq)
+return A.d(A.cc(d,0.85,!1,0.7,!1,null,!0,!0,!0,F.iWx(e,f),1,!0).bm(),$async$cYq)
 case 4:u=h
 w=1
 break
@@ -147,7 +147,7 @@ break}s.b.u(0,new B.dwu(t))
 r=s.a.CW
 r.M(0,q.f===C.dl?q.b:q.c)
 if(q.c===$.au().a.a)s.c=q
-A.ibY(s.a,$.dX().b.Q,s.b)
+A.ibX(s.a,$.dX().b.Q,s.b)
 A.bM(C.aV)
 A.bM(C.b_)
 A.cy(d,null)
@@ -272,7 +272,7 @@ t=A.b4U(C.Ik,r,new A.bAT(u.p4,u.k3,t))
 u=A.q(d).ax
 s=u.aK
 u=s==null?u.k2:s
-q.push(G.izg(u,v,t,new A.x(12,12,12,12),!0,26,w,p))}return new A.I(D.bK8,new A.aM(C.fd,r,r,A.eu(C.ax,q,C.b9,C.ai,C.tj,0,0,r),r),r)}}
+q.push(G.ize(u,v,t,new A.x(12,12,12,12),!0,26,w,p))}return new A.I(D.bK8,new A.aM(C.fd,r,r,A.eu(C.ax,q,C.b9,C.ai,C.tj,0,0,r),r),r)}}
 B.bF8.prototype={
 l(d){var w,v=null,u=A.q(d).ax,t=u.CW
 u=t==null?u.y:t
@@ -300,7 +300,7 @@ return w}}
 B.cb1.prototype={
 l(d){var w=null,v=A.q(d).ax,u=v.CW
 v=u==null?v.y:u
-return A.a6(!0,C.q,w,A.b([A.ai(w,!1,!0,!0,!1,C.E,w,!0,!1,C.jq,19,!0,w,!1,!1,w,w,w,"shareLink",!1,!0,!1,!0,w,w,w,new B.f1m(this,d),!1,w,w,!0,!0,w,w,!0,w,w,w,w,!0,!0,new A.ZQ("shareCrewMemberInviteLinkExplain",!0,!0,w,w),w,w,w,!0,w,0.3)],x.D),w,w,w,v,0,"",!1,w,w,C.d,!1,w,w,!0,!0,w,w,w,w,w,w,0.55,w,w,w)}}
+return A.a6(!0,C.q,w,A.b([A.ai(w,!1,!0,!0,!1,C.E,w,!0,!1,C.jq,19,!0,w,!1,!1,w,w,w,"shareLink",!1,!0,!1,!0,w,w,w,new B.f1l(this,d),!1,w,w,!0,!0,w,w,!0,w,w,w,w,!0,!0,new A.ZQ("shareCrewMemberInviteLinkExplain",!0,!0,w,w),w,w,w,!0,w,0.3)],x.D),w,w,w,v,0,"",!1,w,w,C.d,!1,w,w,!0,!0,w,w,w,w,w,w,0.55,w,w,w)}}
 var z=a.updateTypes([])
 B.dwR.prototype={
 $3(d,e,f){var w,v=null,u=$.af?$.ho.n():v,t=this.a,s=t.d,r=this.b
@@ -456,7 +456,7 @@ B.dwU.prototype={
 $1(d){var w=this.b,v=w.length
 w.push(new B.bF8(d,v===0,v===this.c.length-1,this.a.d,null))},
 $S:62}
-B.f1m.prototype={
+B.f1l.prototype={
 $0(){var w=0,v=A.l(x.P),u=this,t,s,r,q,p,o,n
 var $async$$0=A.h(function(d,e){if(d===1)return A.i(e,v)
 for(;;)switch(w){case 0:p=x.B.a(u.b.gb5())
@@ -480,10 +480,10 @@ return A.k($async$$0,v)},
 $S:3};(function inheritance(){var w=a.inheritMany
 w(A.r,[B.aX7,B.bF0,B.bF2,B.bF7,B.bF5,B.bF6,B.bF1,B.bF8,B.bF9,B.cb1])
 w(A.aO,[B.dwR,B.dwt,B.dws,B.dwx,B.dwS,B.dwU])
-w(A.aN,[B.dwq,B.dwr,B.dwz,B.dwy,B.dwA,B.dwO,B.dwQ,B.dwP,B.dwv,B.dww,B.f1m])
+w(A.aN,[B.dwq,B.dwr,B.dwz,B.dwy,B.dwA,B.dwO,B.dwQ,B.dwP,B.dwv,B.dww,B.f1l])
 w(A.bZ,[B.dwu,B.dwT])})()
 A.aG(b.typeUniverse,JSON.parse('{"aX7":{"r":[],"f":[]},"bF0":{"r":[],"f":[]},"bF2":{"r":[],"f":[]},"bF7":{"r":[],"f":[]},"bF5":{"r":[],"f":[]},"bF6":{"r":[],"f":[]},"bF1":{"r":[],"f":[]},"bF8":{"r":[],"f":[]},"bF9":{"r":[],"f":[]},"cb1":{"r":[],"f":[]}}'))
 var y={b:"assets/animations/delete_animation.json.zip"}
 var x=(function rtii(){var w=A.t
 return{D:w("F<dR>"),p:w("F<f>"),h:w("F<eq>"),P:w("aL"),i:w("z<l1>"),d:w("O<l1>"),g:w("O<rN?>"),y:w("J"),z:w("@"),G:w("a_l?"),B:w("ao?"),u:w("J?"),H:w("~")}})();(function constants(){D.bK8=new A.x(10,14,10,15)})()};
-(a=>{a["naJPtrHqFuwJQa/yUZKX8HuIaTk="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["0RGb1WFd/mPMSpYvDN3CJOwGSA0="]=a.current})($__dart_deferred_initializers__);

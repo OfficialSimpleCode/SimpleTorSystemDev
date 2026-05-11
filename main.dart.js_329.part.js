@@ -1,12 +1,12 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,B={
-j4h(d,e){return new B.c_X(e,d,null)},
+j4g(d,e){return new B.c_X(e,d,null)},
 c_X:function c_X(d,e,f){this.c=d
 this.d=e
 this.a=f},
-etV:function etV(){},
-etU:function etU(d){this.a=d},
-etW:function etW(d,e){this.a=d
+etU:function etU(){},
+etT:function etT(d){this.a=d},
+etV:function etV(d,e){this.a=d
 this.b=e}}
 A=c[0]
 C=c[2]
@@ -15,7 +15,7 @@ B.c_X.prototype={
 l(d){var x,w,v,u,t,s=null
 A.bR(d,!0,y.m)
 x=$.af?$.ea.n():s
-w=A.eW(!1,s,s,s,new B.etU(d),new B.etV(),!0,!0,!0,!1,s)
+w=A.eW(!1,s,s,s,new B.etT(d),new B.etU(),!0,!0,!0,!1,s)
 v=$.ah.n()
 u=A.e(this.d?"closeToCustomersOnlyMessageWaitingList":"closeToCustomersOnlyMessage",s,s,!0)
 t=this.c.fy
@@ -26,7 +26,7 @@ s=A.V(s,y.l)
 if(w.gbxX())x="youAreACustomerInBusiness"
 else x=w.gatO()?"waitForWorkerConfirm":"signAsPendingCustomer"
 s.push(A.w(A.e(x,v,v,!1),v,!1,!1,v,!1,v,!1,v,!1,!0,!1,!1,1,v,!1,!1,!1,16,v,v,!1,""))
-return A.a4(v,v,v,v,A.en(C.q,A.T(s,C.f,v,C.d,C.j,0,v,v),C.p,C.aI),C.p,t.ax.y,v,0,!1,v,v,v,new A.x(0,20,0,0),!1,new B.etW(w,d),u,new A.x(20,10,20,10),8,v,!1,!1,!1,v)},
+return A.a4(v,v,v,v,A.en(C.q,A.T(s,C.f,v,C.d,C.j,0,v,v),C.p,C.aI),C.p,t.ax.y,v,0,!1,v,v,v,new A.x(0,20,0,0),!1,new B.etV(w,d),u,new A.x(20,10,20,10),8,v,!1,!1,!1,v)},
 gatO(){var x=$.au().a.fy.ay.h(0,$.C().a.p4)
 if(x==null)x=A.ak(y.g)
 return x.p(0,this.c.c)},
@@ -43,14 +43,14 @@ return A.d(A.aS("assets/animations/success_animation.json.zip",d,!1,C.V,$.f0().a
 case 3:case 1:return A.j(v,w)}})
 return A.k($async$B,w)}}
 var z=a.updateTypes([])
-B.etV.prototype={
+B.etU.prototype={
 $0(){},
 $S:4}
-B.etU.prototype={
+B.etT.prototype={
 $0(){A.Q(this.a,!1).I(null)
 return null},
 $S:0}
-B.etW.prototype={
+B.etV.prototype={
 $0(){var x=0,w=A.l(y.f),v,u=this
 var $async$$0=A.h(function(d,e){if(d===1)return A.i(e,w)
 for(;;)switch(x){case 0:x=3
@@ -62,7 +62,7 @@ case 1:return A.j(v,w)}})
 return A.k($async$$0,w)},
 $S:2};(function inheritance(){var x=a.inherit,w=a.inheritMany
 x(B.c_X,A.r)
-w(A.aN,[B.etV,B.etU,B.etW])})()
+w(A.aN,[B.etU,B.etT,B.etV])})()
 A.aG(b.typeUniverse,JSON.parse('{"c_X":{"r":[],"f":[]}}'))
 var y={e:A.t("F<f>"),g:A.t("n"),m:A.t("a6p"),l:A.t("f"),f:A.t("~")}};
-(a=>{a["ClqWdBSUKPwwRUFexQQ77XlzKpA="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["MezOIkZjhlL28luMCSyOxNcaM4c="]=a.current})($__dart_deferred_initializers__);

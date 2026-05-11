@@ -20,7 +20,7 @@ cBF:function cBF(d){var _=this
 _.d=d
 _.e=$
 _.c=_.a=null},
-h5M:function h5M(d){this.a=d},
+h5L:function h5L(d){this.a=d},
 bvm:function bvm(d,e,f,g){var _=this
 _.c=d
 _.d=e
@@ -49,12 +49,12 @@ _.d=e
 _.e=f
 _.r=g
 _.a=h},
-eiJ:function eiJ(d,e){this.a=d
+eiI:function eiI(d,e){this.a=d
 this.b=e},
 bZK:function bZK(d,e,f){this.c=d
 this.d=e
 this.a=f},
-eqn:function eqn(d){this.a=d},
+eqm:function eqm(d){this.a=d},
 cdL:function cdL(d,e){this.c=d
 this.a=e}}
 A=c[0]
@@ -68,7 +68,7 @@ l(d){var x,w=null,v=$.aC(),u=$.C().b.h(0,v.b.a)
 if(u==null)return new A.m(w,w,w,w)
 x=new A.O(u,$.a3(),y.k)
 this.e=x
-return new A.z(x,new B.h5M(this),w,w,y.l)}}
+return new A.z(x,new B.h5L(this),w,w,y.l)}}
 B.bvm.prototype={
 l(d){var x,w,v=this,u=null,t=A.e("customerWillGetNotifications",u,u,!1),s=v.d,r=C.QK.h(0,s)
 r.toString
@@ -128,7 +128,7 @@ return A.k($async$asT,w)}}
 B.bXX.prototype={
 l(d){var x=null,w=this.d
 if(w==null)return new A.m(x,x,x,x)
-return new A.cP(A.ai(x,!1,!1,!1,!1,C.E,x,!0,!1,C.mv,4,!0,x,!1,!0,x,x,x,"timeBeforeNotify",!1,!1,!1,!0,x,x,x,new B.eiJ(this,d),!1,x,x,!0,!1,x,x,!0,x,x,x,"timeBeforeNotifyExplain",!1,!0,x,A.T(A.b([new A.m(10,x,x,x),new B.cdL(w,x)],y.u),C.f,x,C.d,C.j,0,x,x),x,x,!0,x,0.3),x,!1,x)},
+return new A.cP(A.ai(x,!1,!1,!1,!1,C.E,x,!0,!1,C.mv,4,!0,x,!1,!0,x,x,x,"timeBeforeNotify",!1,!1,!1,!0,x,x,x,new B.eiI(this,d),!1,x,x,!0,!1,x,x,!0,x,x,x,"timeBeforeNotifyExplain",!1,!0,x,A.T(A.b([new A.m(10,x,x,x),new B.cdL(w,x)],y.u),C.f,x,C.d,C.j,0,x,x),x,x,!0,x,0.3),x,!1,x)},
 aC9(d){return this.dNp(d)},
 dNp(d){var x=0,w=A.l(y.v),v,u=this,t,s,r,q,p,o,n,m
 var $async$aC9=A.h(function(e,f){if(e===1)return A.i(f,w)
@@ -163,7 +163,7 @@ w=x.aK
 x=w==null?x.k2:w
 w=A.w(A.e("theBookingConfirmationsAreNotAvalible",u,u,!1),u,!1,!1,u,!1,u,!1,u,!1,!1,!1,!1,1,u,!1,!1,!1,17,u,u,!1,"")
 v=A.q(d)
-return A.a4(u,u,u,u,A.G(A.b([w,new A.m(u,10,u,u),A.a4(u,u,u,u,A.w(A.e("pressToActive",u,u,!0),u,!1,!1,u,!1,u,!1,u,!1,!0,!1,!1,1,u,!1,!1,!1,15,u,u,!1,""),C.p,v.ax.y,u,0,!1,u,u,u,u,!1,new B.eqn(this),u,new A.x(10,2,10,2),5,u,!1,!1,!1,u)],y.u),C.f,u,C.d,C.j,u,C.o),C.p,x,u,10,!1,u,u,u,new A.x(0,20,0,20),!1,u,u,new A.x(20,10,20,10),10,u,!1,!1,!1,u)}}
+return A.a4(u,u,u,u,A.G(A.b([w,new A.m(u,10,u,u),A.a4(u,u,u,u,A.w(A.e("pressToActive",u,u,!0),u,!1,!1,u,!1,u,!1,u,!1,!0,!1,!1,1,u,!1,!1,!1,15,u,u,!1,""),C.p,v.ax.y,u,0,!1,u,u,u,u,!1,new B.eqm(this),u,new A.x(10,2,10,2),5,u,!1,!1,!1,u)],y.u),C.f,u,C.d,C.j,u,C.o),C.p,x,u,10,!1,u,u,u,new A.x(0,20,0,20),!1,u,u,new A.x(20,10,20,10),10,u,!1,!1,!1,u)}}
 B.cdL.prototype={
 l(d){var x,w,v,u,t=null
 A.bR(d,!0,y.z)
@@ -175,7 +175,7 @@ u=w.b.h(0,v.a).bv.ay.h(0,this.c)
 v=(u==null?new A.nL(C.eG,C.eO,new A.rD(A.a1(0,0,0,8,0,0,0,0),C.f6)):u).ga_B(0)
 return A.bB(v,t,t,t,t,t,t,A.q(d).ok.r.dju(12,C.i5),t,t,t,t,t)}}
 var z=a.updateTypes([])
-B.h5M.prototype={
+B.h5L.prototype={
 $3(a0,a1,a2){var x,w,v,u,t,s,r,q,p,o,n,m,l=null,k=this.a,j=k.a,i=j.as,h=j.ay,g=j.at,f=j.y,e=j.x,d=j.Q
 j=A.e(j.c,l,l,!1)
 x=k.e
@@ -201,7 +201,7 @@ p=k.a
 o=p.e
 n=p.ch
 m=p.r
-q=D.iq3(s,n,l,!1,m,o,q)
+q=D.iq2(s,n,l,!1,m,o,q)
 s=m!=null?new B.bXX(r,m,!1,p.z,l):new A.m(l,l,l,l)
 r=y.u
 return A.a6(h,C.q,l,C.J,j,l,new A.bS(C.q,l,C.as,C.X,A.b([A.mw(u,A.ec(A.G(A.b([t,x,A.d7(C.U,A.G(A.b([q,s],r),C.f,l,C.d,C.j,l,C.o),!1,l,w)],r),C.f,l,C.d,C.j,l,C.o),v)),new B.bZK(k.e,k.a.r,l)],r),l),l,0,"",!1,l,l,C.d,!1,l,l,!0,!0,f,g,l,l,l,i,0.55,d,e,l)},
@@ -263,7 +263,7 @@ break
 case 1:return A.j(v,w)}})
 return A.k($async$$2,w)},
 $S:14}
-B.eiJ.prototype={
+B.eiI.prototype={
 $0(){var x=0,w=A.l(y.v),v,u=this
 var $async$$0=A.h(function(d,e){if(d===1)return A.i(e,w)
 for(;;)switch(x){case 0:x=3
@@ -274,7 +274,7 @@ break
 case 1:return A.j(v,w)}})
 return A.k($async$$0,w)},
 $S:2}
-B.eqn.prototype={
+B.eqm.prototype={
 $0(){var x=0,w=A.l(y.e),v,u=this,t
 var $async$$0=A.h(function(d,e){if(d===1)return A.i(e,w)
 for(;;)switch(x){case 0:t=u.a.c
@@ -288,11 +288,11 @@ return A.k($async$$0,w)},
 $S:13};(function inheritance(){var x=a.inherit,w=a.inheritMany
 x(B.b3I,A.X)
 x(B.cBF,A.Y)
-x(B.h5M,A.aO)
+x(B.h5L,A.aO)
 w(A.r,[B.bvm,B.bvo,B.bXX,B.bZK,B.cdL])
-w(A.aN,[B.d1P,B.d1R,B.d1T,B.eiJ,B.eqn])
+w(A.aN,[B.d1P,B.d1R,B.d1T,B.eiI,B.eqm])
 w(A.bZ,[B.d1Q,B.d1S,B.d1U])})()
 A.aG(b.typeUniverse,JSON.parse('{"b3I":{"X":[],"f":[]},"cBF":{"Y":["b3I"]},"bvm":{"r":[],"f":[]},"bvo":{"r":[],"f":[]},"bXX":{"r":[],"f":[]},"bZK":{"r":[],"f":[]},"cdL":{"r":[],"f":[]}}'))
 var y=(function rtii(){var x=A.t
 return{y:x("a6Z"),A:x("rf"),u:x("F<f>"),B:x("nL"),l:x("z<eq>"),k:x("O<eq>"),o:x("O<J>"),z:x("iI"),e:x("J"),v:x("~")}})()};
-(a=>{a["Ar9xIqBnbdBDXSjQRSUYTFYN8ck="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["ZhhAS6Q87vxyQ83ns8Q2L+qPGGc="]=a.current})($__dart_deferred_initializers__);
