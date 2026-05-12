@@ -1,28 +1,27 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
-iV4(){return new C.bC_(null)},
-bC_:function bC_(d){this.a=d},
-dp4:function dp4(d){this.a=d}}
-A=c[0]
-B=c[2]
-C=a.updateHolder(c[229],C)
-C.bC_.prototype={
-l(d){var x=null,w=A.w(A.e("thereIsProblemWithSavingTheInvoice",x,x,!1),B.C,!1,!1,x,!1,x,!1,x,!1,!1,!0,!1,1,x,!1,!1,!1,19,x,x,!1,""),v=$.af?$.ea.n()*0.7:$.ah.n()*0.7,u=$.ah.n(),t=A.w(A.e("thereIsProblemWithSavingTheInvoiceExplain",x,x,!0),B.C,!1,!1,x,!1,x,!1,x,!1,!1,!0,!1,0.8,x,!1,!1,!1,14,x,x,!1,""),s=A.q(d),r=y.e,q=A.T(A.b([A.w(A.e("contactWithSuppport",x,x,!0),x,!1,!1,x,!1,x,!1,x,!1,!0,!1,!1,1,x,!1,!1,!1,15,x,x,!1,""),new A.m(6,x,x,x),new A.ag(B.qJ,24,!1,1,!0,!1,!1,x,x)],r),B.f,x,B.R,B.j,0,x,x),p=$.af?$.ea.n()*0.6:$.ah.n()*0.6
-return A.G(A.b([new A.m(x,10,x,x),new A.m(v,x,w,x),new A.m(x,15,x,x),new A.dI("assets/animations/attention.json.zip",60,60,B.aN,x,x),new A.m(x,15,x,x),new A.m(u*0.8,x,t,x),new A.m(x,20,x,x),A.a4(x,x,x,x,q,B.p,s.ax.y,x,0,!1,x,x,x,x,!1,new C.dp4(d),x,new A.x(0,10,0,10),x,x,!1,!1,!1,p),new A.m(x,30,x,x)],r),B.f,x,B.d,B.j,x,B.o)}}
-var z=a.updateTypes([])
-C.dp4.prototype={
-$0(){var x=0,w=A.l(y.f),v,u=this
-var $async$$0=A.h(function(d,e){if(d===1)return A.i(e,w)
-for(;;)switch(x){case 0:x=3
-return A.d(A.a4S(u.a),$async$$0)
-case 3:v=e
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C,D={
+btz(d,e){var x=0,w=A.l(y.b),v,u
+var $async$btz=A.h(function(f,g){if(f===1)return A.i(g,w)
+for(;;)switch(x){case 0:x=6
+return A.d(A.aR(e,A.aT("companyInvoiceDataPage","")),$async$btz)
+case 6:x=g===!0?3:5
+break
+case 3:u=$.aI().at
+A.aF("companyInvoiceDataPage")
+x=7
+return A.d(A.fm(C.iYa(d),e,u,null,null),$async$btz)
+case 7:v=g
 x=1
 break
-case 1:return A.j(v,w)}})
-return A.k($async$$0,w)},
-$S:2};(function inheritance(){var x=a.inherit
-x(C.bC_,A.r)
-x(C.dp4,A.aN)})()
-A.aG(b.typeUniverse,JSON.parse('{"bC_":{"r":[],"f":[]}}'))
-var y={e:A.t("F<f>"),f:A.t("~")}};
-(a=>{a["xvUMup3ELimX19l8vPni9VOVPOY="]=a.current})($__dart_deferred_initializers__);
+x=4
+break
+case 5:new A.U(A.e("thereIsProblem",null,null,!0),B.t,B.v,B.A,e).D()
+case 4:case 1:return A.j(v,w)}})
+return A.k($async$btz,w)}}
+A=c[0]
+B=c[2]
+C=c[297]
+D=a.updateHolder(c[476],D)
+var z=a.updateTypes([])
+var y={b:A.t("@")}};
+(a=>{a["D+UUkdC9oTDJRVfzxWDVF7my5fY="]=a.current})($__dart_deferred_initializers__);

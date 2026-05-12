@@ -1,198 +1,70 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,E,F,G,H,B={
-iAF(d,e,f,g,h,i){return new B.aA9(g,h,f,e,i,null)},
-aA9:function aA9(d,e,f,g,h,i){var _=this
-_.c=d
-_.e=e
-_.f=f
-_.r=g
-_.w=h
-_.a=i},
-ffO:function ffO(d,e){this.a=d
-this.b=e},
-ffM:function ffM(d,e){this.a=d
-this.b=e},
-ffN:function ffN(d,e){this.a=d
-this.b=e},
-ffK:function ffK(d,e){this.a=d
-this.b=e},
-ffL:function ffL(d,e){this.a=d
-this.b=e},
-cfA:function cfA(d,e,f){this.c=d
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,B={
+cWP(d,e,f){var x=0,w=A.l(y.h),v,u,t,s,r
+var $async$cWP=A.h(function(g,h){if(g===1)return A.i(h,w)
+for(;;)switch(x){case 0:u=A.e("deletingTicket",null,null,!0)
+t=$.ah.n()
+s=A.e("doDeleteTheTicketFromUser",null,null,!1)
+r=e.f
+t=A.G(A.b([new A.m(t*0.5,null,A.v(A.a3(s,"NAME",r),C.C,!1,!1,null,!1,null,!1,null,!1,!1,!1,!1,1,null,!1,!1,!1,14,null,null,!1,""),null),new B.cge(e,f,null)],y.e),C.f,null,C.d,C.j,null,C.o)
+s=A.e("yes",null,null,!0)
+x=3
+return A.d(A.hw(A.e("no",null,null,!0),t,d,s,new B.hHM(),new B.hHN(),!0,u),$async$cWP)
+case 3:v=h
+x=1
+break
+case 1:return A.j(v,w)}})
+return A.k($async$cWP,w)},
+hHM:function hHM(){},
+hHN:function hHN(){},
+cge:function cge(d,e,f){this.c=d
 this.d=e
 this.a=f},
-ff1:function ff1(d,e){this.a=d
+fgC:function fgC(d){this.a=d},
+fgB:function fgB(d,e){this.a=d
 this.b=e},
-ff2:function ff2(d){this.a=d},
-cfL:function cfL(d,e,f){this.c=d
-this.d=e
-this.a=f},
-cfW:function cfW(d,e,f){this.c=d
-this.d=e
-this.a=f},
-fgA:function fgA(d,e){this.a=d
-this.b=e},
-cmL:function cmL(d,e,f,g,h){var _=this
-_.c=d
-_.d=e
-_.e=f
-_.f=g
-_.a=h},
-fBF:function fBF(d,e,f){this.a=d
-this.b=e
-this.c=f}},D
+fgA:function fgA(d){this.a=d}},D
 A=c[0]
 C=c[2]
-E=c[580]
-F=c[518]
-G=c[350]
-H=c[431]
-B=a.updateHolder(c[7],B)
-D=c[349]
-B.aA9.prototype={
-l(d){var x=new A.O(this.c,$.a3(),y.y)
-return new A.z(x,new B.ffO(this,x),null,null,y.q)},
-d75(d,e){var x=null,w=e.a
-if(w.fr!=null)return new A.m(x,x,x,x)
-if(!this.w)return new A.m(x,x,x,x)
-return new A.I(C.jl,new A.bY(A.T(A.b([new B.cfW(new B.ffK(this,e),w,x),new A.m(15,x,x,x),new B.cfA(w,new B.ffL(this,e),x)],y.u),C.f,x,C.d,C.j,0,x,x),!0,!0,x,C.d,x),x)},
-aCk(d,e){var x=this.f
-if(x!=null)x.$1(d)
-e.sk(0,d)
-e.t()}}
-B.cfA.prototype={
-l(d){var x=null,w=A.q(d)
-return A.aw(A.a4(x,x,x,x,A.bG(new A.I(new A.x(20,10,20,10),A.w(A.e("cancel",x,x,!1),C.C,!1,!1,C.W,!1,x,!1,x,!1,!1,!1,!1,1,x,!1,!1,!1,14,x,x,!1,""),x),x,!1,!1,!1,x,x,new B.ff1(this,d),x,x),C.p,w.ax.k2,x,0,!1,x,x,x,x,!1,x,x,x,x,x,!1,!1,!1,x),1)},
-B(d){return this.dMm(d)},
-dMm(d){var x=0,w=A.l(y.v),v,u=this,t,s,r,q
-var $async$B=A.h(function(e,f){if(e===1)return A.i(f,w)
-for(;;)switch(x){case 0:s={}
-r=new A.O(null,$.a3(),y.e)
-q=u.c
-x=3
-return A.d(G.cWi(d,q,r),$async$B)
-case 3:if(f!==!0){x=1
-break}s.a=null
-t=A.e("ticketDeletedSuccessfully",null,null,!1)
-x=4
-return A.d(A.aS("assets/animations/delete_animation.json.zip",d,!1,C.V,$.pO().a9Y(r.a,q).T(new B.ff2(s),y.B),t,null,null,!0,!1,!0,null,!0,C.a_,!1).ap(),$async$B)
-case 4:s=s.a
-if(s!=null)u.d.$1(s)
-case 1:return A.j(v,w)}})
-return A.k($async$B,w)}}
-B.cfL.prototype={
-l(d){var x,w=this,v=null
-if(!w.d)return new A.m(v,v,v,v)
-x=w.c
-if(x.fx==="")return new A.m(v,v,v,v)
-return!x.k2?w.bJi(d):A.f_(v,w.bJi(d),v,1,v,v,v,v,v,10)},
-bJi(d){var x=null
-return A.a6(!0,C.q,x,C.J,x,x,new A.I(E.adv,A.e0(!1,x,!0,!1,x,!1,!0,!1,0.7,C.b0,!1,13.5,this.c.fx,x),x),x,0,"",!1,x,x,C.d,!1,x,x,!0,!0,x,x,x,x,x,x,0.55,x,x,x)}}
-B.cfW.prototype={
-l(d){var x=null,w=A.q(d)
-return A.aw(A.a4(x,x,x,x,A.bG(new A.I(new A.x(20,10,20,10),A.w(A.e("edit",x,x,!1),C.C,!1,!1,A.q(d).ax.y,!1,x,!1,x,!1,!1,!1,!1,1,x,!1,!1,!1,14,x,x,!1,""),x),x,!1,!1,!1,x,x,new B.fgA(this,d),x,x),C.p,w.ax.k2,x,0,!1,x,x,x,x,!1,x,x,x,x,x,!1,!1,!1,x),1)},
-B(d){return this.dMt(d)},
-dMt(d){var x=0,w=A.l(y.v),v=this,u,t,s,r
-var $async$B=A.h(function(e,f){if(e===1)return A.i(f,w)
-for(;;)switch(x){case 0:u=$.a3()
-t=v.d
-s=$.C()
-r=s.b.h(0,t.d)
-if(r==null)r=s.gp7()
-x=2
-return A.d(A.arR(d,null,!0,t,v.c,new A.O(A.o(y.w,y.c),u,y.x),r),$async$B)
-case 2:return A.j(null,w)}})
-return A.k($async$B,w)}}
-B.cmL.prototype={
-l(d){var x=null
-if(!this.gd0v())return new A.m(x,x,x,x)
-return A.a6(!0,C.q,x,A.b([A.ai(x,!0,!0,!0,!1,C.E,x,!0,!1,C.jr,0,!0,x,!1,!1,x,x,x,"workerPayTicketForCustomer",!1,!1,!1,!0,x,x,x,new B.fBF(this,d,this.gbnz()),!0,x,x,!0,!1,x,x,!0,x,x,x,x,!0,!0,x,x,x,x,!0,x,0.3)],y.j),x,x,x,x,0,"",!1,x,x,C.d,!1,x,x,!0,!0,x,x,x,x,x,x,0.55,x,x,x)},
-gd0v(){var x,w=this
-if(!w.e)return!1
-if(w.c.a.fr!=null)return!1
-if($.C().a.to.at!==C.b7)return!1
-x=w.d
-if(!x.k4)return!1
-if(!x.bO)return!1
-if(w.gbnz()<=0)return!1
-return!0},
-gbnz(){var x=this.c.a
-return A.hb(C.l.aC(A.a2L(x,x.x).a-A.fjI(x).a,2)).e7(0)},
-aq6(d,e){return this.cRC(d,e)},
-cRC(d,e){var x=0,w=A.l(y.v),v,u=this,t,s,r,q,p
-var $async$aq6=A.h(function(f,g){if(f===1)return A.i(g,w)
-for(;;)switch(x){case 0:s=u.c
-r=s.a
-q=$.C().a
-x=3
-return A.d($.dw().bKw(e,q,d,r.y.b,C.up,!0,C.RD,!1,H.ieC(r),u.d),$async$aq6)
-case 3:p=g
-if(p==null||!p.gxu()){x=1
-break}t=p.p2
-if(t!=null){s.sk(0,t)
-s.t()
-s=p.p2
-s.toString
-u.f.$1(s)}case 1:return A.j(v,w)}})
-return A.k($async$aq6,w)}}
+B=a.updateHolder(c[351],B)
+D=c[806]
+B.cge.prototype={
+l(d){var x,w=null
+if(A.fkf(this.c).a<=0)return new A.m(w,w,w,w)
+x=this.d
+x.sk(0,D.a4D)
+return new A.z(x,new B.fgC(this),w,w,y.f)}}
 var z=a.updateTypes([])
-B.ffO.prototype={
-$3(d,e,f){var x=null,w=this.a,v=F.aj8(d,x,A.e("ticket",x,x,!0),"https://simpletor.app/ticket/"+w.c.a),u=$.b3.n(),t=this.b,s=t.a,r=w.w,q=w.e
-return A.cn(v,x,A.e8(!1,A.b([new A.m(x,u*0.04,x,x),new D.bdV(s,x),new D.bdP(s,x),new B.cfL(s,r,x),new D.aIp(t,w.r,r,new B.ffM(w,t),q,x),new D.bdS(s,r,x),new B.cmL(t,q,r,new B.ffN(w,t),x),new D.bdU(s,x),new D.b_s(s,x),w.d75(0,t),new D.bdN(s,x)],y.u),!0,C.b1,x,x,!1),x,x,!1,x,23,!1,!1,x,!0,!0)},
-$S:2468}
-B.ffM.prototype={
-$1(d){return this.a.aCk(d,this.b)},
-$S:170}
-B.ffN.prototype={
-$1(d){return this.a.aCk(d,this.b)},
-$S:170}
-B.ffK.prototype={
-$1(d){return this.a.aCk(d,this.b)},
-$S:170}
-B.ffL.prototype={
-$1(d){return this.a.aCk(d,this.b)},
-$S:170}
-B.ff1.prototype={
-$0(){var x=0,w=A.l(y.v),v,u=this
-var $async$$0=A.h(function(d,e){if(d===1)return A.i(e,w)
-for(;;)switch(x){case 0:x=3
-return A.d(u.a.B(u.b),$async$$0)
-case 3:v=e
-x=1
-break
-case 1:return A.j(v,w)}})
-return A.k($async$$0,w)},
-$S:2}
-B.ff2.prototype={
-$1(d){this.a.a=d
-return!0},
-$S:296}
+B.hHM.prototype={
+$1(d){return A.Q(d,!1).I(!1)},
+$S:5}
+B.hHN.prototype={
+$1(d){return A.Q(d,!1).I(!0)},
+$S:5}
+B.fgC.prototype={
+$3(d,e,f){var x=null,w=y.e,v=A.b([],w)
+C.c.u(A.b([D.a4D,C.a4E],y.d),new B.fgB(this.a,v))
+return A.a4(x,x,x,x,A.G(A.b([new A.m(x,5,x,x),new A.m($.ah.n()*0.6,x,A.v(A.e("refundDeleteOptions",x,x,!0),x,!1,!1,x,!1,x,!1,x,!1,!1,!0,!1,1,x,!1,!1,!1,14,x,x,!1,""),x),new A.m(x,5,x,x),A.G(v,C.f,x,C.d,C.j,x,C.o)],w),C.f,x,C.d,C.j,x,C.o),C.p,x,x,0,!1,x,x,x,C.k3,!1,x,x,C.b1,x,x,!1,!1,!1,x)},
+$S:2374}
+B.fgB.prototype={
+$1(d){var x,w,v=null,u=$.iTl().h(0,d)
+u.toString
+u=A.e(u,v,v,!0)
+x=this.a
+w=A.fkf(x.c).m(0)
+u=A.v(A.a3(u,"PRICE",w),v,!1,!1,v,!1,v,!1,v,!1,!1,!0,!1,0.7,v,!1,!1,!1,13,v,v,!1,"")
+this.b.push(A.b8N(new A.x(5,0,5,0),v,x.d.a,v,new B.fgA(x),u,d,y.a))},
+$S:2375}
 B.fgA.prototype={
-$0(){var x=0,w=A.l(y.v),v,u=this
-var $async$$0=A.h(function(d,e){if(d===1)return A.i(e,w)
-for(;;)switch(x){case 0:x=3
-return A.d(u.a.B(u.b),$async$$0)
-case 3:v=e
-x=1
-break
-case 1:return A.j(v,w)}})
-return A.k($async$$0,w)},
-$S:2}
-B.fBF.prototype={
-$0(){var x=0,w=A.l(y.v),v,u=this
-var $async$$0=A.h(function(d,e){if(d===1)return A.i(e,w)
-for(;;)switch(x){case 0:x=3
-return A.d(u.a.aq6(u.b,u.c),$async$$0)
-case 3:v=e
-x=1
-break
-case 1:return A.j(v,w)}})
-return A.k($async$$0,w)},
-$S:2};(function inheritance(){var x=a.inheritMany
-x(A.r,[B.aA9,B.cfA,B.cfL,B.cfW,B.cmL])
-x(A.aO,[B.ffO,B.ffM,B.ffN,B.ffK,B.ffL,B.ff2])
-x(A.aN,[B.ff1,B.fgA,B.fBF])})()
-A.aG(b.typeUniverse,JSON.parse('{"aA9":{"r":[],"f":[]},"cfA":{"r":[],"f":[]},"cfL":{"r":[],"f":[]},"cfW":{"r":[],"f":[]},"cmL":{"r":[],"f":[]}}'))
-var y=(function rtii(){var x=A.t
-return{j:x("F<dR>"),u:x("F<f>"),w:x("n"),c:x("dM"),q:x("z<dM>"),x:x("O<D<n,dM>>"),y:x("O<dM>"),e:x("O<a1m?>"),B:x("J"),v:x("~")}})()};
-(a=>{a["eouBz2n7YzzVWIMDl2c/B72mR30="]=a.current})($__dart_deferred_initializers__);
+$1(d){var x
+if(d!=null){x=this.a.d
+x.sk(0,d)
+x.t()}},
+$S:2376};(function inheritance(){var x=a.inheritMany,w=a.inherit
+x(A.aO,[B.hHM,B.hHN,B.fgC,B.fgB,B.fgA])
+w(B.cge,A.r)})()
+A.aG(b.typeUniverse,JSON.parse('{"cge":{"r":[],"f":[]}}'))
+var y={d:A.t("F<a1m>"),e:A.t("F<f>"),a:A.t("a1m"),f:A.t("z<a1m?>"),h:A.t("J?")};(function constants(){D.a4D=new A.a1m(0,"withoutRefund")
+D.dH8=new A.a1m(2,"relativeRefund")})();(function lazyInitializers(){var x=a.lazy
+x($,"klN","iTl",()=>A.p([D.a4D,"withoutRefund",C.a4E,"refundAll",D.dH8,"relativeRefund"],y.a,A.t("n")))})()};
+(a=>{a["WDDKb/xkcrBeSbv51k4zYOwiLlw="]=a.current})($__dart_deferred_initializers__);

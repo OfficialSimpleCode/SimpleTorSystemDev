@@ -1,15 +1,49 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,D,C={ays:function ays(d,e){this.c=d
-this.a=e}}
+$__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,C,B={
+cXE(d){var x=0,w=A.l(y.b),v,u,t,s
+var $async$cXE=A.h(function(e,f){if(e===1)return A.i(f,w)
+for(;;)switch(x){case 0:v=A.e("logout",null,null,!0)
+u=A.bC(A.e("sureYouWantLogout",null,null,!0),null,null,null,null,null,null,null,C.C,null,null,null,null)
+t=A.e("yes",null,null,!0)
+s=J
+x=4
+return A.d(A.dt(!0,C.HE,!1,1,!0,null,A.e("no",null,null,!0),null,u,d,C.aw,20,!0,!0,C.M,new B.hSQ(),new B.hSR(),!1,t,v),$async$cXE)
+case 4:x=s.M(f,"OK")?2:3
+break
+case 2:v=A.Q(d,!1)
+u=A.a0(0,0,0,0,0,10)
+s=J
+x=5
+return A.d(A.aS("assets/animations/success_animation.json.zip",d,!1,C.V,B.cWE(d),A.e("logoutSuccessfully",null,null,!0),null,v,!0,!0,!0,null,!1,u,!1).aq(),$async$cXE)
+case 5:if(s.M(f,!0))A.nd(d)
+case 3:return A.j(null,w)}})
+return A.k($async$cXE,w)},
+cWE(d){var x=0,w=A.l(y.e),v
+var $async$cWE=A.h(function(e,f){if(e===1)return A.i(f,w)
+for(;;)switch(x){case 0:x=3
+return A.d(A.bsd(),$async$cWE)
+case 3:x=4
+return A.d($.f2().mW(),$async$cWE)
+case 4:v=!0
+x=1
+break
+case 1:return A.j(v,w)}})
+return A.k($async$cWE,w)},
+hSQ:function hSQ(){},
+hSR:function hSR(){}}
+J=c[1]
 A=c[0]
-B=c[2]
-D=c[796]
-C=a.updateHolder(c[468],C)
-C.ays.prototype={
-l(d){var x=null
-return A.ar(x,A.G(A.b([new A.ag(D.Zs,80,!1,1,!1,!1,!1,A.q(d).ax.fy,x),A.w(A.e("userDeleted",x,x,!1),B.C,!1,!1,x,!1,x,!1,x,!1,!1,!1,!1,1,x,!1,!1,!1,30,x,x,!1,""),new A.m(x,5,x,x),A.w(A.e(A.R($.aSM().h(0,this.c))+"TheCustomerDeleteHimself",x,x,!1),B.C,!1,!1,x,!1,x,!1,x,!1,!1,!1,!1,0.7,x,!1,!1,!1,18,x,x,!1,""),new A.m(x,$.b3.n()*0.15,x,x)],y.a),B.f,x,B.R,B.j,x,B.o),B.p,x,x,x,x,x,x,x,new A.x(20,0,20,0),x,x,1/0)}}
-var z=a.updateTypes([]);(function inheritance(){var x=a.inherit
-x(C.ays,A.r)})()
-A.aG(b.typeUniverse,JSON.parse('{"ays":{"r":[],"f":[]}}'))
-var y={a:A.t("F<f>")}};
-(a=>{a["TpAJ2bnMh/8IOBOnDvaeG4RQuIg="]=a.current})($__dart_deferred_initializers__);
+C=c[2]
+B=a.updateHolder(c[186],B)
+var z=a.updateTypes([])
+B.hSQ.prototype={
+$1(d){A.Q(d,!1).I("Cancel")
+return null},
+$S:5}
+B.hSR.prototype={
+$1(d){A.Q(d,!1).I("OK")
+return null},
+$S:5};(function inheritance(){var x=a.inheritMany
+x(A.aO,[B.hSQ,B.hSR])})()
+var y={e:A.t("J"),b:A.t("@")}};
+(a=>{a["CSeGaGPZpCvXjVbwwiinYjSkVaA="]=a.current})($__dart_deferred_initializers__);

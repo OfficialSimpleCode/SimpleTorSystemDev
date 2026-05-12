@@ -1,94 +1,28 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
-j94(d){return new C.bb3(d,null)},
-bb3:function bb3(d,e){this.c=d
-this.a=e},
-bn1:function bn1(){var _=this
-_.e=_.d=!1
-_.c=_.a=null},
-hjK:function hjK(d){this.a=d},
-hjL:function hjL(d,e){this.a=d
-this.b=e}},D
+iX1(){return new C.bCr(null)},
+bCr:function bCr(d){this.a=d},
+dpf:function dpf(d){this.a=d}}
 A=c[0]
 B=c[2]
-C=a.updateHolder(c[203],C)
-D=c[544]
-C.bb3.prototype={
-V(){return new C.bn1()}}
-C.bn1.prototype={
-l(d){var x,w,v,u,t=this,s=null,r=$.af?$.ea.n():s,q=A.w(t.e?A.e("shaamTokenConnectedSuccess",s,s,!0):A.e("shaamTokenRequiredTitle",s,s,!0),s,!1,!1,s,!1,s,!1,s,!1,!1,!0,!1,1,s,!1,!1,!1,18,s,s,!1,""),p=t.co8()
-if(t.e)x=A.e("shaamTokenConnectedSuccessDescription",s,s,!1)
-else{x=A.e("shaamTokenRequiredDescription",s,s,!1)
-w=B.i.m($.dX().b.fy.aJn(t.a.c))
-v=new A.lM("ILS","Israel Shekel","\u20aa")
-$.bc()
-u=new A.bC(v)
-u.c0(w,v)
-u=u.m(0)
-x=A.a2(x,"AMOUNT",u)
-w=B.i.m(t.a.c)
-x=A.a2(x,"YEAR",w)}return new A.m(r,s,A.G(A.b([new A.m(s,16,s,s),q,new A.m(s,20,s,s),p,new A.m(s,20,s,s),new A.I(B.Xk,A.w(x,B.C,!1,!1,s,!1,s,!1,s,!1,!1,!0,!1,1,s,!1,!1,!1,14,s,s,!0,""),s),new A.m(s,24,s,s),t.cnt(),new A.m(s,30,s,s)],y.e),B.f,s,B.d,B.a8,s,B.o),s)},
-co8(){var x,w,v=null
-if(this.d){x=this.c
-x.toString
-x=A.q(x).ax
-w=x.CW
-return new A.m(80,80,A.aY(A.oZ(v,w==null?x.y:w,v,v,v),v,v),v)}if(this.e)return new A.dI("assets/animations/success_animation.json.zip",110,110,B.aN,v,v)
-return A.i6("assets/icons/tax_authority.webp",v,v,v,!1,80,v,v,80)},
-cnt(){var x,w,v,u=this,t=null
-if(u.e){x=u.c
-x.toString
-x=A.q(x)
-w=$.ah.n()
-return new A.I(B.Xj,A.a4(t,t,t,t,new A.I(B.HW,A.aY(A.w(A.e("continueToCreateDocument",t,t,!0),t,!1,!1,t,!1,t,!1,t,!1,!0,!1,!1,1,t,!1,!1,!1,15,t,t,!1,""),t,t),t),B.p,x.ax.y,t,0,!1,t,t,t,t,!1,u.gcOE(),t,t,t,t,!1,!1,!1,w*0.6),t)}x=u.c
-x.toString
-x=A.q(x).ax
-w=x.CW
-x=w==null?x.y:w
-w=u.d?t:u.gcQL()
-w=A.aw(A.a4(t,t,t,t,new A.I(B.HW,A.aY(A.w(A.e("skipShaamToken",t,t,!0),t,!1,!1,t,!1,t,!1,t,!1,!1,!0,!1,1,t,!1,!1,!1,15,t,t,!1,""),t,t),t),B.p,x,t,0,!1,t,t,t,t,!1,w,t,t,t,t,!1,!1,!1,t),1)
-x=u.c
-x.toString
-x=A.q(x)
-v=u.d?t:u.gcPr()
-return new A.I(B.fm,A.T(A.b([w,new A.m(12,t,t,t),A.aw(A.a4(t,t,t,t,new A.I(B.HW,A.aY(A.w(A.e("fixShaamToken",t,t,!0),t,!1,!1,t,!1,t,!1,t,!1,!1,!1,!0,1,t,!1,!1,!1,15,t,t,!1,""),t,t),t),B.p,x.ax.y,t,0,!1,t,t,t,t,!1,v,t,t,t,t,!1,!1,!1,t),1)],y.e),B.f,t,B.d,B.j,0,t,t),t)},
-cQM(){var x=this.c
-x.toString
-A.Q(x,!1).I(D.aPl)},
-a7Q(){var x=0,w=A.l(y.f),v,u=this,t,s
-var $async$a7Q=A.h(function(d,e){if(d===1)return A.i(e,w)
-for(;;)switch(x){case 0:s=u.c
-s.toString
-x=3
-return A.d(A.aS8(s,!0),$async$a7Q)
-case 3:if(u.c==null){x=1
-break}u.a3(new C.hjK(u))
-t=$.b6()
-x=4
-return A.d(t.a1i(),$async$a7Q)
-case 4:if(u.c==null){x=1
-break}u.a3(new C.hjL(u,t.c!=null&&!t.gb9P()))
+C=a.updateHolder(c[229],C)
+C.bCr.prototype={
+l(d){var x=null,w=A.v(A.e("thereIsProblemWithSavingTheInvoice",x,x,!1),B.C,!1,!1,x,!1,x,!1,x,!1,!1,!0,!1,1,x,!1,!1,!1,19,x,x,!1,""),v=$.ag?$.ed.n()*0.7:$.ah.n()*0.7,u=$.ah.n(),t=A.v(A.e("thereIsProblemWithSavingTheInvoiceExplain",x,x,!0),B.C,!1,!1,x,!1,x,!1,x,!1,!1,!0,!1,0.8,x,!1,!1,!1,14,x,x,!1,""),s=A.q(d),r=y.e,q=A.T(A.b([A.v(A.e("contactWithSuppport",x,x,!0),x,!1,!1,x,!1,x,!1,x,!1,!0,!1,!1,1,x,!1,!1,!1,15,x,x,!1,""),new A.m(6,x,x,x),new A.ae(B.qO,24,!1,1,!0,!1,!1,x,x)],r),B.f,x,B.R,B.j,0,x,x),p=$.ag?$.ed.n()*0.6:$.ah.n()*0.6
+return A.G(A.b([new A.m(x,10,x,x),new A.m(v,x,w,x),new A.m(x,15,x,x),new A.dH("assets/animations/attention.json.zip",60,60,B.aN,x,x),new A.m(x,15,x,x),new A.m(u*0.8,x,t,x),new A.m(x,20,x,x),A.a4(x,x,x,x,q,B.p,s.ax.y,x,0,!1,x,x,x,x,!1,new C.dpf(d),x,new A.x(0,10,0,10),x,x,!1,!1,!1,p),new A.m(x,30,x,x)],r),B.f,x,B.d,B.j,x,B.o)}}
+var z=a.updateTypes([])
+C.dpf.prototype={
+$0(){var x=0,w=A.l(y.f),v,u=this
+var $async$$0=A.h(function(d,e){if(d===1)return A.i(e,w)
+for(;;)switch(x){case 0:x=3
+return A.d(A.a4V(u.a),$async$$0)
+case 3:v=e
+x=1
+break
 case 1:return A.j(v,w)}})
-return A.k($async$a7Q,w)},
-cOF(){var x=this.c
-x.toString
-A.Q(x,!1).I(D.aPm)}}
-var z=a.updateTypes(["~()","al<~>()"])
-C.hjK.prototype={
-$0(){this.a.d=!0},
-$S:0}
-C.hjL.prototype={
-$0(){var x=this.a
-x.d=!1
-x.e=this.b},
-$S:0};(function installTearOffs(){var x=a._instance_0u
-var w
-x(w=C.bn1.prototype,"gcQL","cQM",0)
-x(w,"gcPr","a7Q",1)
-x(w,"gcOE","cOF",0)})();(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(C.bb3,A.X)
-x(C.bn1,A.Y)
-w(A.aN,[C.hjK,C.hjL])})()
-A.aG(b.typeUniverse,JSON.parse('{"bb3":{"X":[],"f":[]},"bn1":{"Y":["bb3"]}}'))
+return A.k($async$$0,w)},
+$S:2};(function inheritance(){var x=a.inherit
+x(C.bCr,A.r)
+x(C.dpf,A.aN)})()
+A.aG(b.typeUniverse,JSON.parse('{"bCr":{"r":[],"f":[]}}'))
 var y={e:A.t("F<f>"),f:A.t("~")}};
-(a=>{a["FQriI4uOUWhW4yBdOCr+YiabbRM="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["8t5EdP6wvGr4b8DgPdy1MaeEYCE="]=a.current})($__dart_deferred_initializers__);
