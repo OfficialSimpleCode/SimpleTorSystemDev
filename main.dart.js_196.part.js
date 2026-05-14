@@ -1,6 +1,6 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B,A,C={
-a0Z(d){var y=d.gPe()/255,x=d.gLh()/255,w=d.gN7()/255,v=Math.max(y,Math.max(x,w)),u=v-Math.min(y,Math.min(x,w)),t=d.gml(d),s=B.iGv(y,x,w,v,u),r=v===0?0:u/v
+a0Z(d){var y=d.gPf()/255,x=d.gLi()/255,w=d.gN8()/255,v=Math.max(y,Math.max(x,w)),u=v-Math.min(y,Math.min(x,w)),t=d.gml(d),s=B.iGv(y,x,w,v,u),r=v===0?0:u/v
 return new C.adJ(t/255,s,r,v)},
 adJ:function adJ(d,e,f,g){var _=this
 _.a=d
@@ -23,4 +23,4 @@ m(d){var y=this
 return"HSVColor("+B.S(y.a)+", "+B.S(y.b)+", "+B.S(y.c)+", "+B.S(y.d)+")"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
 y(C.adJ,B.ao)})()};
-(a=>{a["qN1PlBUC21QS8dajRZ45JL0dtkw="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["dgQoKdWxmLFxkQ95Ptoxw+F/DWY="]=a.current})($__dart_deferred_initializers__);

@@ -9,7 +9,7 @@ break
 case 3:u=$.aI().at
 A.aF("companyInvoiceDataPage")
 x=7
-return A.d(A.fm(C.iYa(d),e,u,null,null),$async$btz)
+return A.d(A.fm(C.iYb(d),e,u,null,null),$async$btz)
 case 7:v=g
 x=1
 break
@@ -24,4 +24,4 @@ C=c[297]
 D=a.updateHolder(c[476],D)
 var z=a.updateTypes([])
 var y={b:A.t("@")}};
-(a=>{a["D+UUkdC9oTDJRVfzxWDVF7my5fY="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["BG8IVQ0bspgB1R9fgb9ahMZDC18="]=a.current})($__dart_deferred_initializers__);

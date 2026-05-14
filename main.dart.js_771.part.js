@@ -1,11 +1,11 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
-j6e(){return new C.c0m(null)},
-c0m:function c0m(d){this.a=d}}
+j6f(){return new C.c0n(null)},
+c0n:function c0n(d){this.a=d}}
 A=c[0]
 B=c[2]
 C=a.updateHolder(c[38],C)
-C.c0m.prototype={
+C.c0n.prototype={
 l(d){var x,w,v,u,t,s,r,q,p,o,n,m=null
 $.arG.b=d
 A.bR(d,!0,y.j)
@@ -30,7 +30,7 @@ b4B(){var x=null,w=$.C()
 if(!A.XS(w.a)||w.a.to.at!==B.b6)return new A.m(x,x,x,x)
 return A.a7(!0,B.q,x,$.ioL(),x,x,x,x,0,A.e("requestInvoiceDataExplain",x,x,!0),!1,x,x,B.d,!1,x,x,!0,!0,x,x,x,x,x,x,0.55,x,x,x)}}
 var z=a.updateTypes([]);(function inheritance(){var x=a.inherit
-x(C.c0m,A.r)})()
-A.aG(b.typeUniverse,JSON.parse('{"c0m":{"r":[],"f":[]}}'))
+x(C.c0n,A.r)})()
+A.aG(b.typeUniverse,JSON.parse('{"c0n":{"r":[],"f":[]}}'))
 var y={l:A.t("F<fq>"),e:A.t("F<f>"),j:A.t("iM")}};
-(a=>{a["K4qZsIdzXMjz4wPB5a1EV/D4u0I="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["0GcUqYXRk96JD+X+QEYZlovL4s0="]=a.current})($__dart_deferred_initializers__);

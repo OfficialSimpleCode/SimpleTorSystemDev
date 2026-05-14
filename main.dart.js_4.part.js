@@ -1,19 +1,19 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
-j4l(d,e,f,g,h){return new C.bVM(e,!1,d,h,g,null)},
-bVM:function bVM(d,e,f,g,h,i){var _=this
+j4m(d,e,f,g,h){return new C.bVN(e,!1,d,h,g,null)},
+bVN:function bVN(d,e,f,g,h,i){var _=this
 _.c=d
 _.d=e
 _.e=f
 _.f=g
 _.r=h
 _.a=i},
-ee0:function ee0(d){this.a=d}},D
+ee1:function ee1(d){this.a=d}},D
 A=c[0]
 B=c[2]
 C=a.updateHolder(c[177],C)
 D=c[621]
-C.bVM.prototype={
+C.bVN.prototype={
 l(d){var x,w,v,u,t=null,s=$.ag?$.ed.n():t,r=$.C()
 if(A.n9(r.a)>=5){x=A.e("maxSubscriptionPossible",t,t,!0)
 w=$.a1N()
@@ -47,11 +47,11 @@ u=$.bb().b2$.a.gbl()
 v=v.b.p(0,u)?1:0.6
 u=$.ah.n()
 t=A.q(d)
-u=A.a4(B.q,r,r,r,A.v(A.e("upgradeTheSub",r,r,!0),r,!1,!1,r,!1,r,!1,r,!1,!0,!1,!1,1,r,!1,!1,!1,16,r,r,!1,""),B.p,t.ax.y,r,0,!1,r,r,r,new A.x(0,10,0,0),!1,new C.ee0(d),v,new A.x(0,10,0,10),r,r,!1,!1,!1,u*0.6)
+u=A.a4(B.q,r,r,r,A.v(A.e("upgradeTheSub",r,r,!0),r,!1,!1,r,!1,r,!1,r,!1,!0,!1,!1,1,r,!1,!1,!1,16,r,r,!1,""),B.p,t.ax.y,r,0,!1,r,r,r,new A.x(0,10,0,0),!1,new C.ee1(d),v,new A.x(0,10,0,10),r,r,!1,!1,!1,u*0.6)
 v=u}else v=new A.m(r,r,r,r)
 return A.G(A.b([new A.m(r,5,r,r),q,new A.m(r,1,r,r),new A.m(p*0.7,r,o,r),new A.m(r,10,r,r),new A.dH("assets/animations/createBusinessAnimation.json.zip",r,x*0.34,B.aN,r,r),new A.m(r,30,r,r),w,v,new A.m(r,30,r,r)],y.e),B.f,r,B.d,B.j,r,B.o)}}
 var z=a.updateTypes([])
-C.ee0.prototype={
+C.ee1.prototype={
 $0(){var x=0,w=A.l(y.h),v=this,u,t
 var $async$$0=A.h(function(d,e){if(d===1)return A.i(e,w)
 for(;;)switch(x){case 0:t=v.a
@@ -62,8 +62,8 @@ return A.d(A.a9i(u.p4,u.R8,t,!1,!0,null,!0,null),$async$$0)
 case 2:return A.j(null,w)}})
 return A.k($async$$0,w)},
 $S:3};(function inheritance(){var x=a.inherit
-x(C.bVM,A.r)
-x(C.ee0,A.aN)})()
-A.aG(b.typeUniverse,JSON.parse('{"bVM":{"r":[],"f":[]}}'))
+x(C.bVN,A.r)
+x(C.ee1,A.aN)})()
+A.aG(b.typeUniverse,JSON.parse('{"bVN":{"r":[],"f":[]}}'))
 var y={e:A.t("F<f>"),h:A.t("aL")};(function constants(){D.dhx=new A.u([B.fw,"assets/animations/golden_coin.json.zip",B.fb,"assets/animations/most_popular_animation.json.zip",B.ci,"assets/animations/subscription_animation.json.zip"],A.t("u<qQ,n>"))})()};
-(a=>{a["fPnJw6gkKC29YnoKKzBfQe6ETCE="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["eheY/IxD/XLFutEypNp451HOcFk="]=a.current})($__dart_deferred_initializers__);
