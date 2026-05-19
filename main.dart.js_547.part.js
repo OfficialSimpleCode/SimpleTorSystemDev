@@ -1,12 +1,28 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var C,A={cbg:function cbg(d,e){this.a=d
-this.b=e}},B
-C=c[0]
-A=a.updateHolder(c[345],A)
-B=c[545]
-A.cbg.prototype={
-N(){return"ShaamTokenSheetResult."+this.b}}
-var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
-y(A.cbg,C.jQ)})();(function constants(){B.aPo=new A.cbg(0,"skip")
-B.aPp=new A.cbg(1,"continueAfterFix")})()};
-(a=>{a["JrZPaAGAIZIC61ZgMJJ7XAZaViw="]=a.current})($__dart_deferred_initializers__);
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
+iYu(){return new C.bCT(null)},
+bCT:function bCT(d){this.a=d},
+dpU:function dpU(d){this.a=d}}
+A=c[0]
+B=c[2]
+C=a.updateHolder(c[229],C)
+C.bCT.prototype={
+l(d){var x=null,w=A.v(A.e("thereIsProblemWithSavingTheInvoice",x,x,!1),B.C,!1,!1,x,!1,x,!1,x,!1,!1,!0,!1,1,x,!1,!1,!1,19,x,x,!1,""),v=$.ag?$.ed.n()*0.7:$.ah.n()*0.7,u=$.ah.n(),t=A.v(A.e("thereIsProblemWithSavingTheInvoiceExplain",x,x,!0),B.C,!1,!1,x,!1,x,!1,x,!1,!1,!0,!1,0.8,x,!1,!1,!1,14,x,x,!1,""),s=A.q(d),r=y.e,q=A.S(A.b([A.v(A.e("contactWithSuppport",x,x,!0),x,!1,!1,x,!1,x,!1,x,!1,!0,!1,!1,1,x,!1,!1,!1,15,x,x,!1,""),new A.m(6,x,x,x),new A.ae(B.qR,24,!1,1,!0,!1,!1,x,x)],r),B.f,x,B.R,B.j,0,x,x),p=$.ag?$.ed.n()*0.6:$.ah.n()*0.6
+return A.G(A.b([new A.m(x,10,x,x),new A.m(v,x,w,x),new A.m(x,15,x,x),new A.dH("assets/animations/attention.json.zip",60,60,B.aN,x,x),new A.m(x,15,x,x),new A.m(u*0.8,x,t,x),new A.m(x,20,x,x),A.a4(x,x,x,x,q,B.p,s.ax.y,x,0,!1,x,x,x,x,!1,new C.dpU(d),x,new A.x(0,10,0,10),x,x,!1,!1,!1,p),new A.m(x,30,x,x)],r),B.f,x,B.d,B.j,x,B.o)}}
+var z=a.updateTypes([])
+C.dpU.prototype={
+$0(){var x=0,w=A.l(y.f),v,u=this
+var $async$$0=A.h(function(d,e){if(d===1)return A.i(e,w)
+for(;;)switch(x){case 0:x=3
+return A.d(A.a52(u.a),$async$$0)
+case 3:v=e
+x=1
+break
+case 1:return A.j(v,w)}})
+return A.k($async$$0,w)},
+$S:2};(function inheritance(){var x=a.inherit
+x(C.bCT,A.r)
+x(C.dpU,A.aN)})()
+A.aG(b.typeUniverse,JSON.parse('{"bCT":{"r":[],"f":[]}}'))
+var y={e:A.t("F<f>"),f:A.t("~")}};
+(a=>{a["/GULhrooO8A5rU4m1eeRJ95ADxY="]=a.current})($__dart_deferred_initializers__);

@@ -1,27 +1,24 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C,D={
-btz(d,e){var x=0,w=A.l(y.b),v,u
-var $async$btz=A.h(function(f,g){if(f===1)return A.i(g,w)
-for(;;)switch(x){case 0:x=6
-return A.d(A.aR(e,A.aT("companyInvoiceDataPage","")),$async$btz)
-case 6:x=g===!0?3:5
-break
-case 3:u=$.aI().at
-A.aF("companyInvoiceDataPage")
-x=7
-return A.d(A.fm(C.iYb(d),e,u,null,null),$async$btz)
-case 7:v=g
+bus(d,e,f,g,h){var x=0,w=A.l(y.b),v
+var $async$bus=A.h(function(i,j){if(i===1)return A.i(j,w)
+for(;;)switch(x){case 0:x=3
+return A.d(A.aR(g,A.aT("needToPurchaseBusinessSubSheet","")),$async$bus)
+case 3:if(j!==!0){new A.U(A.e("thereIsProblem",null,null,!0),B.t,B.v,B.A,g).D()
+v=null
+x=1
+break}A.aF("needToPurchaseBusinessSubSheet")
+x=4
+return A.d(A.cb(g,0.85,!1,0.7,!1,null,!0,!0,!0,C.j7v(d,e,f,h,null,null,null),1,!0).bn(),$async$bus)
+case 4:v=j
 x=1
 break
-x=4
-break
-case 5:new A.U(A.e("thereIsProblem",null,null,!0),B.t,B.v,B.A,e).D()
-case 4:case 1:return A.j(v,w)}})
-return A.k($async$btz,w)}}
+case 1:return A.j(v,w)}})
+return A.k($async$bus,w)}}
 A=c[0]
 B=c[2]
-C=c[297]
-D=a.updateHolder(c[476],D)
+C=c[235]
+D=a.updateHolder(c[386],D)
 var z=a.updateTypes([])
-var y={b:A.t("@")}};
-(a=>{a["BG8IVQ0bspgB1R9fgb9ahMZDC18="]=a.current})($__dart_deferred_initializers__);
+var y={b:A.t("~")}};
+(a=>{a["VAGgXBShLMzlJFuRS9cQTAozC7Y="]=a.current})($__dart_deferred_initializers__);

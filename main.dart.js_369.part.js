@@ -1,9 +1,6 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B={
-ieZ(d,e,f,g,h,i,j,k,l,m,n,o,p){var x=Date.now(),w=m==null?A.b([],y.k):m,v=p==null?A.o(y.g,y.o):p,u=l==null?A.o(y.g,y.l):l
-return new A.hH(k,e,f,h,j,i,o,w,g,n,new A.R(x,0,!1),v,u,d)}}
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B
 A=c[0]
-B=a.updateHolder(c[442],B)
-var z=a.updateTypes([])
-var y={l:A.t("p7"),k:A.t("F<jr>"),g:A.t("n"),o:A.t("pM")}};
-(a=>{a["o3P9i6TfvwAtGm3CjZ2eGgo9Dus="]=a.current})($__dart_deferred_initializers__);
+B=c[831]
+var z=a.updateTypes([]);(function constants(){B.b2i=new A.amF(2,"attachProductsToBooking")})()};
+(a=>{a["BIOchZ0qwvyJL8hUT9jCoZkf03Q="]=a.current})($__dart_deferred_initializers__);

@@ -1,44 +1,66 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var B,D,A={c1T:function c1T(d,e,f,g,h){var _=this
-_.c=d
-_.d=e
-_.e=f
-_.f=g
-_.a=h},eza:function eza(d,e){this.a=d
-this.b=e},
-iwy(d,e,f,g){return new A.axp(g,d,f,e,null)},
-axp:function axp(d,e,f,g,h){var _=this
-_.c=d
-_.d=e
-_.e=f
-_.f=g
-_.a=h},
-cEH:function cEH(){this.c=this.a=null}},C
-B=c[0]
-D=c[518]
-A=a.updateHolder(c[216],A)
-C=c[348]
-A.c1T.prototype={
-l(d){var x=new B.O(this.c,$.a3(),y.c)
-return new B.z(x,new A.eza(this,x),null,null,y.h)}}
-A.axp.prototype={
-V(){return new A.cEH()}}
-A.cEH.prototype={
-l(d){var x=null,w=D.aj8(d,x,B.e("paymentRequest",x,x,!0),"https://simpletor.app/"+("payment-request/"+this.a.c.b)),v=this.a,u=v.c,t=v.d,s=v.f
-return B.cn(w,x,new A.c1T(u,t,v.e,s,x),x,x,!1,x,23,!1,!1,x,!0,!0)}}
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,B={
+c2T(d,e){var x=new B.ic(e,"",!1,!1,A.ai(y.g),!1,null,new A.eu(""),A.b([],y.a),!1,null,null,"","","","",C.dm,!1,!1)
+x.Hh(d)
+x.amc(d)
+return x},
+ic:function ic(d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v){var _=this
+_.Z=d
+_.y=_.x=!1
+_.z=""
+_.Q=!1
+_.as=null
+_.at=e
+_.ax=f
+_.ay=!1
+_.ch=g
+_.CW=h
+_.cx=!1
+_.cy=i
+_.db=j
+_.dx=null
+_.dy=""
+_.fr=k
+_.fx=l
+_.fy=!1
+_.go=null
+_.id=0
+_.k3=_.k2=_.k1=null
+_.p1=m
+_.p2=null
+_.p3=0
+_.jH$=n
+_.mT$=o
+_.a=p
+_.b=q
+_.c=r
+_.d=s
+_.e=t
+_.f=u
+_.r=v
+_.w=null},
+bgx:function bgx(d){this.a=d},
+fxd:function fxd(d){this.a=d}}
+A=c[0]
+C=c[2]
+B=a.updateHolder(c[348],B)
+B.ic.prototype={}
+B.bgx.prototype={
+l(d){var x=null
+return A.a4(x,x,x,x,A.bJ(new A.H(new A.x(10,10,10,10),A.e2(!1,x,!0,!1,x,!1,!0,!1,0.7,C.aZ,!1,15,A.e("notEnoughPaymentRequestsCounter",x,x,!0),x),x),x,!1,!1,!1,x,x,new B.fxd(d),x,x),C.p,x,x,0,!1,x,x,x,x,!1,x,x,x,x,x,!1,!1,!1,x)}}
 var z=a.updateTypes([])
-A.eza.prototype={
-$3(d,e,f){var x,w=null,v=this.a,u=v.c
-if(u.ch&&u.z)v=new C.b65(w)
-else if(u.x&&u.ax.a!==0)v=new C.b61(this.b.a,w)
-else if(u.y)v=new C.b63(w)
-else{x=this.b
-v=u.ay?new C.b64(x.a,w):new C.b67(x,v.d,v.e,v.f,w)}return v},
-$S:982};(function inheritance(){var x=a.inherit
-x(A.c1T,B.r)
-x(A.eza,B.aO)
-x(A.axp,B.X)
-x(A.cEH,B.Y)})()
-B.aG(b.typeUniverse,JSON.parse('{"c1T":{"r":[],"f":[]},"axp":{"X":[],"f":[]},"cEH":{"Y":["axp"]}}'))
-var y={h:B.t("z<hZ>"),c:B.t("O<hZ>")}};
-(a=>{a["aNMOju7i0dKk5tVPB5PkXTIW0Nw="]=a.current})($__dart_deferred_initializers__);
+B.fxd.prototype={
+$0(){var x=0,w=A.l(y.f),v=this
+var $async$$0=A.h(function(d,e){if(d===1)return A.i(e,w)
+for(;;)switch(x){case 0:if($.bs().b.a!==C.jE)$.b9.b=v.a
+x=2
+return A.d(A.asf(v.a,!0),$async$$0)
+case 2:return A.j(null,w)}})
+return A.k($async$$0,w)},
+$S:2};(function inheritance(){var x=a.inherit
+x(B.ic,A.cy)
+x(B.bgx,A.r)
+x(B.fxd,A.aN)})()
+A.aG(b.typeUniverse,JSON.parse('{"ic":{"cy":[],"Yq":[]},"bgx":{"r":[],"f":[]}}'))
+var y={a:A.t("F<pt>"),g:A.t("n"),f:A.t("~")}};
+(a=>{a["5aggpIA6PanHYiasVx/lA3B/4VQ="]=a.current})($__dart_deferred_initializers__);

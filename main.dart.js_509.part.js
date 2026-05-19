@@ -1,12 +1,7 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var B,C,A
-B=c[0]
-C=c[2]
-A=c[754]
-var z=a.updateTypes([]);(function constants(){A.Bf=new B.lj(1,"returned")
-A.Bg=new B.lj(10,"onCredit")
-A.acj=new B.lj(4,"any")
-A.Bh=new B.lj(6,"blocked")
-A.Bi=new B.lj(9,"onDebt")})();(function lazyInitializers(){var y=a.lazy
-y($,"kjt","bvx",()=>B.p([C.p1,"RegularClient",A.Bf,"ReturnedClient",C.tS,"NewClient",C.qu,"MissingClient",C.Ht,"selfClient",C.Hu,"deleted",A.Bh,"blockedMale",A.acj,"All",C.Hv,"unknownCustomer",A.Bi,"onDebt",A.Bg,"onCredit"],B.t("lj"),B.t("n")))})()};
-(a=>{a["+pR6FzgZEyBZgj45sOzezT0vEqw="]=a.current})($__dart_deferred_initializers__);
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B={
+f9R(d,e){return new A.cdZ(d,e,null)}}
+A=c[0]
+B=a.updateHolder(c[436],B)
+var z=a.updateTypes([])};
+(a=>{a["1w8Pov/T89CsHCbIVLe6Pgd7E+M="]=a.current})($__dart_deferred_initializers__);

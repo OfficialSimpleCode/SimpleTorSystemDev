@@ -1,65 +1,26 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var B,D,E,C,F,A={
-iwA(d,e,f){return new A.aoE(f,e,d,null)},
-aoE:function aoE(d,e,f,g){var _=this
-_.c=d
-_.d=e
-_.e=f
-_.a=g},
-cEI:function cEI(){this.c=this.a=null},
-h97:function h97(d){this.a=d},
-c1H:function c1H(d,e,f){this.c=d
-this.d=e
-this.a=f},
-ey3:function ey3(d,e){this.a=d
-this.b=e}},G
-B=c[0]
-D=c[2]
-E=c[518]
-C=c[348]
-F=c[520]
-A=a.updateHolder(c[5],A)
-G=c[485]
-A.aoE.prototype={
-V(){return new A.cEI()}}
-A.cEI.prototype={
-ab(){var x=$.jt(),w=this.c
-w.toString
-x.azw(w,this.a.c,D.Se)
-this.ag()},
-v(){$.bs().go=null
-this.aJ()},
-l(d){var x=$.jt().r
-x===$&&B.a()
-return new B.z(x,new A.h97(this),null,null,y.m)},
-gcR(d){var x,w=$.jt(),v=w.r
-v===$&&B.a()
-if(v.a)if(w.d==null)return new G.aop(D.Se,null)
-v=this.a
-x=v.e
-return new A.c1H(v.d,x,null)}}
-A.c1H.prototype={
-l(d){var x=new B.O(this.gKr(0),$.a3(),y.c)
-return new B.z(x,new A.ey3(this,x),null,null,y.h)},
-gKr(d){var x=$.jt().d
-return x==null?F.exg():x}}
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
+iWC(d){return new C.bxn(d,null)},
+bxn:function bxn(d,e){this.c=d
+this.a=e},
+d5C:function d5C(d){this.a=d}}
+A=c[0]
+B=c[2]
+C=a.updateHolder(c[107],C)
+C.bxn.prototype={
+l(d){var x,w=null,v=$.ag?$.hq.n():w,u=A.q(d),t=A.v(A.e("phoneIsVerfied",w,w,!0),B.C,!1,!1,w,!1,w,!1,w,!1,!1,!1,!1,1,w,!1,!1,!1,20,w,w,!1,""),s=$.ah.n(),r=A.e("nowWeCanRecognizeYou",w,w,!0),q=this.c,p=A.ig(q.w)
+r=A.v(A.a3(r,"PHONE",p),B.C,!1,!1,w,!1,w,!1,w,!1,!1,!1,!1,1,w,!1,!1,!1,15,w,w,!1,"")
+q=q.gal(0)?new A.m(w,w,w,w):new A.H(B.i5,A.e2(!1,w,!0,!1,w,!1,!0,!1,0.7,B.aZ,!1,14,q.ge4y(),w),w)
+p=A.v(A.e("ok",w,w,!0),w,!1,!1,w,!1,w,!1,w,!1,!0,!1,!1,1,w,!1,!1,!1,19,w,w,!1,"")
+x=$.ah.n()
+return A.ar(B.q,A.G(A.b([new A.m(w,10,w,w),t,new A.dH("assets/animations/success_animation.json.zip",130,130,B.aN,w,w),new A.m(s*0.9,w,r,w),q,A.a4(B.q,w,w,w,p,B.p,A.q(d).ax.y,w,4,!1,w,w,w,new A.x(0,20,0,20),!1,new C.d5C(d),w,new A.x(0,10,0,10),10,w,!1,!1,!1,x*0.46),new A.m(w,10,w,w)],y.a),B.f,w,B.d,B.j,w,B.o),B.p,u.ax.k2,w,w,w,w,w,w,w,w,w,v)}}
 var z=a.updateTypes([])
-A.h97.prototype={
-$3(d,e,f){var x=null,w=B.e("paymentRequest",x,x,!0),v=$.jt().d
-return B.cn(E.aj8(d,x,w,v==null?x:"https://simpletor.app/"+("payment-request/"+v.b)),x,this.a.gcR(0),x,x,!1,x,23,!1,!1,x,!0,!0)},
-$S:220}
-A.ey3.prototype={
-$3(d,e,f){var x=null,w=this.a
-if(w.gKr(0).y)w=new C.b63(x)
-else if(w.gKr(0).ay)w=new C.b64(w.gKr(0),x)
-else if(w.gKr(0).ch&&w.gKr(0).z)w=new C.b65(x)
-else w=w.gKr(0).x&&w.gKr(0).ax.a!==0?new C.b61(w.gKr(0),x):new C.b67(this.b,!1,w.c,w.d,x)
-return w},
-$S:982};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(A.aoE,B.X)
-x(A.cEI,B.Y)
-w(B.aO,[A.h97,A.ey3])
-x(A.c1H,B.r)})()
-B.aG(b.typeUniverse,JSON.parse('{"aoE":{"X":[],"f":[]},"cEI":{"Y":["aoE"]},"c1H":{"r":[],"f":[]}}'))
-var y={h:B.t("z<hZ>"),m:B.t("z<J>"),c:B.t("O<hZ>")}};
-(a=>{a["YYWZ0JwXYZaZK93XF2X7vJrGVms="]=a.current})($__dart_deferred_initializers__);
+C.d5C.prototype={
+$0(){A.Q(this.a,!1).I(null)
+return null},
+$S:0};(function inheritance(){var x=a.inherit
+x(C.bxn,A.r)
+x(C.d5C,A.aN)})()
+A.aG(b.typeUniverse,JSON.parse('{"bxn":{"r":[],"f":[]}}'))
+var y={a:A.t("F<f>")}};
+(a=>{a["UAG9gpeHf6JScOxLhZoZWIzEXso="]=a.current})($__dart_deferred_initializers__);
