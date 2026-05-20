@@ -1,14 +1,12 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B={
-iyA(){return new B.awP(null)},
-awP:function awP(d){this.a=d}},C
-A=c[0]
-B=a.updateHolder(c[326],B)
-C=c[420]
-B.awP.prototype={
-l(d){var y=null
-return A.co(A.dx(y,y,y,y,y,!1,y,!0,A.v(A.e("messageHistoryPage",y,y,!0),y,!1,!1,y,!1,y,!1,y,!1,!1,!1,!1,1,y,!1,!1,!1,16,y,y,!1,""),!0),y,new C.aJ5(!0,y),y,y,!1,y,23,!1,!1,y,!0,!0)}}
-var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
-y(B.awP,A.r)})()
-A.aG(b.typeUniverse,JSON.parse('{"awP":{"r":[],"f":[]}}'))};
-(a=>{a["RUL59zuwbTSrDOn2+mXOQkznFeo="]=a.current})($__dart_deferred_initializers__);
+$__dart_deferred_initializers__.current=function(a,b,c,$){var B,C,A
+B=c[0]
+C=c[2]
+A=c[763]
+var z=a.updateTypes([]);(function constants(){A.Bl=new B.lm(1,"returned")
+A.Bm=new B.lm(10,"onCredit")
+A.acG=new B.lm(4,"any")
+A.Bn=new B.lm(6,"blocked")
+A.Bo=new B.lm(9,"onDebt")})();(function lazyInitializers(){var y=a.lazy
+y($,"klh","bvX",()=>B.p([C.p3,"RegularClient",A.Bl,"ReturnedClient",C.tT,"NewClient",C.qA,"MissingClient",C.HJ,"selfClient",C.HK,"deleted",A.Bn,"blockedMale",A.acG,"All",C.HL,"unknownCustomer",A.Bo,"onDebt",A.Bm,"onCredit"],B.t("lm"),B.t("n")))})()};
+(a=>{a["bMZ4USM9t4DK01xXxKI2ZGC9Vfo="]=a.current})($__dart_deferred_initializers__);

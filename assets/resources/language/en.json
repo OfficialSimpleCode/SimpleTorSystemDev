@@ -57,6 +57,9 @@
   "doYouWantToSave": "Do you want to save the changes?",
   "dontSave": "Don't save",
   "quickAdd": "Quick Add",
+  "quickAddSelectionSummary": "ITEMS items · UNITS units selected",
+  "quickAddNothingSelected": "Pick items to add",
+  "quickAddEmptyStateSubtitle": "Items you create will show up here for quick reuse",
   "pickDays": "Select which days you want to add the hours you selected",
   "enterTime": "put in time",
   "hereYouCanAddVacations": "Here you can edit your vacations.\n Please note! In order to keep the customer, it is not possible to set vacations on days with existing reservations, first you have to cancel them in the schedule",
@@ -1128,6 +1131,7 @@
   "invoice": "Invoice",
   "customerEmail": "Email",
   "customerId": "ID",
+  "idRequiredFromAmount": "Required from AMOUNT₪",
   "trialPeriodDays": "You have DAYS left",
   "sub": "Sub",
   "Premium": "Premium",
@@ -6162,7 +6166,7 @@
   "shaamExplanationReform": "The new Israel invoice reform requires an allocation number from the Tax Authority for every invoice issued by your business exceeding AMOUNT (excluding VAT).",
   "shaamExplanationAutomatic": "As Simpletor customers, you can connect now to the Tax Authority digital services, and everything will run automatically every time a relevant invoice is issued.",
   "shaamTokenRequiredTitle": "Tax Authority Connection Required",
-  "shaamTokenRequiredDescription": "This document exceeds AMOUNT (before VAT) and requires an allocation number from the Tax Authority for year YEAR. Connect to the Tax Authority to automatically receive allocation numbers, or skip to create the document without one - without an allocation number you will not be able to claim tax deductions.",
+  "shaamTokenRequiredDescription": "This document exceeds AMOUNT (before VAT) and requires an allocation number from the Tax Authority. Connect to the Tax Authority to receive automatic allocation numbers, or skip to create the document without an allocation number - please note that without an allocation number the customer will not be able to claim VAT.",
   "shaamTokenConnectedSuccess": "Connected Successfully",
   "shaamTokenConnectedSuccessDescription": "Your business is now connected to the Tax Authority. The document will automatically receive an allocation number upon creation.",
   "skipShaamToken": "Skip",
@@ -6942,6 +6946,7 @@
   "weGoingToCreateCreditInvoiceAndRefundReceipt": "To cancel the current tax invoice/receipt, a receipt and a tax invoice will be issued for the same amount",
   "weGoingToCancelDocumentExplain": "You are about to cancel this document. This action cannot be undone.",
   "mustPickCustomer": "You must choose a customer",
+  "mustPickDocumentDate": "You must select a document date",
   "documentTypesFilter": "Filter by document type",
   "paymentMethodsFilter": "Filter by payment method",
   "paymentMethodsThatAppear": "Payment methods shown in the data",
@@ -7113,5 +7118,6 @@
   "customerAddressExplain": "The customer's address - you will be able to navigate to it directly from the customer's bookings without opening the customer page",
   "caughtQuantity": "Reserved stock",
   "downloadVariantPickerSheetTitle": "Choose which documents you want to download",
-  "availableOnSite": "Available on the personalized site"
+  "availableOnSite": "Available on the personalized site",
+  "chooseCustomerFromCustomerList": "Choose from customer list"
 }

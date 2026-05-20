@@ -1,11 +1,23 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
-bBY(d){var x=new A.ati(new A.a9M(B.dc,A.ai(y.d)),A.b([],y.b),B.qc)
-x.Eh(d.a2s(!1),!1)
-return x}}
+iyQ(d,e,f){return new C.aou(d,f,e,null)},
+aou:function aou(d,e,f,g){var _=this
+_.c=d
+_.d=e
+_.e=f
+_.a=g}}
 A=c[0]
 B=c[2]
-C=a.updateHolder(c[476],C)
-var z=a.updateTypes([])
-var y={b:A.t("F<qW>"),d:A.t("aoK")}};
-(a=>{a["gH+NaFWSAch1eUZAsY5JO4+J7Bw="]=a.current})($__dart_deferred_initializers__);
+C=a.updateHolder(c[417],C)
+C.aou.prototype={
+l(d){var x=this,w=null,v=x.d
+v=v==null?w:v.c9
+if(v==null)v=A.o(y.g,y.h)
+if(v.E(0,x.e))return x.c
+v=y.e
+return A.mA(!0,new A.bQ(B.aB,w,B.ar,B.X,A.b([A.e4(x.c,0.5),A.aX(A.a4(w,w,w,w,A.G(A.b([new A.m(w,20,w,w),A.bN(B.jA,w,w,w,30),new A.m(w,10,w,w),A.v(A.e("youAreNotAssignedToStationInsurance",w,w,!1),B.C,!1,!1,w,!1,w,!1,w,!1,!1,!0,!1,1,w,!1,!1,!1,19,w,w,!1,""),new A.m(w,20,w,w)],v),B.f,w,B.R,B.a4,w,B.o),B.p,w,w,0,!1,w,w,w,new A.x(30,0,30,0),!1,w,w,new A.x(30,10,30,10),w,w,!1,!1,!1,w),w,w)],v),w))}}
+var z=a.updateTypes([]);(function inheritance(){var x=a.inherit
+x(C.aou,A.r)})()
+A.aG(b.typeUniverse,JSON.parse('{"aou":{"r":[],"f":[]}}'))
+var y={h:A.t("l4"),e:A.t("F<f>"),g:A.t("n")}};
+(a=>{a["C/7QCp/S0nZfDefOFETf7uTklmg="]=a.current})($__dart_deferred_initializers__);

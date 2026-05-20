@@ -1,38 +1,28 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B={
-cVA(d){return B.jkX(d)},
-jkX(d){var x=0,w=A.l(y.b),v,u=2,t=[],s,r,q,p,o
-var $async$cVA=A.h(function(e,f){if(e===1){t.push(f)
-x=u}for(;;)switch(x){case 0:u=4
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,D={
+a7_(d,e,f,g,h,i){var x=0,w=A.l(y.b),v
+var $async$a7_=A.h(function(j,k){if(j===1)return A.i(k,w)
+for(;;)switch(x){case 0:x=3
+return A.d(A.aR(d,A.aT("customerPage","")),$async$a7_)
+case 3:if(k!==!0){new A.U(A.e("thereIsProblem",null,null,!0),B.t,B.v,B.A,d).D()
+v=null
+x=1
+break}x=$.ag?4:6
+break
+case 4:A.aF("customerPage")
 x=7
-return A.d(A.aCz(A.hR(d,0,null),null),$async$cVA)
-case 7:s=f
-if(s.b===200){q=s.w
-v=q
-x=1
-break}$.b2().bn(0,"Failed to fetch file: "+s.b)
-v=null
-x=1
+return A.d(A.fl(null,C.iuj(e,f,g,h,i),d,null),$async$a7_)
+case 7:x=5
 break
-u=2
-x=6
-break
-case 4:u=3
-o=t.pop()
-r=A.aH(o)
-$.b2().bn(0,"Error fetching file bytes: "+A.S(r))
-v=null
-x=1
-break
-x=6
-break
-case 3:x=2
-break
-case 6:case 1:return A.j(v,w)
-case 2:return A.i(t.at(-1),w)}})
-return A.k($async$cVA,w)}}
+case 6:A.aF("customerPage")
+x=8
+return A.d(A.jd(d,null,C.iuj(e,f,g,h,i)),$async$a7_)
+case 8:case 5:case 1:return A.j(v,w)}})
+return A.k($async$a7_,w)}},C
 A=c[0]
-B=a.updateHolder(c[501],B)
+B=c[2]
+D=a.updateHolder(c[531],D)
+C=c[302]
 var z=a.updateTypes([])
-var y={b:A.t("eJ?")}};
-(a=>{a["+dABtDseYFzbQfluqSDZnlhSzQ8="]=a.current})($__dart_deferred_initializers__);
+var y={b:A.t("~")}};
+(a=>{a["XRdG6MDo4UCf1Q0Ps1EZea7h/bI="]=a.current})($__dart_deferred_initializers__);

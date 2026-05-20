@@ -1,50 +1,69 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,D,C={
-aSP(d,e,f){return C.k39(d,e,f)},
-k39(d,e,f){var x=0,w=A.l(y.f),v,u=2,t=[],s,r,q,p,o
-var $async$aSP=A.h(function(g,h){if(g===1){t.push(h)
-x=u}for(;;)switch(x){case 0:if(f.length===0){if(d.e!=null)new A.U(A.e("fileNotAvailable",null,null,!0),B.t,B.v,B.A,d).D()
+asg(d,e,f,g,h){var x=0,w=A.l(y.f),v,u,t
+var $async$asg=A.h(function(i,j){if(i===1)return A.i(j,w)
+for(;;)switch(x){case 0:x=e.a===1?3:4
+break
+case 3:u={}
+u.a=null
+t=A.Q(d,!1)
+x=5
+return A.d(A.aS("assets/animations/success_animation.json.zip",d,!1,B.V,C.cYh(new A.af(e,A.P(e).j("af<2>")).ga7(0),f,g,null,h).T(new C.i_1(u),y.e),"",null,t,!0,!0,!0,null,!1,B.a_,!1).aq(),$async$asg)
+case 5:u=u.a
+if(u==null){new A.U(A.e("invoiceNotFound",null,null,!1),B.t,B.v,B.A,d).D()
 x=1
-break}u=4
-r={}
-r.a=null
-q=A.Q(d,!1)
+break}x=6
+return A.d(A.aDc(d,!h,u,null),$async$asg)
+case 6:x=1
+break
+case 4:x=7
+return A.d(A.aR(d,A.aT("invoicesReferencePicker","")),$async$asg)
+case 7:if(j!==!0){new A.U(A.e("thereIsProblem",null,null,!0),B.t,B.v,B.A,d).D()
+v=null
+x=1
+break}A.aF("invoicesReferencePicker")
+x=8
+return A.d(A.ca(d,0.85,!1,0.7,!1,null,!0,!0,!0,D.j55(e,null,f,g,h),1,!0).bn(),$async$asg)
+case 8:v=j
+x=1
+break
+case 1:return A.j(v,w)}})
+return A.k($async$asg,w)},
+cYh(d,e,f,g,h){var x=0,w=A.l(y.o),v,u,t,s
+var $async$cYh=A.h(function(i,j){if(i===1)return A.i(j,w)
+for(;;)switch(x){case 0:x=h?3:5
+break
+case 3:u=$.dq()
+t=d.a
+s=d.b
+x=6
+return A.d(u.b8j(s,t,A.E("MM-yyyy",null).A(s),d.c),$async$cYh)
+case 6:s=j
+t=s
+x=4
+break
+case 5:u=$.dq()
+t=d.a
+s=d.b
 x=7
-return A.d(A.aS("assets/animations/success_animation.json.zip",d,!1,B.V,E.cWb(f).T(new C.i4t(r),y.e),"",null,q,!0,!1,!0,null,!1,B.a_,!1).aq(),$async$aSP)
-case 7:r=r.a
-x=r!=null?8:10
+return A.d(u.Qc(t,A.E("MM-yyyy",null).A(s),e,f),$async$cYh)
+case 7:s=j
+t=s
+case 4:v=t
+x=1
 break
-case 8:x=11
-return A.d(D.bve(r,d,e),$async$aSP)
-case 11:x=9
-break
-case 10:if(d.e!=null)new A.U(A.e("failedToDownloadFile",null,null,!0),B.t,B.v,B.A,d).D()
-case 9:u=2
-x=6
-break
-case 4:u=3
-o=t.pop()
-s=A.aH(o)
-$.b3().bp(0,"Error in share/download from URL: "+A.T(s))
-if(d.e!=null)new A.U(A.e("failedToDownloadFile",null,null,!0),B.t,B.v,B.A,d).D()
-x=6
-break
-case 3:x=2
-break
-case 6:case 1:return A.j(v,w)
-case 2:return A.i(t.at(-1),w)}})
-return A.k($async$aSP,w)},
-i4t:function i4t(d){this.a=d}},E
+case 1:return A.j(v,w)}})
+return A.k($async$cYh,w)},
+i_1:function i_1(d){this.a=d}}
 A=c[0]
 B=c[2]
-D=c[505]
-C=a.updateHolder(c[485],C)
-E=c[502]
+D=c[223]
+C=a.updateHolder(c[473],C)
 var z=a.updateTypes([])
-C.i4t.prototype={
+C.i_1.prototype={
 $1(d){this.a.a=d
-return!0},
-$S:1066};(function inheritance(){var x=a.inherit
-x(C.i4t,A.aO)})()
-var y={e:A.t("J"),f:A.t("~")}};
-(a=>{a["CrxaZrVhwUcQus5eryJB0Y0opys="]=a.current})($__dart_deferred_initializers__);
+return d!=null},
+$S:1020};(function inheritance(){var x=a.inherit
+x(C.i_1,A.aN)})()
+var y={e:A.t("I"),o:A.t("dN?"),f:A.t("~")}};
+(a=>{a["G2gjCtcaSbpHj1iYanYfhk1++GY="]=a.current})($__dart_deferred_initializers__);
