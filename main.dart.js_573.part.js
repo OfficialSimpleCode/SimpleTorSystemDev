@@ -1,92 +1,34 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
-hTT(d,e,f,g){return C.jwQ(d,e,f,!0)},
-jwQ(d,e,f,g){var w=0,v=A.l(x.g),u,t,s
-var $async$hTT=A.h(function(h,i){if(h===1)return A.i(i,v)
-for(;;)switch(w){case 0:s={}
-if(d.e==null){u=""
-w=1
-break}s.a=""
-t=A.Q(f,!1)
-w=3
-return A.d(A.aS(y.c,f,!1,B.V,$.dq().ajb(d).T(new C.hTU(s),x.e),"",null,t,!0,!0,!0,null,!1,B.a_,!1).aq(),$async$hTT)
-case 3:if(s.a!=null&&!B.lZ.p(0,d.ay)){t=s.a
-t.toString
-d.w=A.cX6(t).h(0,"signature")}u=s.a
-w=1
-break
-case 1:return A.j(u,v)}})
-return A.k($async$hTT,v)},
-hTU:function hTU(d){this.a=d},
-aCO(d,e,f,g){var w=0,v=A.l(x.f),u
-var $async$aCO=A.h(function(h,i){if(h===1)return A.i(i,v)
-for(;;)switch(w){case 0:u=e.cy
-w=u===B.e1?2:4
-break
-case 2:w=5
-return A.d(C.hK0(d,e,f,g),$async$aCO)
-case 5:w=3
-break
-case 4:w=u===B.lh?6:7
-break
-case 6:w=8
-return A.d(C.d_f(d,e,f),$async$aCO)
-case 8:case 7:case 3:return A.j(null,v)}})
-return A.k($async$aCO,v)},
-hK0(d,e,f,g){var w=0,v=A.l(x.f),u,t
-var $async$hK0=A.h(function(h,i){if(h===1)return A.i(i,v)
-for(;;)switch(w){case 0:if(!D.hSG(e)){new A.U(A.e("simpleInvoiceDocumentPdfOnCreationProcess",null,null,!0),B.t,B.v,B.A,d).D()
-w=1
-break}t=A.a0(0,2,0,0,0,0)
-w=3
-return A.d(A.aS(y.c,d,!1,B.V,$.dq().abD(A.b([e.b],x.h),B.Xf,f,f,g).T(new C.hK1(),x.e),"",null,null,!0,!0,!0,null,!1,t,!1).aq(),$async$hK0)
-case 3:case 1:return A.j(u,v)}})
-return A.k($async$hK0,v)},
-d_f(d,e,f){var w=0,v=A.l(x.f),u,t,s,r
-var $async$d_f=A.h(function(g,h){if(g===1)return A.i(h,v)
-for(;;)switch(w){case 0:r=B.i.a_(new A.R(Date.now(),0,!1).cA(e.c).a,6e7)
-if(r>=0&&r<5){new A.U(A.e("originalTakeFewMinutes",null,null,!0),B.t,B.v,B.A,d).D()
-w=1
-break}w=e.w!=null?3:5
-break
-case 3:t=e.dDr($.dU().b.CW)
-t=A.a3(t,"\n","")
-s=A.a3(t," ","")
-w=4
-break
-case 5:w=e.e!=null?6:8
-break
-case 6:w=9
-return A.d(C.hTT(e,f,d,!0),$async$d_f)
-case 9:s=h
-if(s==null){w=1
-break}w=7
-break
-case 8:new A.U(A.e("thereIsProblem",null,null,!0),B.t,B.v,B.A,d).D()
-s=null
-case 7:case 4:w=s!=null?10:11
-break
-case 10:s=A.a3(s," ","")
-w=s!==""?12:13
-break
-case 12:w=14
-return A.d(A.Zh(d,!1,s,!0),$async$d_f)
-case 14:case 13:case 11:case 1:return A.j(u,v)}})
-return A.k($async$d_f,v)},
-hK1:function hK1(){}},D
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,B={
+k0G(){return new B.cfz(null)},
+cfz:function cfz(d){this.a=d},
+f0G:function f0G(d,e){this.a=d
+this.b=e}}
 A=c[0]
-B=c[2]
-C=a.updateHolder(c[347],C)
-D=c[470]
+C=c[2]
+B=a.updateHolder(c[83],B)
+B.cfz.prototype={
+l(d){var x,w=null
+$.aoz.b=d
+x=new A.K(!1,$.a_(),y.l)
+this.pV(x)
+return A.ca(A.cQ(w,w,w,w,w,!1,w,!0,A.u(A.e("paymentRequestControl",w,w,!0),w,!1,!1,w,!1,w,!1,w,!1,!1,!1,!1,1,w,!1,!1,!1,16,w,w,!1,""),!0),w,new A.w(x,new B.f0G(this,x),w,w,y.m),w,w,!1,w,23,!1,!1,w,!0,!0)},
+pV(d){return this.e73(d)},
+e73(d){var x=0,w=A.m(y.f)
+var $async$pV=A.i(function(e,f){if(e===1)return A.j(f,w)
+for(;;)switch(x){case 0:x=2
+return A.c($.f0().Co($.ar().a,!0),$async$pV)
+case 2:d.sk(0,!0)
+d.t()
+return A.k(null,w)}})
+return A.l($async$pV,w)}}
 var z=a.updateTypes([])
-C.hTU.prototype={
-$1(d){this.a.a=d
-return d!=null},
-$S:230}
-C.hK1.prototype={
-$1(d){return!0},
-$S:109};(function inheritance(){var w=a.inheritMany
-w(A.aN,[C.hTU,C.hK1])})()
-var y={c:"assets/animations/success_animation.json.zip"}
-var x={h:A.t("F<n>"),e:A.t("I"),g:A.t("n?"),f:A.t("~")}};
-(a=>{a["nWD13GFbOwiV+84AHKh1i2maRto="]=a.current})($__dart_deferred_initializers__);
+B.f0G.prototype={
+$3(d,e,f){var x=null
+return!this.b.a?new A.pH(x):A.dn(!0,A.b([A.a2(!0,C.q,x,x,$.jeA(),x,x,x,x,0,A.e("regularPaymentRequestCounterExplain",x,x,!0),!1,x,x,C.c,!1,x,x,!0,!0,x,x,x,x,!1,x,x,0.55,x,x,x),A.a2(!0,C.q,x,x,$.jdD(),x,x,x,x,0,A.e("consumablePaymentRequestCounterExplain",x,x,!0),!1,x,x,C.c,!1,x,x,!0,!0,x,x,x,x,!1,x,x,0.55,x,x,x),A.a2(!0,C.q,x,x,$.jdv(),x,x,x,x,0,"",!1,x,x,C.c,!1,x,x,!0,!0,x,x,x,x,!1,x,x,0.55,x,x,x)],y.e),!0,C.aJ,x,x,x,!1)},
+$S:206};(function inheritance(){var x=a.inherit
+x(B.cfz,A.r)
+x(B.f0G,A.aJ)})()
+A.aw(b.typeUniverse,JSON.parse('{"cfz":{"r":[],"h":[]}}'))
+var y={e:A.t("C<h>"),m:A.t("w<E>"),l:A.t("K<E>"),f:A.t("~")}};
+(a=>{a["6TtcpB3F2/4Q1Mepb3F01d9aDeQ="]=a.current})($__dart_deferred_initializers__);

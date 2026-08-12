@@ -1,12 +1,16 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B={
-ey3(d,e){var x=e.b
-if(x!=null)d.cd.i(0,x.b,x.gBE())
-x=e.a
-if(x!=null)d.bD.i(0,x.b,x.guW())
-d.cf=A.o(y.g,y.a)}}
-A=c[0]
-B=a.updateHolder(c[338],B)
-var z=a.updateTypes([])
-var y={a:A.t("a3D"),g:A.t("n")}};
-(a=>{a["2h+PgwP3BTVKqeIdZAujSNrW5ho="]=a.current})($__dart_deferred_initializers__);
+$__dart_deferred_initializers__.current=function(a,b,c,$){var C,A={tF:function tF(d,e,f){this.c=d
+this.a=e
+this.b=f}},B
+C=c[0]
+A=a.updateHolder(c[664],A)
+B=c[939]
+A.tF.prototype={
+M(){return"PaymentTerms."+this.b},
+ghP(){switch(this.a){case 0:return"paymentTermsImmediate"
+case 1:return"paymentTermsNet0"
+default:return"paymentTermsNetDays"}}}
+var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
+y(A.tF,C.iE)})();(function constants(){B.aSU=new A.tF(-1,0,"immediate")
+B.pC=new A.tF(0,1,"net0")})()};
+(a=>{a["E8RjxHu46dbTopeAl/+oneM6Ntc="]=a.current})($__dart_deferred_initializers__);

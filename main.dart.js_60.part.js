@@ -1,32 +1,30 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,B={
-j4W(d,e){return new B.bUm(e,d,null)},
-bUm:function bUm(d,e,f){this.c=d
-this.d=e
-this.a=f},
-e8p:function e8p(){},
-e8q:function e8q(d){this.a=d}},D
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,B={boy:function boy(d){this.a=d},fW5:function fW5(d){this.a=d}}
 A=c[0]
 C=c[2]
-B=a.updateHolder(c[108],B)
-D=c[527]
-B.bUm.prototype={
-l(d){var x,w,v=null,u=A.V(this.c,y.a)
-C.c.b2(u,new B.e8p())
-x=A.v(A.e("invoices",v,v,!0),v,!1,!1,v,!1,v,!1,v,!1,!1,!1,!0,1,v,!1,!1,!1,16,v,v,!1,"")
-w=A.am(u).j("ad<1,aa7>")
-u=A.V(new A.ad(u,new B.e8q(this),w),w.j("aD.E"))
-return A.G(A.b([new A.m(v,10,v,v),x,A.G(u,C.f,v,C.d,C.j,v,C.o),new A.m(v,30,v,v)],y.e),C.f,v,C.d,C.j,v,C.o)}}
-var z=a.updateTypes(["aa7(dN)"])
-B.e8p.prototype={
-$2(d,e){return d.c.av(0,e.c)},
-$S:535}
-B.e8q.prototype={
-$1(d){return D.aGG(!1,!1,this.a.d,d,null,!0)},
-$S:z+0};(function inheritance(){var x=a.inherit
-x(B.bUm,A.r)
-x(B.e8p,A.bZ)
-x(B.e8q,A.aN)})()
-A.aG(b.typeUniverse,JSON.parse('{"bUm":{"r":[],"f":[]}}'))
-var y={a:A.t("dN"),e:A.t("F<f>")}};
-(a=>{a["1JxiuPvpgeSuG5IRzZlOIgDIOGA="]=a.current})($__dart_deferred_initializers__);
+B=a.updateHolder(c[413],B)
+B.boy.prototype={
+l(d){var x,w=null
+if(A.kK($.B().a)===7)return new A.n(w,w,w,w)
+x=A.p(d)
+return A.a3(w,w,0.3,w,w,A.u(A.e("upgradeTheBusiness",w,w,!0),w,!1,!1,w,!1,w,!1,w,!1,!0,!1,!1,1,w,!1,!1,!1,16,w,w,!1,""),C.p,x.ax.y,w,2,!1,w,w,w,w,new A.z(0,9,0,9),!1,new B.fW5(d),w,new A.z(20,5,20,5),5,w,!1,!1,!1,w)}}
+var z=a.updateTypes([])
+B.fW5.prototype={
+$0(){var x=0,w=A.m(y.d),v=this,u,t,s
+var $async$$0=A.i(function(d,e){if(d===1)return A.j(e,w)
+for(;;)switch(x){case 0:u=$.B()
+t=u.a.W
+s=$.b3().aL$.a.gb9()
+x=t.b.p(0,s)?2:3
+break
+case 2:t=u.a
+x=4
+return A.c(A.abJ(t.R8,t.RG,v.a,!1,!1,null,!1,null),$async$$0)
+case 4:case 3:return A.k(null,w)}})
+return A.l($async$$0,w)},
+$S:3};(function inheritance(){var x=a.inherit
+x(B.boy,A.r)
+x(B.fW5,A.aK)})()
+A.aw(b.typeUniverse,JSON.parse('{"boy":{"r":[],"h":[]}}'))
+var y={d:A.t("aQ")}};
+(a=>{a["5H82iOWFH02SyWI4Pqu9956JXWg="]=a.current})($__dart_deferred_initializers__);

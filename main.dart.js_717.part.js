@@ -1,28 +1,12 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
-iV8(d,e){return new C.bwX(d,!1,null)},
-bwX:function bwX(d,e,f){this.c=d
-this.d=e
-this.a=f},
-d4Z:function d4Z(d){this.a=d}}
-A=c[0]
-B=c[2]
-C=a.updateHolder(c[228],C)
-C.bwX.prototype={
-l(d){var x=null,w=$.ag?$.hq.n():x,v=A.q(d),u=A.v(A.e("loggedInToGoogleCalendar",x,x,!0),B.C,!1,!1,x,!1,x,!1,x,!1,!1,!1,!1,1,x,!1,!1,!1,20,x,x,!1,""),t=$.ah.n(),s=A.e("nowAllYourEventsInSimpleTorWillBeUnder",x,x,!0),r=this.c,q=r.r
-s=A.a3(s,"CALENDARNAME",q)
-r=r.f
-s=A.v(A.a3(s,"EMAIL",r),B.C,!1,!1,x,!1,x,!1,x,!1,!1,!1,!1,1,x,!1,!1,!1,15,x,x,!1,"")
-r=A.v(A.e("ok",x,x,!0),x,!1,!1,x,!1,x,!1,x,!1,!0,!1,!1,1,x,!1,!1,!1,19,x,x,!1,"")
-q=$.ah.n()
-return A.aq(B.q,A.G(A.b([new A.m(x,10,x,x),u,new A.dH("assets/animations/success_animation.json.zip",130,130,B.aN,x,x),new A.m(t*0.9,x,s,x),A.a4(B.q,x,x,x,r,B.p,A.q(d).ax.y,x,4,!1,x,x,x,new A.x(0,20,0,20),!1,new C.d4Z(d),x,new A.x(0,10,0,10),10,x,!1,!1,!1,q*0.46),new A.m(x,10,x,x)],y.a),B.f,x,B.d,B.j,x,B.o),B.p,v.ax.k2,x,x,x,x,x,x,x,x,x,w)}}
-var z=a.updateTypes([])
-C.d4Z.prototype={
-$0(){A.Q(this.a,!1).I(null)
-return null},
-$S:0};(function inheritance(){var x=a.inherit
-x(C.bwX,A.r)
-x(C.d4Z,A.aN)})()
-A.aG(b.typeUniverse,JSON.parse('{"bwX":{"r":[],"f":[]}}'))
-var y={a:A.t("F<f>")}};
-(a=>{a["v7HBOkGu42t+wBmH+PIADi2k0ec="]=a.current})($__dart_deferred_initializers__);
+$__dart_deferred_initializers__.current=function(a,b,c,$){var B,A={
+c1v(d,e,f){return new A.agq(f,d,e)},
+agq:function agq(d,e,f){this.a=d
+this.b=e
+this.c=f}}
+B=c[0]
+A=a.updateHolder(c[618],A)
+A.agq.prototype={}
+var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
+y(A.agq,B.ap)})()};
+(a=>{a["lp/QSzSDAosMUdXDeFyawpzCqFA="]=a.current})($__dart_deferred_initializers__);

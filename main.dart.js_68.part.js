@@ -1,79 +1,81 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,B={
-hET(d){var x=0,w=A.l(y.b),v
-var $async$hET=A.h(function(e,f){if(e===1)return A.i(f,w)
-for(;;)switch(x){case 0:x=3
-return A.d(A.dp(!0,C.HU,!1,1,!0,null,null,null,new B.bVn(null),d,C.ax,20,!0,!0,C.M,null,null,!1,null,A.e("pickLnaguage",null,null,!0)),$async$hET)
-case 3:v=f
-x=1
-break
-case 1:return A.j(v,w)}})
-return A.k($async$hET,w)},
-bVn:function bVn(d){this.a=d},
-ece:function ece(d,e,f){this.a=d
-this.b=e
-this.c=f},
-ecf:function ecf(d,e,f,g){var _=this
-_.a=d
-_.b=e
-_.c=f
-_.d=g},
-ecd:function ecd(d,e){this.a=d
-this.b=e},
-ecg:function ecg(d){this.a=d}}
+jhD(d,e,f,g,h,i){return new B.bNi(i,h,f,e,d,g,null)},
+bNi:function bNi(d,e,f,g,h,i,j){var _=this
+_.d=d
+_.r=e
+_.w=f
+_.x=g
+_.y=h
+_.z=i
+_.a=j},
+dGZ:function dGZ(d){this.a=d},
+dH_:function dH_(d){this.a=d},
+dH0:function dH0(d){this.a=d},
+dH1:function dH1(){},
+dH2:function dH2(){}},D
 A=c[0]
 C=c[2]
-B=a.updateHolder(c[187],B)
-B.bVn.prototype={
-l(d){return this.dCU(d)},
-dCU(d){var x=A.b([],y.u)
-$.dm().a.u(0,new B.ece(this,x,d))
-return A.G(x,C.f,null,C.R,C.j,null,C.o)},
-dCW(d,e,f){var x,w,v,u=null,t=$.dm().c
-if(t!==e)x=t===""&&d==="\u05e2\u05d1\u05e8\u05d9\u05ea"
-else x=!0
-w=new A.O(!1,$.a1(),y.B)
-t=x?1:0.5
-v=A.q(f)
-return A.e4(A.a4(C.q,u,u,u,A.S(A.b([this.dzC(w,e),A.bC(d,u,u,u,u,u,u,A.q(f).ok.r.cL(C.H),C.C,u,u,u,u)],y.u),C.f,u,C.R,C.j,0,u,u),C.p,v.ax.y,u,0,!1,u,u,u,new A.x(15,15,15,15),!1,new B.ecf(this,f,w,e),u,new A.x(10,10,10,10),u,u,!1,!1,!1,u),t)},
-dzC(d,e){return new A.z(d,new B.ecd(d,$.dm().d.h(0,e)),null,null,y.m)},
-P2(d,e,f){return this.dN6(d,e,f)},
-dN6(d,e,f){var x=0,w=A.l(y.v),v,u
-var $async$P2=A.h(function(g,h){if(g===1)return A.i(h,w)
-for(;;)switch(x){case 0:u=$.dm()
-if(f===u.c){x=1
-break}e.sk(0,!0)
-e.t()
-$.f3().aHo(f)
-u.avr(f).T(new B.ecg(d),y.F)
-case 1:return A.j(v,w)}})
-return A.k($async$P2,w)}}
+B=a.updateHolder(c[416],B)
+D=c[1073]
+B.bNi.prototype={
+l(d){var x,w,v,u=this,t=null,s=A.b([],y.e)
+if(u.d){x=u.y
+x=x!=null?x:t
+w=u.w?A.p(d).ax.k2:t
+s.push(A.cM(!1,w,t,!1,t,C.a1K,!0,!1,!0,!1,t,u.z,t,t,!0,new B.dGZ(d),!1,t,!1,t,t,0.55,t,t,x,t,!1,t,t))}x=u.z
+w=u.y
+w=w!=null?w:t
+v=u.w?A.p(d).ax.k2:t
+s.push(A.cM(!1,v,t,!1,t,C.a1I,!0,!1,!0,!1,t,x,t,t,!0,new B.dH_(d),!1,t,!1,t,t,0.55,t,t,w,t,!1,t,t))
+w=u.y
+w=w!=null?w:t
+v=u.w?A.p(d).ax.k2:t
+s.push(A.cM(!1,v,t,!1,t,C.l_,!0,!1,!0,!1,t,x,t,t,!0,new B.dH0(d),!1,t,!1,t,t,0.55,t,t,w,t,!1,t,t))
+w=u.y
+w=w!=null?w:t
+v=u.w?A.p(d).ax.k2:t
+s.push(A.cM(!1,v,t,!1,t,C.ih,!0,!1,!0,!1,t,x,t,t,!0,new B.dH1(),!1,t,!1,t,t,0.55,t,t,w,t,!1,t,t))
+if(u.r){w=u.y
+w=w!=null?w:t
+v=u.w?A.p(d).ax.k2:t
+s.push(A.cM(!1,v,t,!1,t,C.a2w,!0,!1,!0,!1,t,x,t,t,!0,new B.dH2(),!1,t,!1,t,t,0.55,t,t,w,t,!1,t,t))}return new A.D(D.bSs,A.R(s,C.f,t,u.x,C.i,0,t,t),t)}}
 var z=a.updateTypes([])
-B.ece.prototype={
-$2(d,e){return this.b.push(this.a.dCW(e,d,this.c))},
-$S:91}
-B.ecf.prototype={
-$0(){var x=0,w=A.l(y.v),v,u=this
-var $async$$0=A.h(function(d,e){if(d===1)return A.i(e,w)
-for(;;)switch(x){case 0:v=u.a.P2(u.b,u.c,u.d)
+B.dGZ.prototype={
+$0(){var x=0,w=A.m(y.p),v=this
+var $async$$0=A.i(function(d,e){if(d===1)return A.j(e,w)
+for(;;)switch(x){case 0:x=2
+return A.c(A.a0F(v.a,"https://simpletor.app",!0),$async$$0)
+case 2:return A.k(null,w)}})
+return A.l($async$$0,w)},
+$S:3}
+B.dH_.prototype={
+$0(){var x=0,w=A.m(y.p),v=this
+var $async$$0=A.i(function(d,e){if(d===1)return A.j(e,w)
+for(;;)switch(x){case 0:x=2
+return A.c(A.a0F(v.a,"https://simpletor.app/contact-us",!0),$async$$0)
+case 2:return A.k(null,w)}})
+return A.l($async$$0,w)},
+$S:3}
+B.dH0.prototype={
+$0(){return A.aHC(this.a,"simpletor.official")},
+$S:2}
+B.dH1.prototype={
+$0(){return $.k6().QU("+972-509992937",A.e("heyCanIGetSomeHelp",null,null,!0))},
+$S:0}
+B.dH2.prototype={
+$0(){var x=0,w=A.m(y.f),v
+var $async$$0=A.i(function(d,e){if(d===1)return A.j(e,w)
+for(;;)switch(x){case 0:x=3
+return A.c($.k6().uc("+972-509992937"),$async$$0)
+case 3:v=e
 x=1
 break
-case 1:return A.j(v,w)}})
-return A.k($async$$0,w)},
-$S:2}
-B.ecd.prototype={
-$3(d,e,f){var x,w=null
-if(this.a.a)x=new A.dH("assets/animations/loading_animation.json.zip",35,35,C.aN,w,w)
-else{x=this.b
-x=x!=null?new A.H(C.c4,A.i9(x,w,w,w,!1,30,w,w,30),w):new A.m(w,w,w,w)}return x},
-$S:33}
-B.ecg.prototype={
-$1(d){A.Q(this.a,!1).I(null)},
-$S:41};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(B.bVn,A.r)
-x(B.ece,A.bZ)
-x(B.ecf,A.aO)
-w(A.aN,[B.ecd,B.ecg])})()
-A.aG(b.typeUniverse,JSON.parse('{"bVn":{"r":[],"f":[]}}'))
-var y={u:A.t("F<f>"),F:A.t("aL"),m:A.t("z<I>"),B:A.t("O<I>"),b:A.t("@"),v:A.t("~")}};
-(a=>{a["+L6kWeV8UX7u8mn1dobDMr4i7/4="]=a.current})($__dart_deferred_initializers__);
+case 1:return A.k(v,w)}})
+return A.l($async$$0,w)},
+$S:2};(function inheritance(){var x=a.inherit,w=a.inheritMany
+x(B.bNi,A.r)
+w(A.aK,[B.dGZ,B.dH_,B.dH0,B.dH1,B.dH2])})()
+A.aw(b.typeUniverse,JSON.parse('{"bNi":{"r":[],"h":[]}}'))
+var y={e:A.t("C<h>"),p:A.t("aQ"),f:A.t("~")};(function constants(){D.bSs=new A.z(15,7,15,7)})()};
+(a=>{a["pe/8io1lTqMjn1BS05fhN8SxAKA="]=a.current})($__dart_deferred_initializers__);

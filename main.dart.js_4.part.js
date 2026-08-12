@@ -1,69 +1,67 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
-j6a(d,e,f,g,h){return new C.bWp(e,!1,d,h,g,null)},
-bWp:function bWp(d,e,f,g,h,i){var _=this
+jZb(d,e,f,g,h){return new C.c8a(e,!1,d,h,g,null)},
+c8a:function c8a(d,e,f,g,h,i){var _=this
 _.c=d
 _.d=e
 _.e=f
 _.f=g
 _.r=h
 _.a=i},
-eeZ:function eeZ(d){this.a=d}},D
+eHN:function eHN(d){this.a=d}},D
 A=c[0]
 B=c[2]
-C=a.updateHolder(c[177],C)
-D=c[629]
-C.bWp.prototype={
-l(d){var x,w,v,u,t=null,s=$.ag?$.ea.n():t,r=$.C()
-if(A.na(r.a)>=5){x=A.e("maxSubscriptionPossible",t,t,!0)
-w=$.a1T()
-v=r.a.to
-w=w.h(0,v.x?B.ci:v.a.b)
-if(w==null)w=""
-x=A.v(A.a3(x,"SUBTYPE",w),t,!1,!1,t,!1,t,!1,t,!1,!1,!0,!1,1,t,!1,!1,!1,20,t,t,!1,"")
-w=$.ah.n()
-v=A.v(A.e("maxSubscriptionPossibleExplain",t,t,!0),B.C,!1,!1,t,!1,t,!1,t,!1,!1,!0,!1,0.7,t,!1,!1,!1,16,t,t,!1,"")
-u=r.a.to
-u=D.dik.h(0,u.x?B.ci:u.a.b)
-if(u==null)u="assets/animations/golden_coin.json.zip"
-u=A.G(A.b([new A.m(t,5,t,t),x,new A.m(t,1,t,t),new A.m(w*0.7,t,v,t),new A.m(t,10,t,t),new A.dH(u,t,$.b4.n()*0.3,B.aN,t,t),new A.m(t,30,t,t)],y.e),B.f,t,B.d,B.j,t,B.o)
-x=u}else x=this.e3y(d)
-return new A.m(s,t,x,t)},
-e3y(d){var x,w,v,u,t,s=this,r=null,q=A.v(A.e("upgardeSub",r,r,!0),r,!1,!1,r,!1,r,!1,r,!1,!1,!0,!1,1,r,!1,!1,!1,20,r,r,!1,""),p=$.ah.n(),o=s.e
-if(o==null){o=s.c?"lowSubTypeAction":"lowSubTypeFeature"
-o=A.e(o,r,r,!0)}o=A.v(o,B.C,!1,!1,r,!1,r,!1,r,!1,!1,!0,!1,0.7,r,!1,!1,!1,16,r,r,!1,"")
-x=$.b4.n()
-w=s.r
-if(w!=null){v=$.ah.n()
-u=A.e("needToBuSubOrHigher",r,r,!0)
-t=$.a1T().h(0,w)
-if(t==null)t=""
-u=A.a3(u,"SUB",t)
-w=B.j4.h(0,w)
-w=5>(w==null?0:w)?" "+A.e("orMore",r,r,!0):""
-w=new A.m(v*0.7,r,A.v(A.a3(u,"ORHIGHER",w),B.C,!1,!1,r,!1,r,!1,r,!1,!1,!0,!1,0.7,r,!1,!1,!1,14,r,r,!1,""),r)}else w=new A.m(r,r,r,r)
-if(s.f){v=$.C().a.Z
-u=$.bc().b3$.a.gbm()
-v=v.b.p(0,u)?1:0.6
-u=$.ah.n()
-t=A.q(d)
-u=A.a4(B.q,r,r,r,A.v(A.e("upgradeTheSub",r,r,!0),r,!1,!1,r,!1,r,!1,r,!1,!0,!1,!1,1,r,!1,!1,!1,16,r,r,!1,""),B.p,t.ax.y,r,0,!1,r,r,r,new A.x(0,10,0,0),!1,new C.eeZ(d),v,new A.x(0,10,0,10),r,r,!1,!1,!1,u*0.6)
-v=u}else v=new A.m(r,r,r,r)
-return A.G(A.b([new A.m(r,5,r,r),q,new A.m(r,1,r,r),new A.m(p*0.7,r,o,r),new A.m(r,10,r,r),new A.dH("assets/animations/createBusinessAnimation.json.zip",r,x*0.34,B.aN,r,r),new A.m(r,30,r,r),w,v,new A.m(r,30,r,r)],y.e),B.f,r,B.d,B.j,r,B.o)}}
+C=a.updateHolder(c[197],C)
+D=c[776]
+C.c8a.prototype={
+l(d){var w,v,u,t,s=null,r=$.ag?$.dW.n():s,q=$.B()
+if(A.kK(q.a)>=7){w=A.e("maxSubscriptionPossible",s,s,!0)
+v=$.rz().h(0,q.a.x1.ghV())
+if(v==null)v=""
+w=A.u(A.a1(w,"SUBTYPE",v),s,!1,!1,s,!1,s,!1,s,!1,!1,!0,!1,1,s,!1,!1,!1,20,s,s,!1,"")
+v=$.al.n()
+u=A.u(A.e("maxSubscriptionPossibleExplain",s,s,!0),B.B,!1,!1,s,!1,s,!1,s,!1,!1,!0,!1,0.7,s,!1,!1,!1,16,s,s,!1,"")
+t=D.dwC.h(0,q.a.x1.ghV())
+if(t==null)t="assets/animations/golden_coin.json.zip"
+t=A.H(A.b([new A.n(s,5,s,s),w,new A.n(s,1,s,s),new A.n(v*0.7,s,u,s),new A.n(s,10,s,s),new A.dA(t,s,$.b8.n()*0.3,B.aF,s,s),new A.n(s,30,s,s)],x.e),B.f,s,B.c,B.i,s,B.o)
+w=t}else w=this.ezh(d)
+return new A.n(r,s,w,s)},
+ezh(d){var w,v,u,t,s,r=this,q=null,p=A.u(A.e("upgardeSub",q,q,!0),q,!1,!1,q,!1,q,!1,q,!1,!1,!0,!1,1,q,!1,!1,!1,20,q,q,!1,""),o=$.al.n(),n=r.e
+if(n==null){n=r.c?"lowSubTypeAction":"lowSubTypeFeature"
+n=A.e(n,q,q,!0)}n=A.u(n,B.B,!1,!1,q,!1,q,!1,q,!1,!1,!0,!1,0.7,q,!1,!1,!1,16,q,q,!1,"")
+w=$.b8.n()
+v=r.r
+if(v!=null){u=$.al.n()
+t=A.e("needToBuSubOrHigher",q,q,!0)
+s=$.rz().h(0,v)
+if(s==null)s=""
+t=A.a1(t,"SUB",s)
+v=B.dP.h(0,v)
+v=7>(v==null?0:v)?" "+A.e("orMore",q,q,!0):""
+v=new A.n(u*0.7,q,A.u(A.a1(t,"ORHIGHER",v),B.B,!1,!1,q,!1,q,!1,q,!1,!1,!0,!1,0.7,q,!1,!1,!1,14,q,q,!1,""),q)}else v=new A.n(q,q,q,q)
+if(r.f){u=$.B().a.W
+t=$.b3().aL$.a.gb9()
+u=u.b.p(0,t)?1:0.6
+t=$.al.n()
+s=A.p(d)
+t=A.a3(B.q,q,0.3,q,q,A.u(A.e("upgradeTheSub",q,q,!0),q,!1,!1,q,!1,q,!1,q,!1,!0,!1,!1,1,q,!1,!1,!1,16,q,q,!1,""),B.p,s.ax.y,q,0,!1,q,q,q,q,new A.z(0,10,0,0),!1,new C.eHN(d),u,new A.z(0,10,0,10),q,q,!1,!1,!1,t*0.6)
+u=t}else u=new A.n(q,q,q,q)
+return A.H(A.b([new A.n(q,5,q,q),p,new A.n(q,1,q,q),new A.n(o*0.7,q,n,q),new A.n(q,10,q,q),new A.dA("assets/animations/createBusinessAnimation.json.zip",q,w*0.34,B.aF,q,q),new A.n(q,30,q,q),v,u,new A.n(q,30,q,q)],x.e),B.f,q,B.c,B.i,q,B.o)}}
 var z=a.updateTypes([])
-C.eeZ.prototype={
-$0(){var x=0,w=A.l(y.h),v=this,u,t
-var $async$$0=A.h(function(d,e){if(d===1)return A.i(e,w)
-for(;;)switch(x){case 0:t=v.a
-A.Q(t,!1).I(null)
-u=$.C().a
-x=2
-return A.d(A.a9r(u.p4,u.R8,t,!1,!0,null,!0,null),$async$$0)
-case 2:return A.j(null,w)}})
-return A.k($async$$0,w)},
-$S:3};(function inheritance(){var x=a.inherit
-x(C.bWp,A.r)
-x(C.eeZ,A.aO)})()
-A.aG(b.typeUniverse,JSON.parse('{"bWp":{"r":[],"f":[]}}'))
-var y={e:A.t("F<f>"),h:A.t("aL")};(function constants(){D.dik=new A.u([B.fw,"assets/animations/golden_coin.json.zip",B.fc,"assets/animations/most_popular_animation.json.zip",B.ci,"assets/animations/subscription_animation.json.zip"],A.t("u<qX,n>"))})()};
-(a=>{a["TKU2oRwhXZEY6zilMqwE/VXG8y4="]=a.current})($__dart_deferred_initializers__);
+C.eHN.prototype={
+$0(){var w=0,v=A.m(x.h),u=this,t,s
+var $async$$0=A.i(function(d,e){if(d===1)return A.j(e,v)
+for(;;)switch(w){case 0:s=u.a
+A.Q(s,!1).H(null)
+t=$.B().a
+w=2
+return A.c(A.abJ(t.R8,t.RG,s,!1,!0,null,!0,null),$async$$0)
+case 2:return A.k(null,v)}})
+return A.l($async$$0,v)},
+$S:3};(function inheritance(){var w=a.inherit
+w(C.c8a,A.r)
+w(C.eHN,A.aK)})()
+A.aw(b.typeUniverse,JSON.parse('{"c8a":{"r":[],"h":[]}}'))
+var y={c:"assets/animations/subscription_animation.json.zip"}
+var x={e:A.t("C<h>"),h:A.t("aQ")};(function constants(){D.dwC=new A.x([B.hN,"assets/animations/golden_coin.json.zip",B.iG,"assets/animations/pro_business_animation.json.zip",B.n7,y.c,B.dy,y.c,B.hf,y.c],A.t("x<js,o>"))})()};
+(a=>{a["oFxunpA6rhbTlzoSxW4RdOEcc28="]=a.current})($__dart_deferred_initializers__);

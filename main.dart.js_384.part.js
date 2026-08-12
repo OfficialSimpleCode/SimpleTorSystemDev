@@ -1,28 +1,20 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,D={
-a7_(d,e,f,g,h,i){var x=0,w=A.l(y.b),v
-var $async$a7_=A.h(function(j,k){if(j===1)return A.i(k,w)
-for(;;)switch(x){case 0:x=3
-return A.d(A.aR(d,A.aT("customerPage","")),$async$a7_)
-case 3:if(k!==!0){new A.U(A.e("thereIsProblem",null,null,!0),B.t,B.v,B.A,d).D()
-v=null
-x=1
-break}x=$.ag?4:6
-break
-case 4:A.aF("customerPage")
-x=7
-return A.d(A.fl(null,C.iu_(e,f,g,h,i),d,null),$async$a7_)
-case 7:x=5
-break
-case 6:A.aF("customerPage")
-x=8
-return A.d(A.je(d,null,C.iu_(e,f,g,h,i)),$async$a7_)
-case 8:case 5:case 1:return A.j(v,w)}})
-return A.k($async$a7_,w)}},C
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,D,B={bfz:function bfz(d,e){this.c=d
+this.a=e}},C
 A=c[0]
-B=c[2]
-D=a.updateHolder(c[532],D)
-C=c[302]
-var z=a.updateTypes([])
-var y={b:A.t("~")}};
-(a=>{a["R8B5OInqsyTgnNTm1CVUJHZE9IQ="]=a.current})($__dart_deferred_initializers__);
+D=c[2]
+B=a.updateHolder(c[451],B)
+C=c[940]
+B.bfz.prototype={
+l(d){var y,x=null,w=A.p(d).ax,v=w.cx
+w=v==null?w.z:v
+v=A.p(d).ax
+y=v.CW
+v=y==null?v.y:y
+return A.cM(!1,v,w,!1,x,D.fT,!0,!1,!0,!1,x,x,x,x,!0,this.c,!1,x,!1,x,x,0.55,x,x,22,x,!1,x,x)}}
+var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
+y(B.bfz,A.r)})()
+A.aw(b.typeUniverse,JSON.parse('{"bfz":{"r":[],"h":[]}}'));(function constants(){C.alg=new A.a3J(0,null,null,null,null,null)
+C.am8=new A.z(0,40,0,40)
+C.Lw=new A.z(12,4,12,20)})()};
+(a=>{a["p4O8LCBKMHpe9mJmpuwwqau2VL4="]=a.current})($__dart_deferred_initializers__);

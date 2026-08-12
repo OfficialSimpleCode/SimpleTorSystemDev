@@ -1,27 +1,6 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C,D={
-bu_(d,e){var x=0,w=A.l(y.b),v,u
-var $async$bu_=A.h(function(f,g){if(f===1)return A.i(g,w)
-for(;;)switch(x){case 0:x=6
-return A.d(A.aR(e,A.aT("companyInvoiceDataPage","")),$async$bu_)
-case 6:x=g===!0?3:5
-break
-case 3:u=$.aI().at
-A.aF("companyInvoiceDataPage")
-x=7
-return A.d(A.fm(C.iZV(d),e,u,null,null),$async$bu_)
-case 7:v=g
-x=1
-break
-x=4
-break
-case 5:new A.U(A.e("thereIsProblem",null,null,!0),B.t,B.v,B.A,e).D()
-case 4:case 1:return A.j(v,w)}})
-return A.k($async$bu_,w)}}
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B
 A=c[0]
-B=c[2]
-C=c[297]
-D=a.updateHolder(c[476],D)
-var z=a.updateTypes([])
-var y={b:A.t("@")}};
-(a=>{a["qB0LGR9Foe8zP0uLcmxqJC8gXaQ="]=a.current})($__dart_deferred_initializers__);
+B=c[968]
+var z=a.updateTypes([]);(function constants(){B.aqw=new A.ah(63581,"MaterialIcons",null,!0)})()};
+(a=>{a["U1o+ogRu/EBug6GjWoJ6ved8eGI="]=a.current})($__dart_deferred_initializers__);
