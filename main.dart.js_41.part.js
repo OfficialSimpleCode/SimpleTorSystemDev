@@ -1,118 +1,116 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,C,D,B={
-aXS(d,e,f){return B.kqn(d,e,f)},
-kqn(d,e,f){var x=0,w=A.m(y.f),v,u,t,s,r,q,p
-var $async$aXS=A.i(function(g,h){if(g===1)return A.j(h,w)
-for(;;)switch(x){case 0:q={}
-q.a=e
+$__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,B,D,E,C={
+djv(d,e,f,g){return C.l26(d,e,f,g)},
+l26(d,e,f,g){var x=0,w=A.l(y.e),v,u,t
+var $async$djv=A.h(function(h,i){if(h===1)return A.i(i,w)
+for(;;)switch(x){case 0:t={}
+if(e.dx===B.d_&&!E.deL(e)){new A.R(A.d("simpleInvoiceDocumentPdfOnCreationProcess",null,null,!0),B.r,B.u,B.v,d).A()
+v=!1
+x=1
+break}t.a=null
+u=A.d("theEmailSendedSuccessfully",null,null,!0)
 x=3
-return A.c(B.iSK(d,e,f),$async$aXS)
-case 3:if(h!==!0){x=1
-break}u=$.app()
-t=$.B()
-p=J
-x=4
-return A.c(A.aM("assets/animations/success_animation.json.zip",d,!1,C.O,u.Ls(t.a.R8,e,f).T(new B.iDi(q),y.e),"",new B.iDj(q),null,!0,null,!1,!0,null,!0,C.T,!1).aj(),$async$aXS)
-case 4:if(!p.I(h,!0)){x=1
-break}t.b.v(0,new B.iDk(q,f,d))
-s=t.a.cx
-r=q.a
-s.i(0,r.f===C.du?r.b:r.c,r)
-s=q.a
-if(s.c===$.ar().a.a)t.c=s
-A.bD(C.aK)
-A.bD(C.b4)
-A.cv(d,null)
-A.Q(d,!1).H(null)
-s=$.bf
-x=s!=null?5:6
-break
-case 5:q=q.a
-x=q.f===C.du?7:8
-break
-case 7:x=9
-return A.c(B.deL(s,q),$async$aXS)
-case 9:case 8:case 6:case 1:return A.k(v,w)}})
-return A.l($async$aXS,w)},
-iSK(d,e,f){var x=0,w=A.m(y.h),v,u,t,s,r,q
-var $async$iSK=A.i(function(g,h){if(g===1)return A.j(h,w)
-for(;;)switch(x){case 0:s=A.e(e.f===C.du?"invitingCrewMember":"addingCrewMember",null,null,!0)
-r=A.e("invite",null,null,!0)
-q=A.e("cancel",null,null,!0)
-if(e.f===C.du)u=f!=null?"doYouSureYouWantToInviteCrewMemberToWorker":"doYouSureYouWantToInviteCrewMember"
-else u=f!=null?"doYouSureYouWantToAddCrewMemberToWorker":"doYouSureYouWantToAddCrewMember"
-u=A.e(u,null,null,!0)
-t=e.a
-u=A.a1(u,"NAME",t)
-t=$.B().b.h(0,f)
-t=t==null?null:t.go
-if(t==null)t=""
-x=3
-return A.c(A.d9(!0,C.aQ,!1,1,!0,null,q,null,A.u(A.a1(u,"WORKER",t),C.B,!1,!1,null,!1,null,!1,null,!1,!1,!1,!1,1,null,!1,!1,!1,14,null,null,!1,""),d,C.ap,20,!0,!0,C.L,new B.iSQ(),new B.iSR(),!1,r,s),$async$iSK)
-case 3:v=h
+return A.c(A.aO("assets/animations/success_animation.json.zip",d,!1,B.N,$.dr().yW(e.b,f,g).U(new C.iU1(t),y.e),u,null,null,!0,null,!1,!1,null,!1,B.Q,!1).ai(),$async$djv)
+case 3:if(i==null){v=!1
+x=1
+break}u=t.a
+if(u==null){v=!1
+x=1
+break}if(u.gaBE()){v=!0
+x=1
+break}if(d.e==null){v=!1
+x=1
+break}x=4
+return A.c(C.dgX(d,e,f,t.a.a),$async$djv)
+case 4:v=!1
 x=1
 break
-case 1:return A.k(v,w)}})
-return A.l($async$iSK,w)},
-iDj:function iDj(d){this.a=d},
-iDi:function iDi(d){this.a=d},
-iDk:function iDk(d,e,f){this.a=d
-this.b=e
-this.c=f},
-iSR:function iSR(){},
-iSQ:function iSQ(){},
-deL(d,e){var x=0,w=A.m(y.f),v
-var $async$deL=A.i(function(f,g){if(f===1)return A.j(g,w)
+case 1:return A.j(v,w)}})
+return A.k($async$djv,w)},
+iU1:function iU1(d){this.a=d},
+k8T(d){return new C.bke(d,null)},
+bke:function bke(d,e){this.c=d
+this.a=e},
+d0S:function d0S(d,e,f){var _=this
+_.d=d
+_.e=e
+_.f=f
+_.c=_.a=null},
+i26:function i26(d){this.a=d},
+i25:function i25(d,e){this.a=d
+this.b=e},
+dgX(d,e,f,g){var x=0,w=A.l(y.f),v
+var $async$dgX=A.h(function(h,i){if(h===1)return A.i(i,w)
 for(;;)switch(x){case 0:x=3
-return A.c(A.aP(d,A.aO("afterInviteCrewMemberSheet","")),$async$deL)
-case 3:if(g!==!0){new A.S(A.e("thereIsProblem",null,null,!0),C.t,C.u,C.w,d).A()
-v=null
+return A.c(A.aQ(d,A.aP("emailRetrySheet","")),$async$dgX)
+case 3:if(i!==!0){new A.R(A.d("thereIsProblem",null,null,!0),B.r,B.u,B.v,d).A()
 x=1
-break}A.aC("afterInviteCrewMemberSheet")
+break}A.ay("emailRetrySheet")
 x=4
-return A.c(A.bT(d,null,!0,0.85,!1,0.7,!1,null,!0,!0,null,!0,!0,D.jNI(e),1,!0).bc(),$async$deL)
-case 4:v=g
+return A.c(A.bR(d,null,!0,0.85,!1,0.7,!1,null,!0,!0,null,!0,!0,D.jXU(e,f,g),1,!0).b7(),$async$dgX)
+case 4:v=i
 x=1
 break
-case 1:return A.k(v,w)}})
-return A.l($async$deL,w)}}
+case 1:return A.j(v,w)}})
+return A.k($async$dgX,w)}},F,G
 J=c[1]
 A=c[0]
-C=c[2]
-D=c[333]
-B=a.updateHolder(c[463],B)
+B=c[2]
+D=c[230]
+E=c[609]
+C=a.updateHolder(c[231],C)
+F=c[672]
+G=c[718]
+C.bke.prototype={
+P(){var x=$.a_()
+return new C.d0S(new A.bS(B.bd,x),new A.bS(B.bd,x),new A.J(A.am(y.g),x,y.a))}}
+C.d0S.prototype={
+a5(){this.aa()},
+l(d){var x,w=this,v=null,u=A.u(A.d("sendingOnMail",v,v,!0),v,!1,!1,v,!1,v,!1,v,!1,!1,!0,!1,1,v,!1,!1,!1,16,v,v,!1,""),t=F.acg(w.d,3,"emailsThatTheDocumentWillSendTo","emailsPickerExplainForDocument",w.f,v,!0),s=A.q(d).ax,r=s.CW
+s=r==null?s.y:r
+r=y.l
+s=A.H(A.b([new A.m(v,25,v,v),A.cK(!1,!1,s,v,!0,v,v,w.e,v,v,v,v,v,v,v,v,A.d("additionalEmailContentForRegular",v,v,!1),v,!0,v,v,v,3,v,v,v,v,!1,v,v,!0,v,!1,v,!0,!0,!0,!0,!0,!1,v,v,v,B.aA,v,v,v,B.aD),new A.aN(B.aF,v,v,new A.D(G.Es,A.u(A.d("additionalEmailContentForRegularExplain",v,v,!1),B.aS,!1,!1,v,!1,v,!1,v,!1,!1,!0,!1,0.5,v,!1,!1,!1,12,v,v,!1,""),v),v)],r),B.f,v,B.c,B.i,v,B.o)
+x=A.q(d)
+return A.bD(B.b4,A.H(A.b([new A.m(v,10,v,v),u,t,new A.bc(new A.D(B.oW,s,v),!0,!0,v,B.c,v),new A.cj(A.a0(!0,B.q,v,v,B.F,v,v,new A.D(new A.z(0,10,0,10),A.aU(A.S(A.b([new A.ad(B.a2h,24,!1,1,!0,!1,!1,v,v),new A.m(4,v,v,v),A.u(A.d("sendEmail",v,v,!0),v,!1,!1,v,!1,v,!1,v,!1,!0,!1,!1,1,v,!1,!1,!1,16,v,v,!1,"")],r),B.f,v,B.R,B.i,0,v,v),v,v),v),x.ax.y,0,"",!1,v,v,B.c,!1,v,new A.z(20,0,20,0),!0,!0,v,v,v,v,!1,v,v,0.55,v,v,v),new C.i25(w,d),0.3,B.M,v),new A.m(v,30,v,v)],r),B.f,v,B.c,B.i,v,B.o),B.L,!1,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,new C.i26(d),v,v,v,v,v,v,v,!1,B.aa)},
+hX(d){return this.efY(d)},
+efY(d){var x=0,w=A.l(y.f),v,u=this,t,s,r,q
+var $async$hX=A.h(function(e,f){if(e===1)return A.i(f,w)
+for(;;)switch(x){case 0:r=u.d
+q=B.l.aq(r.a.a)
+if(q.length!==0&&A.ZD(q)==null){t=u.f
+s=t.a
+if(!s.p(0,q)){if(s.gE(s)>=3){r=A.d("youCanOnlyHaveMailsInList",null,null,!0)
+t=B.h.m(3)
+new A.R(A.a1(r,"AMOUNT",t),B.r,B.bC,B.v,d).A()
+x=1
+break}r.hS(0,B.dQ)
+r=A.cY(s,y.g)
+r.C(0,q)
+t.sk(0,r)
+t.t()}}r=u.f
+if(J.c8(r.a)){new A.R(A.d("mustChooseAtLeastOneEmail",null,null,!0),B.r,B.fq,B.v,d).A()
+x=1
+break}x=3
+return A.c(C.djv(d,u.a.c,u.e.a.a,J.eb(r.a)),$async$hX)
+case 3:if(!f){x=1
+break}A.Q(d,!1).H(null)
+case 1:return A.j(v,w)}})
+return A.k($async$hX,w)}}
 var z=a.updateTypes([])
-B.iDj.prototype={
-$0(){return A.e(this.a.a.f===C.du?"crewMemberInvited":"crewMemberAdded",null,null,!0)},
-$S:4}
-B.iDi.prototype={
+C.iU1.prototype={
 $1(d){this.a.a=d
-return!0},
-$S:688}
-B.iDk.prototype={
-$2(d,e){var x,w,v,u=this
-if(e.c!==u.b)return
-x=e.bA
-w=x.a
-if(w!==0)if(w===1){w=u.a.a
-x=x.h(0,w.f===C.du?w.b:w.c)!=null
-v=x}else v=!1
-else v=!0
-if(v&&e.b.length===0)$.c1().an8(u.c,u.a.a.b,e)
-x=e.bA
-w=u.a.a
-x.i(0,w.f===C.du?w.b:w.c,w)},
-$S:31}
-B.iSR.prototype={
-$1(d){A.Q(d,!1).H(!0)
-return null},
-$S:5}
-B.iSQ.prototype={
-$1(d){A.Q(d,!1).H(!1)
-return null},
-$S:5};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(B.iDj,A.aK)
-w(A.aJ,[B.iDi,B.iSR,B.iSQ])
-x(B.iDk,A.bN)})()
-var y={e:A.t("E"),h:A.t("E?"),f:A.t("~")}};
-(a=>{a["7sCaRlPZee0Qp8wy/F+4H7joIOc="]=a.current})($__dart_deferred_initializers__);
+return d.gaBE()},
+$S:632}
+C.i26.prototype={
+$0(){return A.cB(this.a)},
+$S:0}
+C.i25.prototype={
+$0(){return this.a.hX(this.b)},
+$S:0};(function inheritance(){var x=a.inherit,w=a.inheritMany
+x(C.iU1,A.aF)
+x(C.bke,A.W)
+x(C.d0S,A.Y)
+w(A.aI,[C.i26,C.i25])})()
+A.av(b.typeUniverse,JSON.parse('{"bke":{"W":[],"f":[]},"d0S":{"Y":["bke"]}}'))
+var y={l:A.t("C<f>"),g:A.t("n"),a:A.t("J<aY<n>>"),e:A.t("E"),f:A.t("~")}};
+(a=>{a["VxQDhzkaR4/MF6RLZliexmZNboU="]=a.current})($__dart_deferred_initializers__);

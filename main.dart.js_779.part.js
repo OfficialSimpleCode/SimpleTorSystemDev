@@ -1,15 +1,36 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var C,A,B
-C=c[0]
-A=c[2]
-B=c[821]
+$__dart_deferred_initializers__.current=function(a,b,c,$){var B,C,D,A={
+jUM(d,e,f,g,h){return new A.bRQ(e,g,f,h,d,null)},
+bRQ:function bRQ(d,e,f,g,h,i){var _=this
+_.c=d
+_.d=e
+_.e=f
+_.f=g
+_.r=h
+_.a=i},
+dSH:function dSH(d){this.a=d},
+dSI:function dSI(d){this.a=d}},E
+B=c[0]
+C=c[2]
+D=c[587]
+A=a.updateHolder(c[172],A)
+E=c[787]
+A.bRQ.prototype={
+l(d){var x,w=this,v=null,u=w.r,t=B.d("contact",v,v,!1),s=w.f
+if(s==null)s=B.d("contactBusinessOwner",v,v,!1)
+x=B.b([],y.a)
+if(w.d)x.push(new D.ajT(C.hW,B.d("sendMessage",v,v,!0),new A.dSH(w),v,u,v))
+if(w.e)x.push(new D.ajT(C.a2S,B.d("call",v,v,!1),new A.dSI(w),v,u,v))
+return D.dlA(E.agm,u,C.aqJ,x,s,t)}}
 var z=a.updateTypes([])
-var y={e:C.t("dt<o3>"),d:C.t("dt<nD>")};(function constants(){B.dXU=new C.dt([A.j6,A.hw],y.d)
-B.dXP=new C.dt([A.fh,A.hw],y.d)
-B.dXO=new C.dt([A.fh,A.j6],y.d)
-B.aMt=new C.x([A.fh,B.dXU,A.j6,B.dXP,A.hw,B.dXO],C.t("x<nD,aX<nD>>"))
-B.dXn=new C.dt([A.C1,A.ez],y.e)
-B.dYN=new C.dt([A.i3,A.ez],y.e)
-B.dXE=new C.dt([A.i3,A.C1],y.e)
-B.aPg=new C.x([A.i3,B.dXn,A.C1,B.dYN,A.ez,B.dXE],C.t("x<o3,aX<o3>>"))})()};
-(a=>{a["SxmUZ8HbM4AcFJXzQKizNTA65lI="]=a.current})($__dart_deferred_initializers__);
+A.dSH.prototype={
+$0(){return $.k4().WP(this.a.c)},
+$S:0}
+A.dSI.prototype={
+$0(){return $.k4().u3(this.a.c)},
+$S:0};(function inheritance(){var x=a.inherit,w=a.inheritMany
+x(A.bRQ,B.r)
+w(B.aI,[A.dSH,A.dSI])})()
+B.av(b.typeUniverse,JSON.parse('{"bRQ":{"r":[],"f":[]}}'))
+var y={a:B.t("C<f>")}};
+(a=>{a["jiVnsMxGHC/wz2cmUmezRdDoPq4="]=a.current})($__dart_deferred_initializers__);

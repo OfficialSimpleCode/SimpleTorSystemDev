@@ -1,27 +1,45 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
-aXE(d,e,f,g){var x=0,w=A.m(y.f),v,u
-var $async$aXE=A.i(function(h,i){if(h===1)return A.j(i,w)
-for(;;)switch(x){case 0:if(e.dx===B.cW){if(!D.ddI(e)){new A.S(A.e("simpleInvoiceDocumentPdfOnCreationProcess",null,null,!0),B.t,B.u,B.w,d).A()
-x=1
-break}}else if(!C.jB6(e)){new A.S(A.e("originalTakeFewMinutes",null,null,!0),B.t,B.u,B.w,d).A()
-x=1
-break}u=A.a6(0,2,0,0,0,0)
+$__dart_deferred_initializers__.current=function(a,b,c,$){var J,B,E,D,A={
+bGn(d,e){return A.l0y(d,e)},
+l0y(d,e){var x=0,w=B.l(y.d),v,u,t,s
+var $async$bGn=B.h(function(f,g){if(f===1)return B.i(g,w)
+for(;;)switch(x){case 0:s={}
+s.a=!1
 x=3
-return A.c(A.aM("assets/animations/success_animation.json.zip",d,!1,B.O,$.dl().agC(A.b([e],y.k),B.zj,f,f,g).T(new C.iuh(),y.e),"",null,null,!0,null,!0,!0,null,!1,u,!1).aj(),$async$aXE)
-case 3:case 1:return A.k(v,w)}})
-return A.l($async$aXE,w)},
-jB6(d){var x=B.h.a2(new A.T(Date.now(),0,!1).cq(d.c).a,6e7)
-return x<0||x>=5},
-iuh:function iuh(){}},D
-A=c[0]
-B=c[2]
-C=a.updateHolder(c[506],C)
-D=c[583]
+return B.c(F.bGo(d,!0,!1,e,C.d7e,!1,!1,E.E4,E.ES,null,null,$.cV().b.k2.dy,new A.iQB(s),C.dZ2),$async$bGn)
+case 3:u=g
+if(s.a){v=C.c_Y
+x=1
+break}if(u==null||J.c8(u)){v=null
+x=1
+break}t=J.eV(u)
+v=new A.b7C(new A.c1m(t.c,t.a))
+x=1
+break
+case 1:return B.j(v,w)}})
+return B.k($async$bGn,w)},
+c1m:function c1m(d,e){this.b=d
+this.c=e},
+b7C:function b7C(d){this.a=d},
+iQB:function iQB(d){this.a=d}},C,F
+J=c[1]
+B=c[0]
+E=c[2]
+D=c[919]
+A=a.updateHolder(c[555],A)
+C=c[1142]
+F=c[634]
+A.c1m.prototype={
+gls(){return this.c}}
+A.b7C.prototype={}
 var z=a.updateTypes([])
-C.iuh.prototype={
-$1(d){return!0},
-$S:73};(function inheritance(){var x=a.inherit
-x(C.iuh,A.aJ)})()
-var y={k:A.t("C<e3>"),e:A.t("E"),f:A.t("~")}};
-(a=>{a["mxJigk0RXwT4S1cYG5nRD7BpSFI="]=a.current})($__dart_deferred_initializers__);
+A.iQB.prototype={
+$0(){return this.a.a=!0},
+$S:0};(function inheritance(){var x=a.inheritMany,w=a.inherit
+x(B.ap,[A.c1m,A.b7C])
+w(A.iQB,B.aI)})()
+var y={d:B.t("b7C?")};(function constants(){var x=a.makeConstList
+C.c_Y=new A.b7C(null)
+C.d7e=x(["pdf","jpg","jpeg","png","webp","heic","heif"],B.t("C<n>"))
+C.dZ2=new B.dn([D.ER,D.a1L,D.EQ],B.t("dn<aac>"))})()};
+(a=>{a["YNNDX7Y8gjhJNtCm1/NHOvUBbUU="]=a.current})($__dart_deferred_initializers__);

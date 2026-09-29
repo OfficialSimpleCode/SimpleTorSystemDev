@@ -1,36 +1,59 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
-k_T(){return new C.ccV(null)},
-ccV:function ccV(d){this.a=d},
-eVg:function eVg(d,e){this.a=d
-this.b=e}}
-A=c[0]
-B=c[2]
-C=a.updateHolder(c[120],C)
-C.ccV.prototype={
-l(d){var x=null,w=A.u(A.e("fromNowOnYouCanSendWhatsapp",x,x,!0),x,!1,!1,x,!1,x,!1,x,!1,!1,!0,!1,1,x,!1,!1,!1,20,x,x,!1,""),v=A.u(A.e("welcomeToGoldenSubscriptionNowYouCanSendWhatsappToYourClients",x,x,!0),B.B,!1,!1,x,!1,x,!1,x,!1,!1,!0,!1,1,x,!1,!1,!1,14,x,x,!0,""),u=A.p(d)
-return A.H(A.b([new A.n(x,20,x,x),new A.dA("assets/animations/whatsapp.json.zip",100,100,B.aF,x,x),new A.n(x,30,x,x),w,new A.D(B.bY,v,x),new A.cn(A.a2(!0,B.q,x,x,B.H,x,x,new A.D(B.aZ,A.u(A.e("tryIt",x,x,!0),B.B,!1,!1,x,!1,x,!1,x,!1,!0,!1,!1,1,x,!1,!1,!1,16,x,x,!1,""),x),u.ax.y,0,"",!1,x,x,B.c,!1,x,new A.z(0,10,0,0),!0,!0,x,x,x,x,!1,x,x,0.55,x,x,x),new C.eVg(this,d),0.3,B.L,x),new A.n(x,30,x,x)],y.e),B.f,x,B.c,B.i,x,B.o)},
-EL(d){return this.egX(d)},
-egX(d){var x=0,w=A.m(y.f),v
-var $async$EL=A.i(function(e,f){if(e===1)return A.j(f,w)
-for(;;)switch(x){case 0:A.Q(d,!1).H(null)
-v=y.b
-x=2
-return A.c(A.ck(A.a6(0,0,0,100,0,0),null,v),$async$EL)
-case 2:$.aV().aps()
-A.aYQ(d)
+$__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,C,D,B={
+bGW(d,e,f){var x=0,w=A.l(y.b),v,u,t,s,r
+var $async$bGW=A.h(function(g,h){if(g===1)return A.i(h,w)
+for(;;)switch(x){case 0:t=e.a
+s=t.ch
+r=s.ax
+if(r==null){r=t.at
+t=s.ha(r==null?t.a:r).gvn()}else t=r
+u=A.ka(null,null,new B.iYG(),!1,t,200,1,null,null,!0,!1)
 x=3
-return A.c(A.ck(A.a6(0,0,0,300,0,0),null,v),$async$EL)
-case 3:v=$.bf
-if(v!=null)new A.S(A.e("pressOnWhatsappButtonToStart",null,null,!0),A.a6(0,0,0,0,0,3),B.u,B.f6,v).A()
-return A.k(null,w)}})
-return A.l($async$EL,w)}}
+return A.c(u.iL(d),$async$bGW)
+case 3:t=e.a
+s=t.ch
+r=s.ax
+if(r==null){r=t.at
+t=s.ha(r==null?t.a:r).gvn()}else t=r
+s=u.as
+s===$&&A.a()
+if(t===s){new A.R(A.d("sameData",null,null,!0),C.r,C.u,C.ax,d).A()
+x=1
+break}x=4
+return A.c(B.iLn(d,e,s,f),$async$bGW)
+case 4:case 1:return A.j(v,w)}})
+return A.k($async$bGW,w)},
+iLn(d,e,f,g){var x=0,w=A.l(y.b),v,u,t,s,r
+var $async$iLn=A.h(function(h,i){if(h===1)return A.i(i,w)
+for(;;)switch(x){case 0:u=A.Q(d,!1)
+t=$.k7()
+s=e.a
+r=J
+x=3
+return A.c(A.aO("assets/animations/success_animation.json.zip",d,!1,C.N,t.aOV(s,s.at,f,g),"",null,u,!0,null,!0,!0,null,!1,C.Q,!1).ai(),$async$iLn)
+case 3:if(!r.I(i,!0)){x=1
+break}if(A.a3n(e.a)<f){u=e.a
+u=u.RG>0&&!A.akN(u)}else u=!1
+if(u)new A.R(A.d("updateTheWaitingList",null,null,!1),C.r,C.u,C.ax,d).A()
+D.pU(e,new B.iLo(f),!1)
+case 1:return A.j(v,w)}})
+return A.k($async$iLn,w)},
+iYG:function iYG(){},
+iLo:function iLo(d){this.a=d}}
+J=c[1]
+A=c[0]
+C=c[2]
+D=c[639]
+B=a.updateHolder(c[524],B)
 var z=a.updateTypes([])
-C.eVg.prototype={
-$0(){return this.a.EL(this.b)},
-$S:2};(function inheritance(){var x=a.inherit
-x(C.ccV,A.r)
-x(C.eVg,A.aK)})()
-A.aw(b.typeUniverse,JSON.parse('{"ccV":{"r":[],"h":[]}}'))
-var y={e:A.t("C<h>"),b:A.t("@"),f:A.t("~")}};
-(a=>{a["211aONboP3A4l6xBVyA4DICbeCQ="]=a.current})($__dart_deferred_initializers__);
+B.iYG.prototype={
+$1(d){var x=null
+return A.u(A.d("chooseMaxParticpants",x,x,!1),C.B,!1,!1,x,!1,x,!1,x,!1,!1,!0,!1,1,C.cZ,!1,!1,!1,14,x,x,!1,"")},
+$S:45}
+B.iLo.prototype={
+$1(d){d.a.ch.ax=this.a},
+$S:63};(function inheritance(){var x=a.inheritMany
+x(A.aF,[B.iYG,B.iLo])})()
+A.av(b.typeUniverse,JSON.parse('{"auY":{"W":[],"f":[]}}'))
+var y={b:A.t("~")}};
+(a=>{a["qzwWTUsgn70t2AWnjGkI+UEVg4c="]=a.current})($__dart_deferred_initializers__);

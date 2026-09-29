@@ -1,28 +1,39 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
-jNJ(d,e){return new C.bIx(d,!1,null)},
-bIx:function bIx(d,e,f){this.c=d
-this.d=e
-this.a=f},
-dnB:function dnB(d){this.a=d}}
+jZY(d){return new C.c4s(d,null)},
+c4s:function c4s(d,e){this.c=d
+this.a=e},
+eua:function eua(d){this.a=d},
+c4q:function c4q(d,e){this.c=d
+this.a=e}}
 A=c[0]
 B=c[2]
-C=a.updateHolder(c[251],C)
-C.bIx.prototype={
-l(d){var x=null,w=$.ag?$.fm.n():x,v=A.p(d),u=A.u(A.e("loggedInToGoogleCalendar",x,x,!0),B.B,!1,!1,x,!1,x,!1,x,!1,!1,!1,!1,1,x,!1,!1,!1,20,x,x,!1,""),t=$.al.n(),s=A.e("nowAllYourEventsInSimpleTorWillBeUnder",x,x,!0),r=this.c,q=r.r
-s=A.a1(s,"CALENDARNAME",q)
-r=r.f
-s=A.u(A.a1(s,"EMAIL",r),B.B,!1,!1,x,!1,x,!1,x,!1,!1,!1,!1,1,x,!1,!1,!1,15,x,x,!1,"")
-r=A.u(A.e("ok",x,x,!0),x,!1,!1,x,!1,x,!1,x,!1,!0,!1,!1,1,x,!1,!1,!1,19,x,x,!1,"")
-q=$.al.n()
-return A.as(B.q,A.H(A.b([new A.n(x,10,x,x),u,new A.dA("assets/animations/success_animation.json.zip",130,130,B.aF,x,x),new A.n(t*0.9,x,s,x),A.a3(B.q,x,0.3,x,x,r,B.p,A.p(d).ax.y,x,4,!1,x,x,x,x,new A.z(0,20,0,20),!1,new C.dnB(d),x,new A.z(0,10,0,10),10,x,!1,!1,!1,q*0.46),new A.n(x,10,x,x)],y.a),B.f,x,B.c,B.i,x,B.o),B.p,v.ax.k2,x,x,x,x,x,x,x,x,x,w)}}
+C=a.updateHolder(c[400],C)
+C.c4s.prototype={
+l(d){var x=null,w=this.gaQA(),v=w.length>5?$.b6.n()*0.7:1/0,u=A.b([new A.m(x,10,x,x),A.u(A.d("attendeesAttachedToEvent",x,x,!0),x,!1,!1,x,!1,x,!1,x,!1,!1,!1,!1,1,x,!1,!1,!1,16,x,x,!1,"")],y.a)
+B.d.J(u,w)
+u.push(new A.m(x,30,x,x))
+return new A.dU(new A.b_(0,1/0,0,v),A.dO(A.H(u,B.f,x,B.c,B.i,x,B.o),x,B.L,x,x,x,x,B.S),x)},
+gaQA(){var x=A.b([],y.a)
+B.d.v(this.c.dy,new C.eua(x))
+return x}}
+C.c4q.prototype={
+l(d){var x,w,v,u=null,t=A.q(d).ax,s=t.CW
+t=s==null?t.y:s
+s=this.c
+x=s.c
+w=s.d
+x=x===""?w:x+" ("+w+")"
+w=s.a
+w=w>0?" +"+w:""
+v=s.f?A.d("optionalAttendee",u,u,!0):u
+return A.a0(!0,B.q,u,u,B.F,u,u,A.aV(!1,!1,!1,B.c,B.f,u,!0,!1,!1,!1,u,u,8,!1,!0,!0,!1,!0,u,!0,new A.z(10,10,10,10),new A.dv(B.xy,new A.ad(B.pa,24,!1,1,!1,!1,!1,B.G,u),u,u,!0,u),10,u,u,!1,v,!1,u,u,u,12,A.S(A.b([new A.m(15,u,u,u),A.u(A.d(s.x,u,u,!0),u,!1,!1,u,!1,u,!1,u,!1,!1,!1,!0,1,u,!1,!1,!1,12,u,u,!0,"")],y.a),B.f,u,B.c,B.i,0,u,u),u,u,x+w,14,u,0,u),t,0,"",!1,u,u,B.c,!1,u,new A.z(0,16,0,0),!1,!0,u,u,u,u,!1,u,u,0.55,u,u,u)}}
 var z=a.updateTypes([])
-C.dnB.prototype={
-$0(){A.Q(this.a,!1).H(null)
-return null},
-$S:0};(function inheritance(){var x=a.inherit
-x(C.bIx,A.r)
-x(C.dnB,A.aK)})()
-A.aw(b.typeUniverse,JSON.parse('{"bIx":{"r":[],"h":[]}}'))
-var y={a:A.t("C<h>")}};
-(a=>{a["loJai7sCCMJ/5VzvzIKmBLk/wOU="]=a.current})($__dart_deferred_initializers__);
+C.eua.prototype={
+$1(d){this.a.push(new C.c4q(d,null))},
+$S:3277};(function inheritance(){var x=a.inheritMany,w=a.inherit
+x(A.r,[C.c4s,C.c4q])
+w(C.eua,A.aF)})()
+A.av(b.typeUniverse,JSON.parse('{"c4s":{"r":[],"f":[]},"c4q":{"r":[],"f":[]}}'))
+var y={a:A.t("C<f>")}};
+(a=>{a["U7MGAkx2s27vdiaF1pPdHEkzukI="]=a.current})($__dart_deferred_initializers__);

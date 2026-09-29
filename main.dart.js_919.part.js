@@ -1,31 +1,55 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,D,B={
-jVm(){return new B.c1I(null)},
-c1I:function c1I(d){this.a=d},
-enj:function enj(d){this.a=d},
-enk:function enk(){},
-enl:function enl(d){this.a=d}}
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C,D={
+awt(d,e,f,g){var x=0,w=A.l(y.b),v,u,t
+var $async$awt=A.h(function(h,i){if(h===1)return A.i(i,w)
+for(;;)switch(x){case 0:u=$.B().a
+t=u.x1
+if(t.c||t.b){A.qv(d)
+v=null
+x=1
+break}x=A.r2()?3:4
+break
+case 3:x=5
+return A.c(A.oD(d),$async$awt)
+case 5:v=null
+x=1
+break
+case 4:u=A.kA(u)
+x=u<4?6:7
+break
+case 6:x=8
+return A.c(A.jt(d,null,!1,B.dC,!0),$async$awt)
+case 8:x=1
+break
+case 7:x=12
+return A.c(A.aQ(d,A.aP("customerBalancePage","")),$async$awt)
+case 12:x=i===!0?9:11
+break
+case 9:x=!$.af?13:15
+break
+case 13:A.ay("customerBalancePage")
+x=16
+return A.c(A.eP(C.jlX(e,f,g),d,null,null,null),$async$awt)
+case 16:u=i
+x=14
+break
+case 15:A.ay("customerBalancePage")
+x=17
+return A.c(A.eF(null,C.jlX(e,f,g),d,null),$async$awt)
+case 17:u=i
+case 14:v=u
+x=1
+break
+x=10
+break
+case 11:new A.R(A.d("thereIsProblem",null,null,!0),B.r,B.u,B.v,d).A()
+case 10:case 1:return A.j(v,w)}})
+return A.k($async$awt,w)}},E
 A=c[0]
-C=c[2]
-D=c[676]
-B=a.updateHolder(c[175],B)
-B.c1I.prototype={
-l(d){var x=null,w=$.ag?$.fm.n():x,v=D.eb(!1,x,x,x,new B.enj(d),new B.enk(),!0,!0,!0,!1,x),u=$.al.n(),t=A.u(A.e("userCreated",x,x,!0),C.B,!1,!1,x,!1,x,!1,x,!1,!1,!0,!1,1,x,!1,!1,!1,19,x,x,!1,""),s=$.al.n(),r=A.u(A.e("userCreatedSuccessfully",x,x,!0),C.B,!1,!1,x,!1,x,!1,x,!1,!1,!0,!1,0.7,x,!1,!1,!1,14,x,x,!1,""),q=$.ag?$.b8.n()*0.3:x,p=$.al.n(),o=$.al.n(),n=A.p(d)
-return new A.n(w,x,A.aS(A.H(A.b([v,new A.n(u*0.8,x,t,x),new A.n(x,3,x,x),new A.n(s*0.7,x,r,x),new A.n(x,15,x,x),new A.dA("assets/animations/new_user.json.zip",p*0.7,q,C.aF,x,x),A.a3(C.q,x,0.3,x,x,A.u(A.e("continueToGuide",x,x,!0),x,!1,!1,x,!1,x,!1,x,!1,!0,!1,!1,1,x,!1,!1,!1,16,x,x,!1,""),C.p,n.ax.y,x,0,!1,x,x,x,x,x,!1,new B.enl(d),x,new A.z(0,10,0,10),x,x,!1,!1,!1,o*0.4),new A.n(x,30,x,x)],y.a),C.f,x,C.c,C.i,x,C.o),x,x),x)}}
+B=c[2]
+C=c[370]
+D=a.updateHolder(c[575],D)
+E=c[1055]
 var z=a.updateTypes([])
-B.enj.prototype={
-$0(){A.Q(this.a,!1).H(null)
-return null},
-$S:0}
-B.enk.prototype={
-$0(){},
-$S:6}
-B.enl.prototype={
-$0(){A.Q(this.a,!1).H(null)
-$.ch().a8U()},
-$S:6};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(B.c1I,A.r)
-w(A.aK,[B.enj,B.enk,B.enl])})()
-A.aw(b.typeUniverse,JSON.parse('{"c1I":{"r":[],"h":[]}}'))
-var y={a:A.t("C<h>")}};
-(a=>{a["BKOL8aIouTNoRmF3W+mI2RzPa8o="]=a.current})($__dart_deferred_initializers__);
+var y={b:A.t("@")};(function constants(){E.aqV=new A.ag(983069,"MaterialIcons",null,!1)})()};
+(a=>{a["UYy2Ig1feQnyIgw5DAPWzdDjGL0="]=a.current})($__dart_deferred_initializers__);

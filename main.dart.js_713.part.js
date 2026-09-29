@@ -1,67 +1,98 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,B={bbQ:function bbQ(d,e,f,g,h,i){var _=this
-_.c=d
-_.d=e
-_.e=f
-_.f=g
-_.r=h
-_.a=i},cay:function cay(d,e,f,g){var _=this
-_.c=d
-_.d=e
-_.e=f
-_.a=g},caM:function caM(d,e,f){this.c=d
-this.d=e
-this.a=f},eN0:function eN0(d){this.a=d},caF:function caF(d,e,f,g){var _=this
-_.c=d
-_.d=e
-_.e=f
-_.a=g},
-krw(d){var x=null,w=d.length
-if(w>C.d.gad(E.Fs))return A.e("toLong",x,x,!0)
-if(w<10)return A.e("toShort",x,x,!0)
-return x},
-kry(d){var x,w=null,v=d.length
-if(v>11)return A.e("toLong",w,w,!0)
-if(C.m.p(d," "))return A.e("cantWriteSpaces",w,w,!0)
-x=A.b5("^[A-Za-z\\s]+$",!0,!1,!1)
-if(!x.b.test(d))return A.e("canContainOnlyEnglishChars",w,w,!0)
-if(v<3)return A.e("toShort",w,w,!0)
-return w}},D,E
+$__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,C,D,B={
+a9w(d,e,f){return B.l0A(d,e,f)},
+l0A(d,e,f){var x=0,w=A.l(y.v),v,u,t,s,r,q,p,o,n,m
+var $async$a9w=A.h(function(g,h){if(g===1)return A.i(h,w)
+for(;;)switch(x){case 0:m={}
+m.a=null
+x=3
+return A.c($.aK().M6(C.e2,d,A.d("pickWorkerToAddHimClients",null,null,!0)),$async$a9w)
+case 3:u=h
+if(u==null){x=1
+break}t=m.a=$.B().b.h(0,u)
+if(t==null){x=1
+break}s=t.Y
+r=$.B()
+x=s>=A.as7(r.a)?4:5
+break
+case 4:x=6
+return A.c(A.jt(d,A.d("forMoreClientsSub",null,null,!0),!1,null,!0),$async$a9w)
+case 6:x=1
+break
+case 5:x=7
+return A.c(A.djH(d,A.bu(A.d("WhereToAddFrom",null,null,!0),null,null,null,null,null,null,null,null,null,null,null,null),B.ktn(d)),$async$a9w)
+case 7:q=h
+s=J.hu(q)
+x=s.q(q,"contacts")?8:10
+break
+case 8:t={}
+t.a=0
+J.a4(e.a,new B.iQH(m,t))
+x=11
+return A.c(D.dgF(A.as7(r.a)-t.a,!1,d,!1,m.a),$async$a9w)
+case 11:p=h
+x=9
+break
+case 10:p=null
+x=s.q(q,"manually")?12:13
+break
+case 12:x=14
+return A.c(A.bEB(!1,!1,d,t),$async$a9w)
+case 14:o=h
+x=o instanceof A.cC?15:16
+break
+case 15:s=y.w
+n=y.b
+x=17
+return A.c(A.aO("assets/animations/success_animation.json.zip",d,!1,C.N,$.bW().Us($.cc,A.o([o.c,o],s,n),t,!0),A.d("clientAddedSuccessfully",null,null,!1),null,null,!0,null,!1,!0,null,!0,C.Q,!1).ai(),$async$a9w)
+case 17:p=A.o([o.c,o],s,n)
+case 16:case 13:case 9:if(y.B.b(p)){J.a4(p,new B.iQI(m,e))
+e.t()
+if(f!=null&&y.F.b(p))f.$1(p)}case 1:return A.j(v,w)}})
+return A.k($async$a9w,w)},
+ktn(d){var x=null
+return A.b([new A.a7t(new B.iC3(),A.bu(A.d("Contacts",x,x,!0),x,x,x,x,x,x,A.bV(x,x,C.bm,x,x,x,x,x,x,x,x,x,x,x,C.bj,x,x,!0,x,x,x,x,x,x,x,x),x,x,x,x,x)),new A.a7t(new B.iC4(),A.bu(A.d("manually",x,x,!0),x,x,x,x,x,x,A.bV(x,x,C.bm,x,x,x,x,x,x,x,x,x,x,x,C.bj,x,x,!0,x,x,x,x,x,x,x,x),x,x,x,x,x))],y.r)},
+iQH:function iQH(d,e){this.a=d
+this.b=e},
+iQI:function iQI(d,e){this.a=d
+this.b=e},
+iC3:function iC3(){},
+iC4:function iC4(){}}
+J=c[1]
 A=c[0]
 C=c[2]
-B=a.updateHolder(c[494],B)
-D=c[1092]
-E=c[1052]
-B.bbQ.prototype={
-l(d){var x=this,w=null,v=x.f
-return A.a2(!0,C.q,w,w,C.H,w,w,new A.D(D.bSP,A.H(A.b([new A.aL(C.aE,w,w,A.u(A.e("senderNameExplain",w,w,!0),w,!1,!1,w,!1,w,!1,w,!1,!1,!0,!1,1,w,!1,!1,!1,14,w,w,!1,""),w),new A.n(w,5,w,w),new B.caF(v,x.d,!1,w),new A.n(w,10,w,w),new A.aL(C.aE,w,w,A.u(A.e("messageContent",w,w,!0),w,!1,!1,w,!1,w,!1,w,!1,!1,!0,!1,1,w,!1,!1,!1,14,w,w,!1,""),w),new A.n(w,5,w,w),new B.cay(v,x.c,!1,w),new A.n(w,15,w,w),new B.caM(x.e,!1,w),new A.n(w,10,w,w)],y.e),C.f,w,C.c,C.i,w,C.o),w),w,0,"",!1,w,w,C.c,!1,w,w,!0,!0,w,w,w,w,!1,w,w,0.55,w,w,w)}}
-B.cay.prototype={
-l(d){var x,w,v,u,t=null,s=$.hD(),r=s.w
-r===$&&A.a()
-r=r.a.a===""&&!s.y&&!this.c
-x=A.e("messageExample",t,t,!1)
-w=C.d.gad(E.Fs)
-v=A.p(d).ax
-u=v.I
-return A.cS(!1,r,t,(u==null?v.k3:u).a0(0.7),!0,t,t,this.d,t,t,t,t,x,t,B.l0r(),t,t,t,!0,t,w,12,4,t,t,t,t,!0,t,t,!1,t,this.c,t,!0,!0,!0,!0,!0,!1,t,t,t,C.aB,t,t,t,C.dz)}}
-B.caM.prototype={
-l(d){return new A.w(this.c,new B.eN0(this),null,null,y.h)}}
-B.caF.prototype={
-l(d){var x=null,w=A.p(d).ax,v=w.I
-return A.cS(!1,!1,x,(v==null?w.k3:v).a0(0.7),!0,x,x,this.d,x,x,x,x,"SimpleTor",x,B.l0s(),x,x,x,!1,x,11,x,x,x,x,x,x,!0,x,x,!1,x,this.c,x,!0,!0,!0,!0,!0,!1,x,x,x,C.aB,x,x,x,C.kL)}}
-var z=a.updateTypes(["o?(o?)"])
-B.eN0.prototype={
-$3(d,e,f){var x,w,v=null,u=A.p(d).ax,t=u.CW
-u=t==null?u.y:t
-t=A.e("maxLengthMessageCampaign",v,v,!0)
-x=A.e(e===1?"maxLengthOneMessageCampaignExplain":"maxLengthMessageCampaignExplain",v,v,!1)
-w=C.h.m(e)
-return A.a3(v,v,0.3,v,v,A.aW(!1,!1,!1,C.c,C.f,v,!0,!1,!1,!1,v,v,8,!1,!0,!0,!1,!0,v,!1,new A.z(15,10,15,10),v,5,v,v,!1,A.a1(x,"COUNTER",w),!1,v,v,v,13,A.u(C.h.m(e),v,!1,!1,v,!1,v,!1,v,!1,!1,!0,!1,1,v,!1,!1,!1,13,v,v,!1,""),v,v,t,15,v,0,v),C.p,u,v,0,!1,v,v,v,v,v,!1,v,v,v,v,v,!1,!1,!1,v)},
-$S:238};(function installTearOffs(){var x=a._static_1
-x(B,"l0r","krw",0)
-x(B,"l0s","kry",0)})();(function inheritance(){var x=a.inheritMany,w=a.inherit
-x(A.r,[B.bbQ,B.cay,B.caM,B.caF])
-w(B.eN0,A.aJ)})()
-A.aw(b.typeUniverse,JSON.parse('{"bbQ":{"r":[],"h":[]},"cay":{"r":[],"h":[]},"caM":{"r":[],"h":[]},"caF":{"r":[],"h":[]}}'))
-var y={e:A.t("C<h>"),h:A.t("w<A>")};(function constants(){D.bSP=new A.z(20,20,20,8)})()};
-(a=>{a["+rNLgjm7uRUE07HqBEDXHP2EA4s="]=a.current})($__dart_deferred_initializers__);
+D=c[539]
+B=a.updateHolder(c[516],B)
+var z=a.updateTypes([])
+B.iQH.prototype={
+$2(d,e){if(e.CW.p(0,this.a.a.c))++this.b.a},
+$S:56}
+B.iQI.prototype={
+$2(d,e){var x,w,v
+if(e instanceof A.cC){x=this.b.a
+w=e.d
+v=A.akK(e)
+v.k3=new A.aqK()
+v.CW=A.cH([this.a.a.c],y.w)
+J.ax(x,w,v)}},
+$S:8}
+B.iC3.prototype={
+$1(d){return this.ccI(d)},
+ccI(d){var x=0,w=A.l(y.v)
+var $async$$1=A.h(function(e,f){if(e===1)return A.i(f,w)
+for(;;)switch(x){case 0:A.Q(d,!1).H("contacts")
+return A.j(null,w)}})
+return A.k($async$$1,w)},
+$S:57}
+B.iC4.prototype={
+$1(d){return this.ccH(d)},
+ccH(d){var x=0,w=A.l(y.v)
+var $async$$1=A.h(function(e,f){if(e===1)return A.i(f,w)
+for(;;)switch(x){case 0:A.Q(d,!1).H("manually")
+return A.j(null,w)}})
+return A.k($async$$1,w)},
+$S:57};(function inheritance(){var x=a.inheritMany
+x(A.bF,[B.iQH,B.iQI])
+x(A.aF,[B.iC3,B.iC4])})()
+var y={b:A.t("cC"),r:A.t("C<a7t?>"),F:A.t("F<n,cC>"),B:A.t("F<@,@>"),w:A.t("n"),v:A.t("~")}};
+(a=>{a["5pGw+R2sGmVehXYuVXVvuvdKPTY="]=a.current})($__dart_deferred_initializers__);
