@@ -24,6 +24,6 @@ A.mq=new B.me(3,3,"creditCard")
 A.wB=new B.me(4,4,"bankTransfer")
 A.EL=new B.me(5,5,"paypal")
 A.mr=new B.me(-1,0,"unpaid")
-A.aoe=new B.me(11,7,"other")
-A.u8=y([A.mr,A.qX,A.zC,A.mq,A.wB,A.EL,A.wA,A.aoe],C.t("C<me>"))})()};
-(a=>{a["YSCQt5uM+nTL/QPgP4OUj6Zet6s="]=a.current})($__dart_deferred_initializers__);
+A.aob=new B.me(11,7,"other")
+A.u8=y([A.mr,A.qX,A.zC,A.mq,A.wB,A.EL,A.wA,A.aob],C.t("C<me>"))})()};
+(a=>{a["VscbnmysgmHoqEzuVBKXqLbnpUA="]=a.current})($__dart_deferred_initializers__);

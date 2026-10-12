@@ -1,30 +1,30 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,D,B={
-jRb(d){return new B.bJ9(d,null)},
-bJ9:function bJ9(d,e){this.c=d
+jQX(d){return new B.bJ6(d,null)},
+bJ6:function bJ6(d,e){this.c=d
 this.a=e},
-doR:function doR(d){this.a=d},
-doS:function doS(){},
-doT:function doT(d,e){this.a=d
+doO:function doO(d){this.a=d},
+doP:function doP(){},
+doQ:function doQ(d,e){this.a=d
 this.b=e}}
 A=c[0]
 C=c[2]
 D=c[701]
 B=a.updateHolder(c[338],B)
-B.bJ9.prototype={
-l(d){var x=null,w=D.e0(!1,x,x,x,new B.doR(d),new B.doS(),!0,!0,!0,!1,x),v=A.u(A.d("crewMemberInvited",x,x,!0),x,!1,!1,x,!1,x,!1,x,!1,!1,!0,!1,1,x,!1,!1,!1,18,x,x,!1,""),u=$.an.n(),t=A.d("crewMemberInvitedExplain",x,x,!0),s=A.iz(this.c.b)
+B.bJ6.prototype={
+l(d){var x=null,w=D.e0(!1,x,x,x,new B.doO(d),new B.doP(),!0,!0,!0,!1,x),v=A.u(A.d("crewMemberInvited",x,x,!0),x,!1,!1,x,!1,x,!1,x,!1,!1,!0,!1,1,x,!1,!1,!1,18,x,x,!1,""),u=$.an.n(),t=A.d("crewMemberInvitedExplain",x,x,!0),s=A.iz(this.c.b)
 t=A.u(A.a1(t,"PHONE_NUMBER",s),C.B,!1,!1,x,!1,x,!1,x,!1,!1,!0,!1,1,x,!1,!1,!1,14,x,x,!0,"")
 s=A.q(d)
-return A.H(A.b([w,new A.m(x,15,x,x),v,new A.m(u*0.7,x,t,x),new A.m(x,15,x,x),new A.cj(A.a0(!0,C.q,x,x,C.F,x,x,new A.D(C.aX,A.aU(A.u(A.d("shareInviteLink",x,x,!0),x,!1,!1,x,!1,x,!1,x,!1,!0,!1,!1,1,x,!1,!1,!1,16,x,x,!1,""),x,x),x),s.ax.y,0,"",!1,x,x,C.c,!1,x,new A.z(20,0,20,0),!0,!0,x,x,x,x,!1,x,x,0.55,x,x,x),new B.doT(this,d),0.3,C.M,x),new A.m(x,30,x,x)],y.e),C.f,x,C.c,C.i,x,C.o)}}
+return A.H(A.b([w,new A.m(x,15,x,x),v,new A.m(u*0.7,x,t,x),new A.m(x,15,x,x),new A.cj(A.a0(!0,C.q,x,x,C.F,x,x,new A.D(C.aX,A.aT(A.u(A.d("shareInviteLink",x,x,!0),x,!1,!1,x,!1,x,!1,x,!1,!0,!1,!1,1,x,!1,!1,!1,16,x,x,!1,""),x,x),x),s.ax.y,0,"",!1,x,x,C.c,!1,x,new A.z(20,0,20,0),!0,!0,x,x,x,x,!1,x,x,0.55,x,x,x),new B.doQ(this,d),0.3,C.M,x),new A.m(x,30,x,x)],y.e),C.f,x,C.c,C.i,x,C.o)}}
 var z=a.updateTypes([])
-B.doR.prototype={
+B.doO.prototype={
 $0(){A.Q(this.a,!1).H(null)
 return null},
 $S:0}
-B.doS.prototype={
+B.doP.prototype={
 $0(){},
 $S:6}
-B.doT.prototype={
+B.doQ.prototype={
 $0(){var x=0,w=A.l(y.p),v=this,u,t,s,r,q,p,o
 var $async$$0=A.h(function(d,e){if(d===1)return A.i(e,w)
 for(;;)switch(x){case 0:q=y.h.a(v.b.gb8())
@@ -38,16 +38,16 @@ o=u.a
 t=o.CW
 o=t==null?o.R8:t
 o=A.a1("https://simpletor.app/business/BUSINESS_URL/add-crew-member","BUSINESS_URL",o)
-t=A.ef(q.cE(0,null),C.P)
-s=q.gM(0)
+t=A.ej(q.cE(0,null),C.P)
+s=q.gN(0)
 r=t.a
 t=t.b
-A.aig(p+"\n"+o,new A.aj(r,t,r+s.a,t+s.b),null)
+A.aif(p+"\n"+o,new A.aj(r,t,r+s.a,t+s.b),null)
 return A.j(null,w)}})
 return A.k($async$$0,w)},
 $S:3};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(B.bJ9,A.r)
-w(A.aI,[B.doR,B.doS,B.doT])})()
-A.av(b.typeUniverse,JSON.parse('{"bJ9":{"r":[],"f":[]}}'))
+x(B.bJ6,A.r)
+w(A.aI,[B.doO,B.doP,B.doQ])})()
+A.av(b.typeUniverse,JSON.parse('{"bJ6":{"r":[],"f":[]}}'))
 var y={e:A.t("C<f>"),p:A.t("aS"),h:A.t("at?")}};
-(a=>{a["1qWw/cSWHPZR6anZLu6CZLbRe2A="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["T8Kn+3WMZ1+zPcn7+dYO0J84D5A="]=a.current})($__dart_deferred_initializers__);
