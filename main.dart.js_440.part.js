@@ -1,25 +1,83 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var C,B={mZ:function mZ(d,e,f){this.c=d
-this.a=e
-this.b=f}},A
-C=c[0]
-B=a.updateHolder(c[683],B)
-A=c[953]
-B.mZ.prototype={
-L(){return"ExpenseDocumentType."+this.b},
-ghC(){switch(this.a){case 0:return"expenseDocTypePaymentConfirmation"
-case 1:return"expenseDocTypeTaxInvoice"
-case 2:return"expenseDocTypeTaxInvoiceReceipt"
-case 3:return"expenseDocTypeCreditInvoice"
-case 4:return"expenseDocTypeReceipt"
-case 5:return"expenseDocTypeDonationReceipt"}}}
-var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
-y(B.mZ,C.iJ)})();(function constants(){var y=a.makeConstList
-A.p_=new B.mZ(20,0,"paymentConfirmation")
-A.kZ=new B.mZ(305,1,"taxInvoice")
-A.tK=new B.mZ(320,2,"taxInvoiceReceipt")
-A.zB=new B.mZ(330,3,"creditInvoice")
-A.qV=new B.mZ(400,4,"receipt")
-A.qW=new B.mZ(405,5,"donationReceipt")
-A.FU=y([A.p_,A.kZ,A.tK,A.zB,A.qV,A.qW],C.t("C<mZ>"))})()};
-(a=>{a["DW29ydEx0feMkrmEwYJUU/gHBi8="]=a.current})($__dart_deferred_initializers__);
+$__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,C,D,B={
+doY(d,e,f,g,h){return B.kYh(d,e,f,g,h)},
+kYh(d,e,f,g,h){var x=0,w=A.l(y.e),v,u,t,s,r,q,p,o
+var $async$doY=A.h(function(i,j){if(i===1)return A.i(j,w)
+for(;;)switch(x){case 0:p={}
+o=$.eP().a.h(0,h)
+o.toString
+if(f==null){u=o.e
+u===$&&A.a()
+t=u}else t=f
+if(e==null){o=o.d
+o===$&&A.a()
+s=o}else s=e
+x=3
+return A.c(B.j77(d,g),$async$doY)
+case 3:if(j!==!0){v=!1
+x=1
+break}r=J.P(t.a,s).c
+r.N(0,g.b)
+p.a=0
+q=A.o(y.w,y.q)
+r.A(0,new B.iUC(p,q))
+J.P(t.a,s).c=q
+t.t()
+v=!0
+x=1
+break
+case 1:return A.j(v,w)}})
+return A.k($async$doY,w)},
+iUC:function iUC(d,e){this.a=d
+this.b=e},
+j77(d,e){var x=0,w=A.l(y.h),v,u
+var $async$j77=A.h(function(f,g){if(f===1)return A.i(g,w)
+for(;;)switch(x){case 0:if(e==null){v=null
+x=1
+break}u=A.d("deleting",null,null,!0)
+x=3
+return A.c(A.h5(null,A.bB(A.d("doDeleteTreatment",null,null,!0)+'  - "'+e.z+'" ?',null,null,null,null,null,null,null,C.B,null,null,null),d,null,new B.j78(),new B.j79(),!0,u),$async$j77)
+case 3:v=g
+x=1
+break
+case 1:return A.j(v,w)}})
+return A.k($async$j77,w)},
+j78:function j78(){},
+j79:function j79(){},
+aKO(d,e,f,g,h,i,j){var x=0,w=A.l(y.b),v
+var $async$aKO=A.h(function(k,l){if(k===1)return A.i(l,w)
+for(;;)switch(x){case 0:A.az("addOrUpdateTreatment")
+x=3
+return A.c(A.fO(d,null,D.kkb(e,f,g,h,i,j)),$async$aKO)
+case 3:v=l
+x=1
+break
+case 1:return A.j(v,w)}})
+return A.k($async$aKO,w)}}
+J=c[1]
+A=c[0]
+C=c[2]
+D=c[413]
+B=a.updateHolder(c[546],B)
+var z=a.updateTypes([])
+B.iUC.prototype={
+$2(d,e){var x=this.a,w=x.a
+e.b=C.i.m(w)
+this.b.i(0,C.i.m(w),e);++x.a},
+$S:16}
+B.j78.prototype={
+$1(d){A.R(d,!1).I(!1)
+return null},
+$S:5}
+B.j79.prototype={
+$1(d){return this.ckQ(d)},
+ckQ(d){var x=0,w=A.l(y.v)
+var $async$$1=A.h(function(e,f){if(e===1)return A.i(f,w)
+for(;;)switch(x){case 0:A.R(d,!1).I(!0)
+return A.j(null,w)}})
+return A.k($async$$1,w)},
+$S:60};(function inheritance(){var x=a.inherit,w=a.inheritMany
+x(B.iUC,A.bx)
+w(A.aG,[B.j78,B.j79])})()
+var y={w:A.t("m"),q:A.t("ew"),e:A.t("D"),b:A.t("@"),h:A.t("D?"),v:A.t("~")}};
+(a=>{a["xW5yRpilplx1oorDP5m0+p/ykXc="]=a.current})($__dart_deferred_initializers__);

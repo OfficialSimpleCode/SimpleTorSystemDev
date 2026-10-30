@@ -1,33 +1,78 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,B,C,D={
-awC(d,e,f){var x=0,w=A.l(y.b),v,u,t
-var $async$awC=A.h(function(g,h){if(g===1)return A.i(h,w)
-for(;;)switch(x){case 0:t=J
-x=5
-return A.c(A.aQ(d,A.aP("simpleInvoiceSupplierPage","")),$async$awC)
-case 5:x=t.I(h,!0)?3:4
-break
-case 3:A.ay("simpleInvoiceSupplierPage")
-u=C.kaD(e,f)
-x=$.af?6:8
-break
-case 6:x=9
-return A.c(A.eE(null,u,d,null),$async$awC)
-case 9:x=7
-break
-case 8:x=10
-return A.c(A.eP(u,d,$.aU().at,null,null),$async$awC)
-case 10:case 7:v=h
-x=1
-break
-case 4:new A.R(A.d("thereIsProblem",null,null,!0),B.r,B.u,B.v,d).A()
-case 1:return A.j(v,w)}})
-return A.k($async$awC,w)}}
+$__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,C,B={c5W:function c5W(){var _=this
+_.a=null
+_.r=_.f=_.e=_.d=_.c=_.b=$},epu:function epu(d){this.a=d}}
 J=c[1]
 A=c[0]
-B=c[2]
-C=c[319]
-D=a.updateHolder(c[556],D)
-var z=a.updateTypes([])
-var y={b:A.t("@")}};
-(a=>{a["jPKNpiJrp7GY1KDDMBnEY53l0os="]=a.current})($__dart_deferred_initializers__);
+C=c[2]
+B=a.updateHolder(c[605],B)
+B.c5W.prototype={
+d1u(){var x,w=this.r
+w===$&&A.a()
+x=w.a
+w.sl(0,x+1)
+return x},
+gc7p(){var x,w=$.d8().b.p1.gKs(),v=this.e
+v===$&&A.a()
+x=A.af(w).j("aT<1>")
+w=A.Q(new A.aT(w,J.jJQ(v.a),x),x.j("V.E"))
+return w},
+a_N(d,e){var x,w=this.e
+w===$&&A.a()
+x=A.eM(w.a,y.c)
+if(e)x.J(0,d)
+else x.Fk(d)
+this.e.sl(0,x)},
+gcte(){var x,w=this,v=w.a
+if(v==null)return!1
+x=w.e
+x===$&&A.a()
+return!A.a87(w.bGu(x.a),w.bGu(v.w))},
+bGu(d){var x=$.d8().b.p1.gKs(),w=A.eM(x,A.af(x).c)
+return J.ix(d,w.gi1(w)).eY(0)},
+geKw(){var x=$.d8().b.p1.gKs(),w=A.eM(x,A.af(x).c)
+x=this.e
+x===$&&A.a()
+x=J.ix(x.a,new B.epu(w)).cJ(0)
+C.d.fL(x)
+return x},
+goC(){var x,w,v=this,u=v.a,t=v.e
+t===$&&A.a()
+x=t.a
+if(u==null){t=v.c
+t===$&&A.a()
+w=!0
+if(C.l.ad(t.a.a).length===0){t=v.d
+t===$&&A.a()
+if(C.l.ad(t.a.a).length===0){t=$.d8().b.p1.gKs()
+if(A.a87(x,A.eM(t,A.af(t).c))){t=v.f
+t===$&&A.a()
+t=!J.I(t.a,90)}else t=w}else t=w}else t=w
+return t}t=v.c
+t===$&&A.a()
+if(C.l.ad(t.a.a)===u.d){t=v.d
+t===$&&A.a()
+t=C.l.ad(t.a.a)!==u.e||v.gcte()}else t=!0
+return t},
+FO(){var x=null,w=this.c
+w===$&&A.a()
+w=C.l.ad(w.a.a).length
+if(w===0)return A.d("apiTokenNameRequired",x,x,!0)
+if(w>100)return A.d("apiTokenNameTooLong",x,x,!0)
+if(this.gc7p().length===0)return A.d("apiTokenScopesRequired",x,x,!0)
+return x},
+c5R(d){var x
+this.a=d
+x=this.r
+x===$&&A.a()
+x.sl(0,x.a+1)}}
+var z=a.updateTypes(["~()"])
+B.epu.prototype={
+$1(d){return!this.a.n(0,d)},
+$S:15};(function installTearOffs(){var x=a._instance_0u
+x(B.c5W.prototype,"gbAR","d1u",0)})();(function inheritance(){var x=a.inherit
+x(B.c5W,A.ap)
+x(B.epu,A.aG)})()
+var y={c:A.t("m")};(function lazyInitializers(){var x=a.lazyFinal
+x($,"lHB","pN",()=>new B.c5W())})()};
+(a=>{a["SpCT4KTPHGgxF0Vc7KSudLoiYOA="]=a.current})($__dart_deferred_initializers__);

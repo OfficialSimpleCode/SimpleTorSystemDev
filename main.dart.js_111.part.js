@@ -1,117 +1,71 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,E,B={
-jTv(){return new B.b5O(null)},
-b5O:function b5O(d){this.a=d},
-cM5:function cM5(d){var _=this
-_.d=$
-_.e=d
+$__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,C,B={
+kqi(){return new B.bax(null)},
+bax:function bax(d){this.a=d},
+cXb:function cXb(d,e,f,g){var _=this
+_.d=d
+_.e=e
+_.f=f
+_.r=g
 _.c=_.a=null},
-hzg:function hzg(d){this.a=d},
-hze:function hze(d){this.a=d},
-hzd:function hzd(d){this.a=d},
-hzf:function hzf(d){this.a=d},
-hzc:function hzc(d){this.a=d},
-hzb:function hzb(d){this.a=d},
-hza:function hza(d){this.a=d}},D,F
+hW6:function hW6(d){this.a=d},
+hW4:function hW4(d){this.a=d},
+hW3:function hW3(d){this.a=d},
+hW5:function hW5(){}},D,E
+J=c[1]
 A=c[0]
 C=c[2]
-E=c[676]
-B=a.updateHolder(c[218],B)
-D=c[692]
-F=c[128]
-B.b5O.prototype={
-P(){return new B.cM5(new A.K(!1,$.a_(),y.l))}}
-B.cM5.prototype={
-a5(){this.a9()
-var x=$.bR()
-this.d=new A.K(x.bm.a,$.a_(),y.n)
-this.e.sk(0,x.az.a)},
-l(d){var x=null,w=$.ag?$.dW.n():x
-return new A.n(w,x,A.bF(C.b7,A.H(A.b([E.eb(!1,x,x,x,new B.hzd(d),new B.hze(this),!0,!0,!1,!0,x),A.u(A.e("documentDate",x,x,!0),x,!1,!1,x,!1,x,!1,x,!1,!1,!0,!1,1,x,!1,!1,!1,16,x,x,!1,""),new A.w(this.e,new B.hzf(this),x,x,y.m),new A.n(x,30,x,x)],y.e),C.f,x,C.c,C.i,x,C.o),C.M,!1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,new B.hzg(d),x,x,x,x,x,x,x,!1,C.aa),x)},
-grk(){var x,w,v=null,u="dd-MM-yyyy"
-if(this.gb6n()!=null){x=this.gb6n()
+B=a.updateHolder(c[236],B)
+D=c[714]
+E=c[767]
+B.bax.prototype={
+R(){var x=$.a_()
+return new B.cXb(new A.bT(C.bc,x),new A.bT(C.bc,x),new A.J(A.am(y.g),x,y.f),new A.b2(null,y.o))}}
+B.cXb.prototype={
+a5(){var x,w
+this.a9()
+x=$.bN()
+w=x.bz
+this.f.sl(0,A.eM(w,A.af(w).c))
+this.d.sb5(0,x.aD)},
+k(d){var x=this,w=null,v=$.ag?$.fs.p():w,u=A.dF(!1,w,w,w,new B.hW3(d),new B.hW4(x),!0,!0,!1,!0,w,w),t=A.u(A.d("sendingOnMail",w,w,!0),w,!1,!1,w,!1,w,!1,w,!1,!1,!0,!1,1,w,!1,!1,!1,16,w,w,!1,""),s=D.adt(x.e,5,"emailsThatTheDocumentWillSendTo","emailsPickerExplainForDocument",x.f,w,!0),r=A.r(d).ax,q=r.CW
+r=q==null?r.y:q
+q=y.e
+return new A.n(v,w,A.bE(C.b3,A.hc(C.zt,A.G(A.b([u,t,s,new A.bd(new A.F(C.og,A.G(A.b([new A.n(w,25,w,w),A.cM(!1,!1,r,w,!0,w,w,x.d,w,w,w,w,w,w,new B.hW5(),w,A.d("additionalEmailContent",w,w,!1),w,!0,w,w,w,3,w,w,w,w,!1,w,w,!0,w,!1,w,!0,!0,!0,!0,!0,!1,w,w,w,C.aA,w,w,w,C.aC),new A.aS(C.aD,w,w,new A.F(E.FR,A.u(A.d("additionalEmailContentExplain",w,w,!1),C.aQ,!1,!1,w,!1,w,!1,w,!1,!1,!0,!1,0.5,w,!1,!1,!1,12,w,w,!1,""),w),w),new A.n(w,30,w,w)],q),C.h,w,C.c,C.j,w,C.f),w),!0,!0,w,C.c,w)],q),C.h,w,C.c,C.j,w,C.f),x.r),C.L,!1,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,new B.hW6(d),w,w,w,w,w,w,w,!1,C.a9),w)},
+qM(){var x,w,v,u,t=this,s=null,r=t.r.gac()
+if(r!=null&&!r.ez()){x=t.c
 x.toString
-return A.J(u,v).ah(A.J(u,v).C(x),!1,!1)}x=$.dc().b.k1
-w=Date.now()
-return A.fi(A.J(u,v).ah(A.J(u,v).C(new A.T(w,0,!1)),!1,!1),A.a6(x.a-1,0,0,0,0,0))},
-geax(){var x=null,w="dd-MM-yyyy",v=$.dc().b.k1,u=Date.now(),t=A.fi(A.J(w,x).ah(A.J(w,x).C(new A.T(u,0,!1)),!1,!1),A.a6(v.a-1,0,0,0,0,0)),s=this.gb6n()
-if(s!=null&&A.df(t)<s.gU()){v=Date.now()
-return A.a0(A.J(w,x).ah(A.J(w,x).C(new A.T(v,0,!1)),!1,!1).gU(),1,1,0,0,0,0,0)}return t},
-bZ7(d){var x=this.e
-x.sk(0,!x.a)
-x.t()},
-gb6n(){var x=null,w="dd-MM-yyyy",v=$.bR().cz.a,u=v==null?x:v.e
-if(u==null)return x
-return A.J(w,x).ah(A.J(w,x).C(u),!1,!1)}}
+new A.S(A.d("ToLongField",s,s,!0),C.r,C.u,C.v,x).v()
+return}x=t.e
+w=C.l.ad(x.a.a)
+if(w.length!==0&&A.a_t(w)==null){v=t.c
+v.toString
+D.iJe(v,t.f,5,s,x)}u=$.bN()
+u.bz=J.ev(t.f.a)
+u.aD=t.d.a.a
+u.a3h()
+x=t.c
+x.toString
+A.R(x,!1).I(s)}}
 var z=a.updateTypes([])
-B.hzg.prototype={
-$0(){return A.cB(this.a)},
+B.hW6.prototype={
+$0(){return A.cy(this.a)},
 $S:0}
-B.hze.prototype={
-$0(){var x=this.a,w=$.bR(),v=w.bm,u=x.d
-u===$&&A.a()
-v.sk(0,u.a)
-u=w.cj
-u.sk(0,!0)
-w.az.sk(0,x.e.a)
-w.bm.t()
-u.t()
-w.afr()
-x=x.c
-x.toString
-A.Q(x,!1).H(null)
+B.hW4.prototype={
+$0(){return this.a.qM()},
+$S:0}
+B.hW3.prototype={
+$0(){A.R(this.a,!1).I(null)
 return null},
 $S:0}
-B.hzd.prototype={
-$0(){A.Q(this.a,!1).H(null)
-return null},
-$S:0}
-B.hzf.prototype={
-$3(d,e,f){var x,w,v,u,t,s,r,q,p,o=null,n="dd-MM-yyyy",m=this.a,l=m.d
-l===$&&A.a()
-l=l.a
-x=m.e
-w=x.a?m.geax():m.grk()
-v=Date.now()
-v=A.J(n,o).ah(A.J(n,o).C(new A.T(v,0,!1)),!1,!1)
-u=m.d.a
-t=A.p(d).ax
-s=t.CW
-t=s==null?t.y:s
-s=x.a
-r=y.e
-s=A.ab(!1,o,!1,!1,!1,!1,C.D,o,!0,!1,D.c47,19,!0,o,!0,!s,o,o,o,"createDocFromEarlierDate",!1,!1,!1,!0,o,o,o,new B.hza(m),!0,o,o,!0,!1,o,o,!0,o,o,o,o,!0,!0,o,A.R(A.b([new A.n(10,o,o,o),new A.cR(s,new B.hzb(m),o)],r),C.f,o,C.c,C.i,0,o,o),o,o,!0,o,0.3)
-x=x.a
-q=A.e("createDocFromEarlierDateExplain",o,o,!0)
-p=C.h.m(A.df(new A.T(Date.now(),0,!1)))
-q=A.a1(q,"CURRENT_YEAR",p)
-p=C.h.m(A.df(new A.T(Date.now(),0,!1))-1)
-return A.H(A.b([new F.aqD(l,w,u,v,"",new B.hzc(m),!0,new A.jx()),A.a2(!0,C.q,o,o,C.H,o,o,A.H(A.b([new A.bY(s,o,!1,o),A.dG(C.R,0,new A.bY(A.ab(!1,o,!1,!1,!1,!1,C.D,o,!0,!1,o,19,!0,o,!1,!0,o,o,o,A.a1(q,"LAST_YEAR",p),!1,!1,!1,!0,o,o,o,o,!0,o,o,!1,!1,o,o,!0,o,o,o,o,!0,!0,o,new A.n(o,o,o,o),o,o,!1,o,0.3),o,!1,o),!1,o,x)],r),C.f,o,C.c,C.i,o,C.o),t,0,"",!1,o,o,C.c,!1,o,o,!1,!0,o,o,o,o,!1,o,o,0.55,o,o,o)],r),C.f,o,C.c,C.i,o,C.o)},
-$S:96}
-B.hzc.prototype={
-$1(d){var x=this.a,w=x.d
-w===$&&A.a()
-w.sk(0,d)
-x.d.t()},
-$S:140}
-B.hzb.prototype={
-$2(d,e){return this.caa(d,e)},
-caa(d,e){var x=0,w=A.m(y.f),v,u=this
-var $async$$2=A.i(function(f,g){if(f===1)return A.j(g,w)
-for(;;)switch(x){case 0:v=u.a.bZ7(0)
-x=1
-break
-case 1:return A.k(v,w)}})
-return A.l($async$$2,w)},
-$S:14}
-B.hza.prototype={
-$0(){return this.a.bZ7(0)},
-$S:0};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(B.b5O,A.V)
-x(B.cM5,A.Y)
-w(A.aK,[B.hzg,B.hze,B.hzd,B.hza])
-w(A.aJ,[B.hzf,B.hzc])
-x(B.hzb,A.bN)})()
-A.aw(b.typeUniverse,JSON.parse('{"b5O":{"V":[],"h":[]},"cM5":{"Y":["b5O"]}}'))
-var y={e:A.t("C<h>"),m:A.t("w<E>"),n:A.t("K<T>"),l:A.t("K<E>"),f:A.t("~")};(function constants(){D.c47=new A.ah(59569,"MaterialIcons",null,!1)})()};
-(a=>{a["TDRgHUyoglbz8PtDFd6+kmo7EhE="]=a.current})($__dart_deferred_initializers__);
+B.hW5.prototype={
+$1(d){var x=d.length
+return x>2000?A.d("ToLongField",null,null,!0):null},
+$S:24};(function inheritance(){var x=a.inherit,w=a.inheritMany
+x(B.bax,A.W)
+x(B.cXb,A.X)
+w(A.aH,[B.hW6,B.hW4,B.hW3])
+x(B.hW5,A.aG)})()
+A.au(b.typeUniverse,JSON.parse('{"bax":{"W":[],"f":[]},"cXb":{"X":["bax"]}}'))
+var y={e:A.t("B<f>"),o:A.t("b2<iW>"),g:A.t("m"),f:A.t("J<b_<m>>")}};
+(a=>{a["GKPzUvLRDfOfDuFwhYgMqCe93Jo="]=a.current})($__dart_deferred_initializers__);

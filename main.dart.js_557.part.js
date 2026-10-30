@@ -1,16 +1,18 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
-kaH(){return new C.cuF(null)},
-cuF:function cuF(d){this.a=d}},D
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B={
+bMv(d,e,f){var x=0,w=A.l(y.f),v
+var $async$bMv=A.h(function(g,h){if(g===1)return A.i(h,w)
+for(;;)switch(x){case 0:x=2
+return A.c(A.cm(A.a6(0,0,0,0,0,1),null,y.b),$async$bMv)
+case 2:x=3
+return A.c($.rP().Y_($.C().a.ry,f,!0),$async$bMv)
+case 3:v=h
+if(e!=null){e.sl(0,v)
+e.t()}d.$1(v)
+return A.j(null,w)}})
+return A.k($async$bMv,w)}}
 A=c[0]
-B=c[2]
-C=a.updateHolder(c[150],C)
-D=c[432]
-C.cuF.prototype={
-l(d){var x=null,w=A.q(d),v=$.af?$.dW.n():x,u=y.a
-return A.as(x,A.H(A.b([D.jkx(x,B.cQ,!1,x,!0,!0),A.dR(x,x,x,x,x),A.H(A.b([new A.D(B.Eu,new A.dy("assets/animations/cuntact_us_animation.json.zip",Math.min($.b6.n()*0.3,500),x,x,x,x),x),A.u(A.d("SupportDscription",x,x,!0),B.B,!1,!1,x,!1,x,!1,x,!1,!1,!0,!1,0.7,x,!1,!1,!1,16,x,x,!1,"")],u),B.f,x,B.c,B.i,x,B.o),new A.m(x,30,x,x)],u),B.f,x,B.bl,B.i,x,B.o),B.p,w.ax.k2,x,x,x,x,x,x,new A.z(0,0,0,30),x,x,v)}}
-var z=a.updateTypes([]);(function inheritance(){var x=a.inherit
-x(C.cuF,A.r)})()
-A.av(b.typeUniverse,JSON.parse('{"cuF":{"r":[],"f":[]}}'))
-var y={a:A.t("C<f>")}};
-(a=>{a["spjsYPaRcskUSDJMTSKZPhYjKQ8="]=a.current})($__dart_deferred_initializers__);
+B=a.updateHolder(c[447],B)
+var z=a.updateTypes([])
+var y={b:A.t("@"),f:A.t("~")}};
+(a=>{a["x3Sm1mMLZu6Ap5eepc7HM96iAHE="]=a.current})($__dart_deferred_initializers__);

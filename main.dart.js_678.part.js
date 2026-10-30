@@ -1,69 +1,18 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,D,C={
-awt(d,e,f,g,h){var x=0,w=A.l(y.f),v,u,t
-var $async$awt=A.h(function(i,j){if(i===1)return A.i(j,w)
-for(;;)switch(x){case 0:x=e.a===1?3:4
-break
-case 3:u={}
-u.a=null
-t=A.Q(d,!1)
-x=5
-return A.c(A.aO("assets/animations/success_animation.json.zip",d,!1,B.N,C.deR(new A.aa(e,A.P(e).j("aa<2>")).ga4(0),f,g,null,h).U(new C.iO0(u),y.e),"",null,t,!0,null,!0,!0,null,!1,B.Q,!1).ai(),$async$awt)
-case 5:u=u.a
-if(u==null){new A.R(A.d("invoiceNotFound",null,null,!1),B.r,B.u,B.v,d).A()
-x=1
-break}x=6
-return A.c(A.aws(d,!h,u,null),$async$awt)
-case 6:x=1
-break
-case 4:x=7
-return A.c(A.aQ(d,A.aP("invoicesReferencePicker","")),$async$awt)
-case 7:if(j!==!0){new A.R(A.d("thereIsProblem",null,null,!0),B.r,B.u,B.v,d).A()
-v=null
-x=1
-break}A.ay("invoicesReferencePicker")
-x=8
-return A.c(A.bR(d,null,!0,0.85,!1,0.7,!1,null,!0,!0,null,!0,!0,D.k0f(e,null,f,g,h),1,!0).b7(),$async$awt)
-case 8:v=j
-x=1
-break
-case 1:return A.j(v,w)}})
-return A.k($async$awt,w)},
-deR(d,e,f,g,h){var x=0,w=A.l(y.o),v,u,t,s
-var $async$deR=A.h(function(i,j){if(i===1)return A.i(j,w)
-for(;;)switch(x){case 0:x=h?3:5
-break
-case 3:u=$.dr()
-t=d.a
-s=d.b
-x=6
-return A.c(u.biR(s,t,A.K("MM-yyyy",null).D(s),d.c),$async$deR)
-case 6:s=j
-t=s
-x=4
-break
-case 5:u=$.dr()
-t=d.a
-s=d.b
-x=7
-return A.c(u.Sr(t,A.K("MM-yyyy",null).D(s),e,f),$async$deR)
-case 7:s=j
-t=s
-case 4:v=t
-x=1
-break
-case 1:return A.j(v,w)}})
-return A.k($async$deR,w)},
-iO0:function iO0(d){this.a=d}}
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
+kuc(d){return new C.ccA(d,null)},
+ccA:function ccA(d,e){this.c=d
+this.a=e}}
 A=c[0]
 B=c[2]
-D=c[250]
-C=a.updateHolder(c[613],C)
-var z=a.updateTypes([])
-C.iO0.prototype={
-$1(d){this.a.a=d
-return d!=null},
-$S:815};(function inheritance(){var x=a.inherit
-x(C.iO0,A.aF)})()
-var y={e:A.t("E"),o:A.t("e5?"),f:A.t("~")}};
-(a=>{a["YrD36+75OizNIoAvTNXfG011MSE="]=a.current})($__dart_deferred_initializers__);
+C=a.updateHolder(c[178],C)
+C.ccA.prototype={
+k(d){var x=null,w=$.ag?$.dz.p():x,v=A.r(d),u=A.u(A.d("navigateToBusiness",x,x,!0),x,!0,!1,A.r(d).ax.y,!1,x,!1,x,!1,!1,!1,!1,1,x,!1,!1,!1,18,x,x,!1,""),t=this.c,s=t==null?x:B.l.ad(t).length!==0
+if(s===!0)t.toString
+else t=A.d("defaultTextForHiddenAddress",x,x,!1)
+return A.at(x,A.G(A.b([u,new A.n(x,10,x,x),A.u(t,x,!0,!1,x,!1,x,!1,x,!1,!1,!0,!1,1,x,!1,!1,!1,15,x,x,!1,""),new A.n(x,30,x,x)],y.a),B.h,x,B.c,B.j,x,B.f),B.p,v.ax.k2,x,x,x,x,x,x,new A.A(30,0,30,0),x,x,w)}}
+var z=a.updateTypes([]);(function inheritance(){var x=a.inherit
+x(C.ccA,A.p)})()
+A.au(b.typeUniverse,JSON.parse('{"ccA":{"p":[],"f":[]}}'))
+var y={a:A.t("B<f>")}};
+(a=>{a["f1p6gKysZoKRKg1a8EhogMgqFs0="]=a.current})($__dart_deferred_initializers__);

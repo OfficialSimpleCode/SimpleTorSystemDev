@@ -1,16 +1,6 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var C,A={XF:function XF(d,e,f){this.c=d
-this.a=e
-this.b=f}},B
-C=c[0]
-A=a.updateHolder(c[687],A)
-B=c[964]
-A.XF.prototype={
-L(){return"PaymentTerms."+this.b},
-ghC(){switch(this.a){case 0:return"paymentTermsImmediate"
-case 1:return"paymentTermsNet0"
-default:return"paymentTermsNetDays"}}}
-var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
-y(A.XF,C.iJ)})();(function constants(){B.aT3=new A.XF(-1,0,"immediate")
-B.pM=new A.XF(0,1,"net0")})()};
-(a=>{a["YsQ6owUFjxYl+k0e47pFgY/hmhM="]=a.current})($__dart_deferred_initializers__);
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B
+A=c[0]
+B=c[1160]
+var z=a.updateTypes([]);(function constants(){B.atR=new A.ac(63645,"MaterialIcons",null,!1)})()};
+(a=>{a["tsb0+WnGsdyH/AJcIYYdCs9RqCY="]=a.current})($__dart_deferred_initializers__);
