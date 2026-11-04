@@ -11,6 +11,6 @@ ghu(){switch(this.a){case 0:return"paymentTermsImmediate"
 case 1:return"paymentTermsNet0"
 default:return"paymentTermsNetDays"}}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
-y(A.Yn,C.ia)})();(function constants(){B.aWI=new A.Yn(-1,0,"immediate")
+y(A.Yn,C.ia)})();(function constants(){B.aWR=new A.Yn(-1,0,"immediate")
 B.qu=new A.Yn(0,1,"net0")})()};
-(a=>{a["OwIDLdqT/ptQQ2KAu060En5gcO0="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["AaN60DsGhEJJ8MsVGG7vq617uBI="]=a.current})($__dart_deferred_initializers__);

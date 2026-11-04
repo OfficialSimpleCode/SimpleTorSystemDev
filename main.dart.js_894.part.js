@@ -24,6 +24,6 @@ A.n0=new B.mV(3,3,"creditCard")
 A.xw=new B.mV(4,4,"bankTransfer")
 A.Gf=new B.mV(5,5,"paypal")
 A.n1=new B.mV(-1,0,"unpaid")
-A.ar8=new B.mV(11,7,"other")
-A.v9=y([A.n1,A.rG,A.AE,A.n0,A.xw,A.Gf,A.xv,A.ar8],C.t("B<mV>"))})()};
-(a=>{a["kgjjXQhnUtmPCJHZ429Y0o190II="]=a.current})($__dart_deferred_initializers__);
+A.arh=new B.mV(11,7,"other")
+A.v9=y([A.n1,A.rG,A.AE,A.n0,A.xw,A.Gf,A.xv,A.arh],C.t("B<mV>"))})()};
+(a=>{a["Qfq2bMHazb2dswxX8B9HXVzWJhY="]=a.current})($__dart_deferred_initializers__);

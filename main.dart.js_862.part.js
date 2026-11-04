@@ -8,6 +8,6 @@ A.a2a.prototype={
 M(){return"FilterInvoiceStatuses."+this.b}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
 y(A.a2a,C.ia)})();(function constants(){B.rJ=new A.a2a(0,"all")
-B.a44=new A.a2a(1,"refund")
-B.a45=new A.a2a(2,"notRefund")})()};
-(a=>{a["ccWM9w/pbbZQRkx+zpfucUc6DcI="]=a.current})($__dart_deferred_initializers__);
+B.a4d=new A.a2a(1,"refund")
+B.a4e=new A.a2a(2,"notRefund")})()};
+(a=>{a["fxi5nOPdvmJ2OI+ZYTssnvP3OHw="]=a.current})($__dart_deferred_initializers__);

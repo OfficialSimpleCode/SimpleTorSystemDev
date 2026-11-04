@@ -1,9 +1,9 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,E,F,B={
-fSA(d,e,f,g,h,i,j){return new B.czU(e,g,f,d,j,h,i,null)},
-cAj:function cAj(d,e){this.a=d
+fSB(d,e,f,g,h,i,j){return new B.czV(e,g,f,d,j,h,i,null)},
+cAk:function cAk(d,e){this.a=d
 this.b=e},
-czU:function czU(d,e,f,g,h,i,j,k){var _=this
+czV:function czV(d,e,f,g,h,i,j,k){var _=this
 _.c=d
 _.d=e
 _.e=f
@@ -12,9 +12,9 @@ _.r=h
 _.w=i
 _.y=j
 _.a=k},
-fSC:function fSC(d,e){this.a=d
+fSD:function fSD(d,e){this.a=d
 this.b=e},
-fSB:function fSB(d){this.a=d}},D,G
+fSC:function fSC(d){this.a=d}},D,G
 A=c[0]
 C=c[2]
 E=c[725]
@@ -22,15 +22,15 @@ F=c[710]
 B=a.updateHolder(c[480],B)
 D=c[975]
 G=c[586]
-B.cAj.prototype={
+B.cAk.prototype={
 M(){return"SimpleInvoiceFileWatchPreviewType."+this.b}}
-B.czU.prototype={
+B.czV.prototype={
 k(d){var x,w,v=null
 if(!this.d.$0())return A.fM()
 x=A.r(d).ax
 w=x.CW
 x=w==null?x.y:w
-return A.a4(v,v,0.3,v,v,A.bc(new A.F(new A.A(14,8,14,8),A.U(A.b([A.u(A.d("watch",v,v,!0),v,!1,!1,v,!1,v,!1,v,!1,!1,!1,!0,1,v,!1,!1,!1,13,v,v,!1,""),new A.n(5,v,v,v),new A.ai(C.k0,18,!1,1,!1,!1,!1,A.r(d).ax.y,v)],y.u),C.h,v,C.c,C.M,0,v,v,C.f),v),v,v,!1,!1,!1,v,v,v,v,new B.fSC(this,d),8,v),C.p,x,v,0,!1,v,v,v,v,v,!1,v,v,v,8,v,!1,!1,!1,v)},
+return A.a4(v,v,0.3,v,v,A.bc(new A.F(new A.A(14,8,14,8),A.U(A.b([A.u(A.d("watch",v,v,!0),v,!1,!1,v,!1,v,!1,v,!1,!1,!1,!0,1,v,!1,!1,!1,13,v,v,!1,""),new A.n(5,v,v,v),new A.ai(C.k0,18,!1,1,!1,!1,!1,A.r(d).ax.y,v)],y.u),C.h,v,C.c,C.M,0,v,v,C.f),v),v,v,!1,!1,!1,v,v,v,v,new B.fSD(this,d),8,v),C.p,x,v,0,!1,v,v,v,v,v,!1,v,v,v,8,v,!1,!1,!1,v)},
 Pz(d){return this.dqF(d)},
 dqF(d){var x=0,w=A.l(y.v),v,u=this,t,s,r
 var $async$Pz=A.h(function(e,f){if(e===1)return A.i(f,w)
@@ -62,13 +62,13 @@ break
 case 9:x=!r?15:17
 break
 case 15:x=18
-return A.c(G.aL4(d,new B.fSB(s),u.r),$async$Pz)
+return A.c(G.aL5(d,new B.fSC(s),u.r),$async$Pz)
 case 18:x=16
 break
 case 17:t=u.e.$0()
 if(t==null||t.length===0){x=1
 break}x=19
-return A.c(A.aL3(d,t,u.r),$async$Pz)
+return A.c(A.aL4(d,t,u.r),$async$Pz)
 case 19:case 16:x=7
 break
 case 7:case 1:return A.j(v,w)}})
@@ -77,7 +77,7 @@ aaV(d,e,f){return this.drE(d,e,f)},
 drE(d,e,f){var x=0,w=A.l(y.v),v=this
 var $async$aaV=A.h(function(g,h){if(g===1)return A.i(h,w)
 for(;;)switch(x){case 0:x=2
-return A.c(F.als(!1,e,0,A.b([new E.Z1(v.r,"image/png",0,d,f,null,!1,null,null,null)],y.a),!1),$async$aaV)
+return A.c(F.alt(!1,e,0,A.b([new E.Z1(v.r,"image/png",0,d,f,null,!1,null,null,null)],y.a),!1),$async$aaV)
 case 2:return A.j(null,w)}})
 return A.k($async$aaV,w)},
 ayu(){var x=0,w=A.l(y.e),v,u=this
@@ -90,7 +90,7 @@ break
 case 1:return A.j(v,w)}})
 return A.k($async$ayu,w)}}
 var z=a.updateTypes([])
-B.fSC.prototype={
+B.fSD.prototype={
 $0(){var x=0,w=A.l(y.v),v,u=this
 var $async$$0=A.h(function(d,e){if(d===1)return A.i(e,w)
 for(;;)switch(x){case 0:x=3
@@ -101,7 +101,7 @@ break
 case 1:return A.j(v,w)}})
 return A.k($async$$0,w)},
 $S:2}
-B.fSB.prototype={
+B.fSC.prototype={
 $0(){var x=0,w=A.l(y.o),v,u=this
 var $async$$0=A.h(function(d,e){if(d===1)return A.i(e,w)
 for(;;)switch(x){case 0:v=u.a
@@ -110,10 +110,10 @@ break
 case 1:return A.j(v,w)}})
 return A.k($async$$0,w)},
 $S:426};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(B.cAj,A.ia)
-x(B.czU,A.p)
-w(A.aH,[B.fSC,B.fSB])})()
-A.au(b.typeUniverse,JSON.parse('{"czU":{"p":[],"f":[]}}'))
-var y={E:A.t("ZH"),a:A.t("B<Z1>"),u:A.t("B<f>"),o:A.t("fl"),e:A.t("D"),v:A.t("~")};(function constants(){D.b2B=new B.cAj(0,"image")
-D.b2C=new B.cAj(1,"pdf")})()};
-(a=>{a["6PA2EWrJ2KvkE/XTQ05yt5L3wdk="]=a.current})($__dart_deferred_initializers__);
+x(B.cAk,A.ia)
+x(B.czV,A.p)
+w(A.aH,[B.fSD,B.fSC])})()
+A.au(b.typeUniverse,JSON.parse('{"czV":{"p":[],"f":[]}}'))
+var y={E:A.t("ZH"),a:A.t("B<Z1>"),u:A.t("B<f>"),o:A.t("fl"),e:A.t("D"),v:A.t("~")};(function constants(){D.b2K=new B.cAk(0,"image")
+D.b2L=new B.cAk(1,"pdf")})()};
+(a=>{a["Jf9eyUExunTCRfUveEHKs/lG2Nc="]=a.current})($__dart_deferred_initializers__);
