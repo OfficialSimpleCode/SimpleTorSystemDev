@@ -1,9 +1,9 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,C,B={
-k4t(d,e,f){var y,x,w,v,u={},t=$.eP().a.h(0,e)
+k4f(d,e,f){var y,x,w,v,u={},t=$.eP().a.h(0,e)
 t.toString
 y=u.a=0
-J.a7(f,new B.iLV(u))
+J.a7(f,new B.iLK(u))
 x=u.a
 w=t.k3
 w===$&&A.a()
@@ -14,15 +14,15 @@ v=x+t
 u.a=v
 if(v>1440){new A.S(A.d("theTotalDurationOfTheTreatmentOverDay",null,null,!1),C.r,C.u,C.v,d).v()
 return!1}return!0},
-iLV:function iLV(d){this.a=d}}
+iLK:function iLK(d){this.a=d}}
 J=c[1]
 A=c[0]
 C=c[2]
 B=a.updateHolder(c[548],B)
 var z=a.updateTypes([])
-B.iLV.prototype={
+B.iLK.prototype={
 $2(d,e){var y=this.a
 y.a=y.a+(e.a+e.b)},
 $S:131};(function inheritance(){var y=a.inherit
-y(B.iLV,A.bx)})()};
-(a=>{a["hCnFcJSGXA5I/OIQd+mEBJAVfFg="]=a.current})($__dart_deferred_initializers__);
+y(B.iLK,A.bx)})()};
+(a=>{a["NZ1YYq5qrU2UBxfTnDs/lNOKrU4="]=a.current})($__dart_deferred_initializers__);
